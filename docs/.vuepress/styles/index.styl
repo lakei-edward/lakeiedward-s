@@ -1,0 +1,322 @@
+@require '~vuepress-plugin-tabs/dist/themes/default.styl'
+
+// 评论区颜色重置
+.gt-container
+  .gt-ico-tip
+    &::after
+      content: '。( Win + . ) 或 ( ⌃ + ⌘ + ␣ ) 打开表情'
+      color: #999
+      font-size: .8rem
+  .gt-meta
+    border-color var(--borderColor)!important
+  .gt-comments-null
+    color var(--textColor)
+    opacity .5
+  .gt-header-textarea
+    color var(--textColor)
+    background rgba(180,180,180,0.1)!important
+  .gt-btn
+    border-color $accentColor!important
+    background-color $accentColor!important
+  .gt-btn-preview
+    background-color rgba(255,255,255,0)!important
+    color $accentColor!important
+  a
+    color $accentColor!important
+  .gt-svg svg
+    fill $accentColor!important
+  .gt-comment-content,.gt-comment-admin .gt-comment-content
+    background-color rgba(150,150,150,0.1)!important
+    &:hover
+      box-shadow 0 0 25px rgba(150,150,150,.5)!important
+    .gt-comment-body
+      color var(--textColor)!important
+
+
+// qq徽章
+.qq
+  position: relative;
+.qq::after
+  content: "可撩";
+  background: $accentColor;
+  color:#fff;
+  padding: 0 5px;
+  border-radius: 10px;
+  font-size:12px;
+  position: absolute;
+  top: -4px;
+  right: -35px;
+  transform:scale(0.85);
+
+// demo模块图标颜色
+body .vuepress-plugin-demo-block__wrapper
+  &,.vuepress-plugin-demo-block__display
+    border-color rgba(160,160,160,.3)
+  .vuepress-plugin-demo-block__footer:hover
+    .vuepress-plugin-demo-block__expand::before
+      border-top-color: $accentColor !important;
+      border-bottom-color: $accentColor !important;
+    svg
+      fill: $accentColor !important;
+
+/* 以下部分为 浅色模式 个人自定义样式 */
+//.theme-mode-light
+
+.home-wrapper .banner .banner-conent .features
+  margin-top: 5.5rem !important;
+
+//p
+//  font-size 14px;
+
+.content__default
+  p, ul, ol, li
+    line-height: 2;
+    font-size: 14px;
+    marign: 7px 0 7px 0 !important;
+
+// `>` 代码注释块
+blockquote
+  font-size: 1rem;
+  padding: 0.5rem 0 0.5rem 1rem;
+  color: #999;
+  background-color: rgba(27, 31, 35, 0.05);
+
+// 导航栏左侧图片
+.navbar .logo
+  border-radius 50%;
+
+// 首页右侧信息栏 title
+.blogger .name
+  text-align center !important;
+
+// 首页右侧信息栏 头像
+.avatar
+  text-align center;
+.avatar img
+  border-radius 50%;
+  width 64% !important;
+  height 100%;
+  margin 20px 10px 10px 10px;
+
+// 首页右侧信息栏
+.post-list .post
+  border-radius 0.5rem;
+
+// 文章部分
+.content__default h2
+  margin-top: -4.1rem !important;
+  // H2 标题伪类
+  &:before
+    position: relative;
+    left: -0.5rem;
+    top: 1.9rem;
+    display: block;
+    width: 1px;
+    height: 1.8rem;
+    content: "";
+    border-left: 5px solid #3178c6;
+    border-radius: 3px 0 0 3px;
+
+// H2 标题 前面的 # 定位
+h2 .header-anchor
+  position: relative;
+  left: -0.6rem;
+
+.content__default h3
+  margin-top: -5.1rem !important;
+  margin-bottom: 10px !important;
+  // H3 标题伪类
+  &:before
+    position: relative;
+    left: -0.5rem;
+    top: 1.5rem;
+    bottom: 2px;
+    display: block;
+    width 1px;
+    height: 1.3rem;
+    content: "";
+    border-left: 5px solid #e67e22;
+    border-radius: 3px 0 0 3px;
+
+// H3 标题 前面的 # 定位
+h3 .header-anchor
+  position: relative;
+  left: -0.6rem;
+
+// https://doc.xugaoyi.com/pages/d0d7eb/#%E4%BF%A1%E6%81%AF%E6%A1%86%E5%AE%B9%E5%99%A8
+// 信息框容器样式
+.custom-block
+  border-radius 8px;
+
+// 文章右侧导航栏 2 级标题
+.level2 > a
+  font-size 14px;
+  font-weight 600;
+
+// 文章右侧导航栏
+.right-menu-wrapper .right-menu-content .right-menu-item
+  border-top: none;
+  border-right: none;
+  padding-bottom: 0.5rem !important;
+
+// 文章右侧导航栏 3 级标题
+.level3 > a
+  font-size 13px;
+
+// 分类页面的分类栏
+.main-wrapper .main-right >*
+  width 280px !important;
+
+@media (max-width: 719px) {
+  .main-wrapper .main-right .card-box {
+    margin: 0 auto !important;
+    margin-bottom 0.9rem !important;
+    border-radius: 0;
+    width: 100% !important;
+  }
+}
+
+.page-edit .edit-link {
+  margin: 4px 4px 4px 0 !important;
+}
+
+// 文章中底部的 标签
+.page-edit .tags a {
+  font-weight 500;
+  height: 20px;
+  line-height: 20px;
+  margin: 0 0.4rem !important;
+  background-color: #039be5 !important;
+  color #fff !important;
+  border-radius: 6px !important;
+}
+
+.page-edit .last-updated {
+  margin: 4px 0px 4px 0 !important;
+}
+
+.page >* {
+  max-width: 80% !important;
+}
+
+.theme-vdoing-content:not(.custom) {
+  max-width 100% !important;
+}
+
+.sidebar-button
+  .icon
+    margin-right 0;
+
+.page-nav, .page-edit
+  max-width initial !important;
+
+// Algolia 搜索容器
+.search-box .DocSearch.DocSearch-Button {
+  cursor: text;
+  width: 10rem;
+  height: 2rem;
+  color: #5b5b5b;
+  border: 1px solid var(--border-color);
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+  padding: 0 0.5rem 0 0rem;
+  outline: none;
+  transition: all 0.2s ease;
+  background: transparent;
+  background-size: 1rem;
+}
+
+.search-box .DocSearch-Button-Container {
+  margin-left: 0.4rem;
+}
+
+.search-box .DocSearch-Button .DocSearch-Search-Icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 0.1rem;
+}
+
+.search-box .DocSearch-Button-Placeholder {
+  font-size: 0.8rem;
+}
+
+.search-box .DocSearch-Button-Keys {
+  position: absolute;
+  right: 0.1rem;
+}
+
+.search-box .DocSearch-Button-Key {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+//.sidebarpages/2f8f50/
+//  width auto !important;
+
+.articleInfo-wrap {
+  max-width initial !important;
+}
+
+.content__default ul {
+  margin-top 0;
+}
+
+
+.right-menu-wrapper .right-menu-content .right-menu-item.level4 a {
+  font-size 12px;
+}
+
+.theme-mode-light
+
+  .custom-block.tip {
+    border: 1px solid #646cff;
+    border-left-width: 0.5rem;
+    border-left-style: solid;
+    border-radius: 8px;
+    padding: 16px 16px 8px;
+    line-height: 24px;
+    font-size: 14px;
+    color: #454ce1;
+    background-color: rgba(100, 108, 255, .08);
+  }
+
+  .custom-block.warning {
+    border: 1px solid #ffc517;
+    border-left-width: 0.5rem;
+    border-left-style: solid;
+    border-radius: 8px;
+    padding: 16px 16px 8px;
+    line-height: 24px;
+    font-size: 14px;
+    color: #ad850e;
+    background-color: rgba(255, 197, 23, .08);
+  }
+
+  .custom-block.danger {
+    border: 1px solid #f26d6d;
+    border-left-width: 0.5rem;
+    border-left-style: solid;
+    border-radius: 8px;
+    padding: 16px 16px 8px;
+    line-height: 24px;
+    font-size: 14px;
+    color: #f26d6d;
+    background-color: rgba(253, 241, 241, .08);
+  }
+
+  .custom-block.note {
+    border: 1px solid #157bae;
+    border-left-width: 0.5rem;
+    border-left-style: solid;
+    border-radius: 8px;
+    padding: 16px 16px 8px;
+    line-height: 24px;
+    font-size: 14px;
+    color: #157bae;
+    background-color: rgba(232, 245, 250, 0.8);
+  }
+
+  .custom-block.details {
+    background-color: rgb(249, 250, 251);
+  }
