@@ -85,6 +85,13 @@ module.exports = (options, ctx) => {
         }
       }],
       ['container', {
+        type: 'luckyui',
+        defaultTitle: {
+          '/': '笔记',
+          '/en/': 'NOTE'
+        }
+      }],
+      ['container', {
         type: 'tip',
         defaultTitle: {
           '/': '提示',

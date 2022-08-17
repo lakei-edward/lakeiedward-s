@@ -17,6 +17,7 @@ module.exports = {
         { text: '收藏', link: '/whell/web/' },
         { text: '书单', link: '/whell/book/' },
         { text: '关于', link: '/about/' },
+        { text: 'luckyui', link: '/luckyui/home/' },
       ]
     },
   ]

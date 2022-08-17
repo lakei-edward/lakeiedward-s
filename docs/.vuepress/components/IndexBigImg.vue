@@ -21,7 +21,7 @@ export default {
     // 这里是这几个属性的默认值，建议在 themeConfig 进行配置，它们将覆盖这几个属性值
     let navColor = 1;
     let switchNavColor = false;
-    let bgTimeColor = false;
+    // let bgTimeColor = false;
     let bgTimeColorArray = [
       "transparent",
       "rgba(255, 148, 48, .2",
@@ -49,10 +49,10 @@ export default {
         this.$themeConfig.indexImg.switchNavColor == undefined
           ? switchNavColor
           : this.$themeConfig.indexImg.switchNavColor;
-      bgTimeColor =
-        this.$themeConfig.indexImg.bgTimeColor == undefined
-          ? bgTimeColor
-          : this.$themeConfig.indexImg.bgTimeColor;
+      // bgTimeColor =
+      //   this.$themeConfig.indexImg.bgTimeColor == undefined
+      //     ? bgTimeColor
+      //     : this.$themeConfig.indexImg.bgTimeColor;
       bgTimeColorArray =
         this.$themeConfig.indexImg.bgTimeColorArray == undefined
           ? bgTimeColorArray
@@ -91,9 +91,9 @@ export default {
           : this.$themeConfig.indexImg.bubbleNum;
     }
     // 初始化
-    if (bgTimeColor) {
-      this.bgTimeColor(bgTimeColorArray);
-    }
+    // if (bgTimeColor) {
+    //   this.bgTimeColor(bgTimeColorArray);
+    // }
     setTimeout(() => {
       this.noBgBlur();
     }, 100);

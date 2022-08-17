@@ -11,7 +11,7 @@ let catalogueData = {}; // 目录页数据
  * @param {String} sourceDir .md文件所在源目录(一般是docs目录)
  * @param {Boolean} collapsable  是否可折叠
  */
-function createSidebarData (sourceDir, collapsable) {
+function createSidebarData(sourceDir, collapsable) {
   const sidebarData = {};
   const tocs = readTocs(sourceDir);
   tocs.forEach(toc => { // toc是每个目录的绝对路径
@@ -44,7 +44,7 @@ module.exports = createSidebarData;
  * 读取指定目录下的文件绝对路径
  * @param {String} root 指定的目录
 */
-function readTocs (root) {
+function readTocs(root) {
   const result = [];
   const files = fs.readdirSync(root); // 读取目录,返回数组，成员是root底下所有的目录名 (包含文件夹和文件)
   files.forEach(name => {
@@ -61,7 +61,7 @@ function readTocs (root) {
  * 将碎片化文章目录(_posts)映射为对应的侧边栏配置数据
  * @param {String} root
  */
-function mapTocToPostSidebar (root) {
+function mapTocToPostSidebar(root) {
   let postSidebar = [] // 碎片化文章数据
   const files = fs.readdirSync(root); // 读取目录（文件和文件夹）,返回数组
 
@@ -105,7 +105,7 @@ function mapTocToPostSidebar (root) {
  * @param {String} prefix
  */
 
-function mapTocToSidebar (root, collapsable, prefix = '') {
+function mapTocToSidebar(root, collapsable, prefix = '') {
   let sidebar = []; // 结构化文章侧边栏数据
   const files = fs.readdirSync(root); // 读取目录（文件和文件夹）,返回数组
 
