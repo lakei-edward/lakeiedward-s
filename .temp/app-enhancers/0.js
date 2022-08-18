@@ -1,1 +1,1 @@
-export { default } from "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\.vuepress\\enhanceApp.js"
+export { default } from "F:\\lakei\\Vue\\lakeiedward's\\docs\\.vuepress\\enhanceApp.js"

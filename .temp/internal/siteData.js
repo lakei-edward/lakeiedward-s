@@ -51,6 +51,34 @@ export const siteData = {
   ],
   "pages": [
     {
+      "title": "前端",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/specification.61te6v7nuzs0.webp",
+            "description": "JavaScript、ES6、Vue框架等前端技术"
+          }
+        },
+        "title": "前端",
+        "date": "2020-03-11T21:50:53.000Z",
+        "permalink": "/web",
+        "sidebar": false,
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/00.%E7%9B%AE%E5%BD%95%E9%A1%B5/01.%E5%89%8D%E7%AB%AF.html",
+      "relativePath": "00.目录页/01.前端.md",
+      "key": "v-546a8136",
+      "path": "/web/",
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
       "title": "页面",
       "frontmatter": {
         "pageComponent": {
@@ -71,65 +99,8 @@ export const siteData = {
       },
       "regularPath": "/00.%E7%9B%AE%E5%BD%95%E9%A1%B5/02.%E6%A1%86%E6%9E%B6.html",
       "relativePath": "00.目录页/02.框架.md",
-      "key": "v-1444a338",
+      "key": "v-d7e8286a",
       "path": "/frame/",
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "更多",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "04.更多",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/specification.61te6v7nuzs0.webp",
-            "description": "学习、面试、在线工具等更多文章和页面"
-          }
-        },
-        "title": "更多",
-        "date": "2020-03-11T21:50:56.000Z",
-        "permalink": "/more",
-        "sidebar": false,
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/00.%E7%9B%AE%E5%BD%95%E9%A1%B5/04.%E6%9B%B4%E5%A4%9A.html",
-      "relativePath": "00.目录页/04.更多.md",
-      "key": "v-199562d5",
-      "path": "/more/",
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "前端",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/specification.61te6v7nuzs0.webp",
-            "description": "JavaScript、ES6、Vue框架等前端技术"
-          }
-        },
-        "title": "前端",
-        "date": "2020-03-11T21:50:53.000Z",
-        "permalink": "/web",
-        "sidebar": false,
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/00.%E7%9B%AE%E5%BD%95%E9%A1%B5/01.%E5%89%8D%E7%AB%AF.html",
-      "relativePath": "00.目录页/01.前端.md",
-      "key": "v-56b98eba",
-      "path": "/web/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
       "content": "",
@@ -157,8 +128,37 @@ export const siteData = {
       },
       "regularPath": "/00.%E7%9B%AE%E5%BD%95%E9%A1%B5/03.%E5%85%B6%E4%BB%96.html",
       "relativePath": "00.目录页/03.其他.md",
-      "key": "v-b85a3582",
+      "key": "v-239a2dd2",
       "path": "/comprehensive/",
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "更多",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "04.更多",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/specification.61te6v7nuzs0.webp",
+            "description": "学习、面试、在线工具等更多文章和页面"
+          }
+        },
+        "title": "更多",
+        "date": "2020-03-11T21:50:56.000Z",
+        "permalink": "/more",
+        "sidebar": false,
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/00.%E7%9B%AE%E5%BD%95%E9%A1%B5/04.%E6%9B%B4%E5%A4%9A.html",
+      "relativePath": "00.目录页/04.更多.md",
+      "key": "v-cd46a930",
+      "path": "/more/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
       "content": "",
@@ -183,37 +183,11 @@ export const siteData = {
         "comment": false,
         "editLink": false
       },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F1/01.%E3%80%8AHTML%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/10.学习专栏1/01.《HTML》笔记.md",
-      "key": "v-55658637",
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F/01.%E3%80%8AHTML%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/10.学习专栏/01.《HTML》笔记.md",
+      "key": "v-16117212",
       "path": "/note/html/",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "《JavaScript》笔记",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "《JavaScript》笔记",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/javascript.mhe1yhamsao.webp",
-            "description": "本章内容为博主在原教程基础上添加学习笔记，教程版权归原作者所有。来源：<a href='https://wangdoc.com/javascript/' target='_blank'>JavaScript教程</a>"
-          }
-        },
-        "title": "《JavaScript》笔记",
-        "date": "2021-10-01 11:33",
-        "permalink": "/note/javascript",
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F1/03.%E3%80%8AJavaScript%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/10.学习专栏1/03.《JavaScript》笔记.md",
-      "key": "v-1441dbff",
-      "path": "/note/javascript/",
+      "lastUpdated": "2022/08/17, 18:29:49",
       "headersStr": null,
       "content": "",
       "normalizedContent": "",
@@ -241,35 +215,9 @@ export const siteData = {
       },
       "regularPath": "/00.%E7%9B%AE%E5%BD%95%E9%A1%B5/05.%E7%BB%84%E4%BB%B6.html",
       "relativePath": "00.目录页/05.组件.md",
-      "key": "v-952a2bbe",
+      "key": "v-353232b4",
       "path": "/ui/",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "《Vue》笔记",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "《Vue》笔记",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/vue.7e1lyixe3b40.webp",
-            "description": "本章内容是博主的Vue学习笔记，非教程文档，请以官方文档为准。<a href='https://cn.vuejs.org/' target='_blank'>Vue2</a>，<a href='https://staging-cn.vuejs.org/' target='_blank'>Vue3</a>"
-          }
-        },
-        "title": "《Vue》笔记",
-        "date": "2022-03-02T14:35:19.000Z",
-        "permalink": "/note/vue",
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F1/04.%E3%80%8AVue%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/10.学习专栏1/04.《Vue》笔记.md",
-      "key": "v-5f54e725",
-      "path": "/note/vue/",
+      "lastUpdated": "2022/08/17, 18:29:49",
       "headersStr": null,
       "content": "",
       "normalizedContent": "",
@@ -293,10 +241,67 @@ export const siteData = {
         "comment": false,
         "editLink": false
       },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F1/02.%E3%80%8ACSS%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/10.学习专栏1/02.《CSS》笔记.md",
-      "key": "v-0c566af6",
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F/02.%E3%80%8ACSS%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/10.学习专栏/02.《CSS》笔记.md",
+      "key": "v-3638167c",
       "path": "/note/css/",
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "《Vue》笔记",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "《Vue》笔记",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/vue.7e1lyixe3b40.webp",
+            "description": "本章内容是博主的Vue学习笔记，非教程文档，请以官方文档为准。<a href='https://cn.vuejs.org/' target='_blank'>Vue2</a>，<a href='https://staging-cn.vuejs.org/' target='_blank'>Vue3</a>"
+          }
+        },
+        "title": "《Vue》笔记",
+        "date": "2022-03-02T14:35:19.000Z",
+        "permalink": "/note/vue",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F/04.%E3%80%8AVue%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/10.学习专栏/04.《Vue》笔记.md",
+      "key": "v-0bb1f77e",
+      "path": "/note/vue/",
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "《JavaScript》笔记",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "《JavaScript》笔记",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/javascript.mhe1yhamsao.webp",
+            "description": "本章内容为博主在原教程基础上添加学习笔记，教程版权归原作者所有。来源：<a href='https://wangdoc.com/javascript/' target='_blank'>JavaScript教程</a>"
+          }
+        },
+        "title": "《JavaScript》笔记",
+        "date": "2021-10-01 11:33",
+        "permalink": "/note/javascript",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F/03.%E3%80%8AJavaScript%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/10.学习专栏/03.《JavaScript》笔记.md",
+      "key": "v-0d8e00dc",
+      "path": "/note/javascript/",
+      "lastUpdated": "2022/08/17, 18:29:49",
       "headersStr": null,
       "content": "",
       "normalizedContent": "",
@@ -320,37 +325,11 @@ export const siteData = {
         "comment": false,
         "editLink": false
       },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F1/20.%E3%80%8A%E8%A7%84%E8%8C%83%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/10.学习专栏1/20.《规范》笔记.md",
-      "key": "v-dc6e3bf8",
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F/20.%E3%80%8A%E8%A7%84%E8%8C%83%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/10.学习专栏/20.《规范》笔记.md",
+      "key": "v-59807a5d",
       "path": "/note/specification/",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "《持续集成&交付&部署》笔记",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "《持续集成&交付&部署》笔记",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/specification.61te6v7nuzs0.webp",
-            "description": "《持续集成&交付&部署》学习笔记。"
-          }
-        },
-        "title": "《持续集成&交付&部署》笔记",
-        "date": "2022-06-02T10:48:57.000Z",
-        "permalink": "/note/continuousDelivery",
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F1/35.%E3%80%8A%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90&%E4%BA%A4%E4%BB%98&%E9%83%A8%E7%BD%B2%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/10.学习专栏1/35.《持续集成&交付&部署》笔记.md",
-      "key": "v-562f2d49",
-      "path": "/note/continuousDelivery/",
+      "lastUpdated": "2022/08/17, 18:29:49",
       "headersStr": null,
       "content": "",
       "normalizedContent": "",
@@ -374,10 +353,39 @@ export const siteData = {
         "comment": false,
         "editLink": false
       },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F1/30.%E3%80%8A%E8%BD%AF%E6%8A%80%E8%83%BD%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/10.学习专栏1/30.《软技能》笔记.md",
-      "key": "v-03fc7a8e",
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F/30.%E3%80%8A%E8%BD%AF%E6%8A%80%E8%83%BD%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/10.学习专栏/30.《软技能》笔记.md",
+      "key": "v-777e013e",
       "path": "/note/softSkill/",
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "《持续集成&交付&部署》笔记",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "《持续集成&交付&部署》笔记",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/specification.61te6v7nuzs0.webp",
+            "description": "《持续集成&交付&部署》学习笔记。"
+          }
+        },
+        "title": "《持续集成&交付&部署》笔记",
+        "date": "2022-06-02T10:48:57.000Z",
+        "permalink": "/note/continuousDelivery",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/10.%E5%AD%A6%E4%B9%A0%E4%B8%93%E6%A0%8F/35.%E3%80%8A%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90&%E4%BA%A4%E4%BB%98&%E9%83%A8%E7%BD%B2%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/10.学习专栏/35.《持续集成&交付&部署》笔记.md",
+      "key": "v-eb288740",
+      "path": "/note/continuousDelivery/",
+      "lastUpdated": "2022/08/17, 18:29:49",
       "headersStr": null,
       "content": "",
       "normalizedContent": "",
@@ -403,7 +411,7 @@ export const siteData = {
       },
       "regularPath": "/01.%E5%89%8D%E7%AB%AF/20.%E8%B8%A9%E5%9D%91%E4%B8%93%E6%A0%8F/01.%E3%80%8AElement-UI%20%E5%AE%9E%E8%B7%B5%E7%B3%BB%E5%88%97%E3%80%8B%E7%AC%94%E8%AE%B0.html",
       "relativePath": "01.前端/20.踩坑专栏/01.《Element-UI 实践系列》笔记.md",
-      "key": "v-4a92116c",
+      "key": "v-16b8ba1d",
       "path": "/note/element-ui/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
@@ -431,7 +439,7 @@ export const siteData = {
       },
       "regularPath": "/01.%E5%89%8D%E7%AB%AF/20.%E8%B8%A9%E5%9D%91%E4%B8%93%E6%A0%8F/06.%E3%80%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%20%E5%AE%9E%E8%B7%B5%E7%B3%BB%E5%88%97%E3%80%8B%E7%AC%94%E8%AE%B0.html",
       "relativePath": "01.前端/20.踩坑专栏/06.《移动端 实践系列》笔记.md",
-      "key": "v-53778ca9",
+      "key": "v-4a2e23bc",
       "path": "/note/mobile/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
@@ -459,8 +467,64 @@ export const siteData = {
       },
       "regularPath": "/01.%E5%89%8D%E7%AB%AF/20.%E8%B8%A9%E5%9D%91%E4%B8%93%E6%A0%8F/07.%E3%80%8A%E7%BB%BC%E5%90%88%E8%B8%A9%E5%9D%91%E3%80%8B%E7%AC%94%E8%AE%B0.html",
       "relativePath": "01.前端/20.踩坑专栏/07.《综合踩坑》笔记.md",
-      "key": "v-58ae5d38",
+      "key": "v-2367c592",
       "path": "/note/complex/",
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "《Git》笔记",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "《Git》笔记",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/git.53qfmrhmobo0.webp",
+            "description": "<a href='https://git-scm.com/book/zh/v2' target='_blank'>Git 官网文档</a>&nbsp;的学习笔记，以官方文档为准。"
+          }
+        },
+        "title": "《Git》笔记",
+        "date": "2022-02-28T13:39:30.000Z",
+        "permalink": "/note/git",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/20.%E8%B8%A9%E5%9D%91%E4%B8%93%E6%A0%8F/10.%E3%80%8AGit%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/20.踩坑专栏/10.《Git》笔记.md",
+      "key": "v-1f44305a",
+      "path": "/note/git/",
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "《环境》笔记",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "《环境》笔记",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/surroundings.4py6bn4koni0.webp",
+            "description": "本章内容为博主在搭建环境或者环境辅助增强时的学习笔记。"
+          }
+        },
+        "title": "《环境》笔记",
+        "date": "2022-04-21 10:13",
+        "permalink": "/node/environment",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/01.%E5%89%8D%E7%AB%AF/30.%E9%85%8D%E7%BD%AE%E4%B8%93%E6%A0%8F/30.%E3%80%8A%E7%8E%AF%E5%A2%83%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "01.前端/30.配置专栏/30.《环境》笔记.md",
+      "key": "v-0e794309",
+      "path": "/node/environment/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
       "content": "",
@@ -487,102 +551,9 @@ export const siteData = {
       },
       "regularPath": "/01.%E5%89%8D%E7%AB%AF/40.%E9%9D%A2%E8%AF%95%E4%B8%93%E6%A0%8F/01.%E3%80%8A%E9%9D%A2%E8%AF%95%E3%80%8B%E7%AC%94%E8%AE%B0.html",
       "relativePath": "01.前端/40.面试专栏/01.《面试》笔记.md",
-      "key": "v-d374486c",
+      "key": "v-51e90f1d",
       "path": "/node/interview/",
       "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "《环境》笔记",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "《环境》笔记",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/surroundings.4py6bn4koni0.webp",
-            "description": "本章内容为博主在搭建环境或者环境辅助增强时的学习笔记。"
-          }
-        },
-        "title": "《环境》笔记",
-        "date": "2022-04-21 10:13",
-        "permalink": "/node/environment",
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/30.%E9%85%8D%E7%BD%AE%E4%B8%93%E6%A0%8F/30.%E3%80%8A%E7%8E%AF%E5%A2%83%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/30.配置专栏/30.《环境》笔记.md",
-      "key": "v-52d60fb6",
-      "path": "/node/environment/",
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "Nginx - 介绍",
-      "frontmatter": {
-        "title": "Nginx - 介绍",
-        "date": "2022-02-22T13:40:42.000Z",
-        "permalink": "/pages/abfa54",
-        "categories": [
-          "前端技术"
-        ],
-        "tags": [
-          "Nginx"
-        ],
-        "author": {
-          "name": "lakeiedward",
-          "link": "https://github.com/oliver556"
-        }
-      },
-      "regularPath": "/02.%E6%A1%86%E6%9E%B6/30.%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%20-%20Nginx/01.Nginx%20-%20%E4%BB%8B%E7%BB%8D.html",
-      "relativePath": "02.框架/30.高性能服务器 - Nginx/01.Nginx - 介绍.md",
-      "key": "v-2ef9874d",
-      "path": "/pages/abfa54/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "一. 背景介绍",
-          "slug": "一-背景介绍",
-          "normalizedTitle": "一. 背景介绍",
-          "charIndex": 87
-        }
-      ],
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": "一. 背景介绍",
-      "content": "笔记\n\n欢迎来到 Nginx 的知识体系进行学习，本内容将介绍 Nginx 的来源、优点，功能等，请慢慢品用。\n\n2022-02-22 @lakeiedward\n\n\n\n * 一. 背景介绍\n\n\n\n\n# 一. 背景介绍\n\nNginx（engine x）一个具有高性能的【HTTP】和【反向代理】的【WEB 服务器】，同时也是一个【POP3 / SMTP / IMAP 代理服务器】，是由伊戈尔·赛索耶夫(俄罗斯人)使用 C 语言编写的， Nginx 的第一个版本是 2004 年 10 月 4 号发布的 0.1.0 版本。另外值得一提的是伊戈尔·赛索耶夫将 Nginx 的源码进行了开源，这也为 Nginx 的发展提供了良好的保障。",
-      "normalizedContent": "笔记\n\n欢迎来到 nginx 的知识体系进行学习，本内容将介绍 nginx 的来源、优点，功能等，请慢慢品用。\n\n2022-02-22 @lakeiedward\n\n\n\n * 一. 背景介绍\n\n\n\n\n# 一. 背景介绍\n\nnginx（engine x）一个具有高性能的【http】和【反向代理】的【web 服务器】，同时也是一个【pop3 / smtp / imap 代理服务器】，是由伊戈尔·赛索耶夫(俄罗斯人)使用 c 语言编写的， nginx 的第一个版本是 2004 年 10 月 4 号发布的 0.1.0 版本。另外值得一提的是伊戈尔·赛索耶夫将 nginx 的源码进行了开源，这也为 nginx 的发展提供了良好的保障。",
-      "charsets": {
-        "cjk": true
-      }
-    },
-    {
-      "title": "《Git》笔记",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "《Git》笔记",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/git.53qfmrhmobo0.webp",
-            "description": "<a href='https://git-scm.com/book/zh/v2' target='_blank'>Git 官网文档</a>&nbsp;的学习笔记，以官方文档为准。"
-          }
-        },
-        "title": "《Git》笔记",
-        "date": "2022-02-28T13:39:30.000Z",
-        "permalink": "/note/git",
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/01.%E5%89%8D%E7%AB%AF/20.%E8%B8%A9%E5%9D%91%E4%B8%93%E6%A0%8F/10.%E3%80%8AGit%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "01.前端/20.踩坑专栏/10.《Git》笔记.md",
-      "key": "v-ac369180",
-      "path": "/note/git/",
       "headersStr": null,
       "content": "",
       "normalizedContent": "",
@@ -608,8 +579,102 @@ export const siteData = {
       },
       "regularPath": "/03.%E5%85%B6%E4%BB%96/01.%E3%80%8A%E7%BC%96%E8%BE%91%E5%99%A8%E7%AC%94%E8%AE%B0%E3%80%8B/01.%E3%80%8A%E5%BC%80%E5%8F%91%E7%BC%96%E8%BE%91%E5%99%A8%E3%80%8B%E7%AC%94%E8%AE%B0.html",
       "relativePath": "03.其他/01.《编辑器笔记》/01.《开发编辑器》笔记.md",
-      "key": "v-8dccbc3e",
+      "key": "v-09595eb4",
       "path": "/note/idea/",
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "Nginx - 介绍",
+      "frontmatter": {
+        "title": "Nginx - 介绍",
+        "date": "2022-02-22T13:40:42.000Z",
+        "permalink": "/pages/abfa54",
+        "categories": [
+          "前端技术"
+        ],
+        "tags": [
+          "Nginx"
+        ],
+        "author": {
+          "name": "lakeiedward",
+          "link": "https://github.com/oliver556"
+        }
+      },
+      "regularPath": "/02.%E6%A1%86%E6%9E%B6/30.%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%20-%20Nginx/01.Nginx%20-%20%E4%BB%8B%E7%BB%8D.html",
+      "relativePath": "02.框架/30.高性能服务器 - Nginx/01.Nginx - 介绍.md",
+      "key": "v-499cd320",
+      "path": "/pages/abfa54/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一. 背景介绍",
+          "slug": "一-背景介绍",
+          "normalizedTitle": "一. 背景介绍",
+          "charIndex": 87
+        }
+      ],
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": "一. 背景介绍",
+      "content": "笔记\n\n欢迎来到 Nginx 的知识体系进行学习，本内容将介绍 Nginx 的来源、优点，功能等，请慢慢品用。\n\n2022-02-22 @lakeiedward\n\n\n\n * 一. 背景介绍\n\n\n\n\n# 一. 背景介绍\n\nNginx（engine x）一个具有高性能的【HTTP】和【反向代理】的【WEB 服务器】，同时也是一个【POP3 / SMTP / IMAP 代理服务器】，是由伊戈尔·赛索耶夫(俄罗斯人)使用 C 语言编写的， Nginx 的第一个版本是 2004 年 10 月 4 号发布的 0.1.0 版本。另外值得一提的是伊戈尔·赛索耶夫将 Nginx 的源码进行了开源，这也为 Nginx 的发展提供了良好的保障。",
+      "normalizedContent": "笔记\n\n欢迎来到 nginx 的知识体系进行学习，本内容将介绍 nginx 的来源、优点，功能等，请慢慢品用。\n\n2022-02-22 @lakeiedward\n\n\n\n * 一. 背景介绍\n\n\n\n\n# 一. 背景介绍\n\nnginx（engine x）一个具有高性能的【http】和【反向代理】的【web 服务器】，同时也是一个【pop3 / smtp / imap 代理服务器】，是由伊戈尔·赛索耶夫(俄罗斯人)使用 c 语言编写的， nginx 的第一个版本是 2004 年 10 月 4 号发布的 0.1.0 版本。另外值得一提的是伊戈尔·赛索耶夫将 nginx 的源码进行了开源，这也为 nginx 的发展提供了良好的保障。",
+      "charsets": {
+        "cjk": true
+      }
+    },
+    {
+      "title": "《Chrome》笔记",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "《浏览器笔记》笔记",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/chrome.bj524rcmn7c.webp",
+            "description": "浏览器文档、教程、技巧、总结等文章"
+          }
+        },
+        "title": "《Chrome》笔记",
+        "date": "2022-01-09 11:33",
+        "permalink": "/note/browser",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/03.%E5%85%B6%E4%BB%96/02.%E3%80%8A%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AC%94%E8%AE%B0%E3%80%8B/01.%E3%80%8AChrome%E3%80%8B%E7%AC%94%E8%AE%B0.html",
+      "relativePath": "03.其他/02.《浏览器笔记》/01.《Chrome》笔记.md",
+      "key": "v-6bdc9a6a",
+      "path": "/note/browser/",
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "《程序员的Mac》笔记",
+      "frontmatter": {
+        "pageComponent": {
+          "name": "Catalogue",
+          "data": {
+            "key": "《Mac》笔记",
+            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/surroundings.4py6bn4koni0.webp",
+            "description": "Mac文档、教程、技巧、总结等文章"
+          }
+        },
+        "title": "《程序员的Mac》笔记",
+        "date": "2022-01-09 11:33",
+        "permalink": "/note/mac",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/03.%E5%85%B6%E4%BB%96/03.%E3%80%8AMac%E3%80%8B%E7%AC%94%E8%AE%B0/01.%E3%80%8A%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84Mac%E3%80%8B.html",
+      "relativePath": "03.其他/03.《Mac》笔记/01.《程序员的Mac》.md",
+      "key": "v-2903043f",
+      "path": "/note/mac/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
       "content": "",
@@ -627,7 +692,7 @@ export const siteData = {
       },
       "regularPath": "/01.%E5%AF%BC%E8%88%AA%E7%AB%99.html",
       "relativePath": "01.导航站.md",
-      "key": "v-5f4e8e80",
+      "key": "v-8f46e85a",
       "path": "/navigation/",
       "headers": [
         {
@@ -738,62 +803,6 @@ export const siteData = {
       }
     },
     {
-      "title": "《Chrome》笔记",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "《浏览器笔记》笔记",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/chrome.bj524rcmn7c.webp",
-            "description": "浏览器文档、教程、技巧、总结等文章"
-          }
-        },
-        "title": "《Chrome》笔记",
-        "date": "2022-01-09 11:33",
-        "permalink": "/note/browser",
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/03.%E5%85%B6%E4%BB%96/02.%E3%80%8A%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AC%94%E8%AE%B0%E3%80%8B/01.%E3%80%8AChrome%E3%80%8B%E7%AC%94%E8%AE%B0.html",
-      "relativePath": "03.其他/02.《浏览器笔记》/01.《Chrome》笔记.md",
-      "key": "v-6cdcf757",
-      "path": "/note/browser/",
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "《程序员的Mac》笔记",
-      "frontmatter": {
-        "pageComponent": {
-          "name": "Catalogue",
-          "data": {
-            "key": "《Mac》笔记",
-            "imgUrl": "https://cdn.staticaly.com/gh/oliver556/image-hosting@master/table-of-contents/surroundings.4py6bn4koni0.webp",
-            "description": "Mac文档、教程、技巧、总结等文章"
-          }
-        },
-        "title": "《程序员的Mac》笔记",
-        "date": "2022-01-09 11:33",
-        "permalink": "/note/mac",
-        "article": false,
-        "comment": false,
-        "editLink": false
-      },
-      "regularPath": "/03.%E5%85%B6%E4%BB%96/03.%E3%80%8AMac%E3%80%8B%E7%AC%94%E8%AE%B0/01.%E3%80%8A%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84Mac%E3%80%8B.html",
-      "relativePath": "03.其他/03.《Mac》笔记/01.《程序员的Mac》.md",
-      "key": "v-5b19356c",
-      "path": "/note/mac/",
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
       "title": "《运营》笔记",
       "frontmatter": {
         "pageComponent": {
@@ -813,7 +822,7 @@ export const siteData = {
       },
       "regularPath": "/03.%E5%85%B6%E4%BB%96/04.%E3%80%8A%E8%B7%A8%E7%95%8C%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%AC%94%E8%AE%B0/01.%E3%80%8A%E8%BF%90%E8%90%A5%E3%80%8B.html",
       "relativePath": "03.其他/04.《跨界学习》笔记/01.《运营》.md",
-      "key": "v-48358932",
+      "key": "v-12eef18c",
       "path": "/note/cross-border/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
@@ -822,42 +831,98 @@ export const siteData = {
       "charsets": {}
     },
     {
-      "title": "Button 按钮",
-      "frontmatter": {
-        "title": "Button 按钮",
-        "date": "2022-03-24T15:12:58.000Z",
-        "permalink": "/luckyui/button/",
-        "categories": [
-          null
-        ],
-        "tags": [
-          null
-        ]
-      },
-      "regularPath": "/04.luckyui/01.comonent/02.button.html",
-      "relativePath": "04.luckyui/01.comonent/02.button.md",
-      "key": "v-b11831b4",
-      "path": "/luckyui/button/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "rfewr",
-          "slug": "rfewr",
-          "normalizedTitle": "rfewr",
-          "charIndex": 2
-        }
-      ],
-      "headersStr": "rfewr",
-      "content": "# rfewr",
-      "normalizedContent": "# rfewr",
-      "charsets": {}
-    },
-    {
       "title": "快速上手",
       "frontmatter": {
         "title": "快速上手",
         "date": "2022-03-24T15:12:58.000Z",
         "permalink": "/luckyui/home/",
+        "article": false,
+        "comment": false
+      },
+      "regularPath": "/04.luckyui/01.comonent/01.home.html",
+      "relativePath": "04.luckyui/01.comonent/01.home.md",
+      "key": "v-f7593ec6",
+      "path": "/luckyui/home/",
+      "headers": [
+        {
+          "level": 3,
+          "title": "lakeiedward",
+          "slug": "lakeiedward",
+          "normalizedTitle": "lakeiedward",
+          "charIndex": 2
+        }
+      ],
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": "lakeiedward",
+      "content": "# lakeiedward",
+      "normalizedContent": "# lakeiedward",
+      "charsets": {}
+    },
+    {
+      "title": "Button 按钮",
+      "frontmatter": {
+        "title": "Button 按钮",
+        "date": "2022-03-24T15:12:58.000Z",
+        "permalink": "/luckyui/button/",
+        "article": false,
+        "comment": false,
+        "editLink": false
+      },
+      "regularPath": "/04.luckyui/01.comonent/02.button.html",
+      "relativePath": "04.luckyui/01.comonent/02.button.md",
+      "key": "v-273b2fb9",
+      "path": "/luckyui/button/",
+      "headers": [
+        {
+          "level": 3,
+          "title": "默认按钮",
+          "slug": "默认按钮",
+          "normalizedTitle": "默认按钮",
+          "charIndex": 2
+        },
+        {
+          "level": 3,
+          "title": "朴素按钮",
+          "slug": "朴素按钮",
+          "normalizedTitle": "朴素按钮",
+          "charIndex": 295
+        },
+        {
+          "level": 3,
+          "title": "圆角",
+          "slug": "圆角",
+          "normalizedTitle": "圆角",
+          "charIndex": 587
+        },
+        {
+          "level": 3,
+          "title": "禁用",
+          "slug": "禁用",
+          "normalizedTitle": "禁用",
+          "charIndex": 914
+        },
+        {
+          "level": 3,
+          "title": "Attributes",
+          "slug": "attributes",
+          "normalizedTitle": "attributes",
+          "charIndex": 1277
+        }
+      ],
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": "默认按钮 朴素按钮 圆角 禁用 Attributes",
+      "content": "# 默认按钮\n\n<div>\n  <lkButton> 主要按钮 </lkButton>\n  <lkButton type=\"primary\"> 主要按钮 </lkButton>\n  <lkButton type=\"success\"> 成功按钮 </lkButton>\n  <lkButton type=\"warning\"> 警告按钮 </lkButton>\n  <lkButton type=\"danger\"> 危险按钮 </lkButton>\n  <lkButton type=\"info\"> 提示按钮 </lkButton>\n</div>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\n# 朴素按钮\n\n<div>\n  <lkButton type=\"primary\" plain> 主要按钮 </lkButton>\n  <lkButton type=\"success\" plain> 成功按钮 </lkButton>\n  <lkButton type=\"warning\" plain> 警告按钮 </lkButton>\n  <lkButton type=\"danger\" plain> 危险按钮 </lkButton>\n  <lkButton type=\"info\" plain> 提示按钮 </lkButton>\n </div>\n\n\n1\n2\n3\n4\n5\n6\n7\n\n\n\n# 圆角\n\n<div>\n  <lkButton round> 主要按钮 </lkButton>\n  <lkButton type=\"primary\" round> 主要按钮 </lkButton>\n  <lkButton type=\"success\" round> 成功按钮 </lkButton>\n  <lkButton type=\"warning\" round> 警告按钮 </lkButton>\n  <lkButton type=\"danger\" round> 危险按钮 </lkButton>\n  <lkButton type=\"info\" round> 提示按钮 </lkButton>\n</div>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\n# 禁用\n\n<div>\n  <lkButton disabled> 主要按钮 </lkButton>\n  <lkButton type=\"primary\" disabled> 主要按钮 </lkButton>\n  <lkButton type=\"success\" disabled> 成功按钮 </lkButton>\n  <lkButton type=\"warning\" disabled> 警告按钮 </lkButton>\n  <lkButton type=\"danger\" disabled> 危险按钮 </lkButton>\n  <lkButton @click=\"handlere\" type=\"info\" disabled> 提示按钮 </lkButton>\n</div>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\n# Attributes\n\n参数         说明       类型        可选值                                           默认值\ntype       类型       string    primary / success / warning / danger / info   —\nplain      是否朴素按钮   boolean   —                                             false\nround      是否朴素圆角   boolean   —                                             false\ndisabled   是否朴素禁用   boolean   —                                             false",
+      "normalizedContent": "# 默认按钮\n\n<div>\n  <lkbutton> 主要按钮 </lkbutton>\n  <lkbutton type=\"primary\"> 主要按钮 </lkbutton>\n  <lkbutton type=\"success\"> 成功按钮 </lkbutton>\n  <lkbutton type=\"warning\"> 警告按钮 </lkbutton>\n  <lkbutton type=\"danger\"> 危险按钮 </lkbutton>\n  <lkbutton type=\"info\"> 提示按钮 </lkbutton>\n</div>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\n# 朴素按钮\n\n<div>\n  <lkbutton type=\"primary\" plain> 主要按钮 </lkbutton>\n  <lkbutton type=\"success\" plain> 成功按钮 </lkbutton>\n  <lkbutton type=\"warning\" plain> 警告按钮 </lkbutton>\n  <lkbutton type=\"danger\" plain> 危险按钮 </lkbutton>\n  <lkbutton type=\"info\" plain> 提示按钮 </lkbutton>\n </div>\n\n\n1\n2\n3\n4\n5\n6\n7\n\n\n\n# 圆角\n\n<div>\n  <lkbutton round> 主要按钮 </lkbutton>\n  <lkbutton type=\"primary\" round> 主要按钮 </lkbutton>\n  <lkbutton type=\"success\" round> 成功按钮 </lkbutton>\n  <lkbutton type=\"warning\" round> 警告按钮 </lkbutton>\n  <lkbutton type=\"danger\" round> 危险按钮 </lkbutton>\n  <lkbutton type=\"info\" round> 提示按钮 </lkbutton>\n</div>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\n# 禁用\n\n<div>\n  <lkbutton disabled> 主要按钮 </lkbutton>\n  <lkbutton type=\"primary\" disabled> 主要按钮 </lkbutton>\n  <lkbutton type=\"success\" disabled> 成功按钮 </lkbutton>\n  <lkbutton type=\"warning\" disabled> 警告按钮 </lkbutton>\n  <lkbutton type=\"danger\" disabled> 危险按钮 </lkbutton>\n  <lkbutton @click=\"handlere\" type=\"info\" disabled> 提示按钮 </lkbutton>\n</div>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\n# attributes\n\n参数         说明       类型        可选值                                           默认值\ntype       类型       string    primary / success / warning / danger / info   —\nplain      是否朴素按钮   boolean   —                                             false\nround      是否朴素圆角   boolean   —                                             false\ndisabled   是否朴素禁用   boolean   —                                             false",
+      "charsets": {
+        "cjk": true
+      }
+    },
+    {
+      "title": "技术书籍",
+      "frontmatter": {
+        "title": "技术书籍",
+        "date": "2022-03-24T15:12:58.000Z",
+        "permalink": "/whell/io/",
         "categories": [
           null
         ],
@@ -865,14 +930,61 @@ export const siteData = {
           null
         ]
       },
-      "regularPath": "/04.luckyui/01.comonent/01.home.html",
-      "relativePath": "04.luckyui/01.comonent/01.home.md",
-      "key": "v-1642d68a",
-      "path": "/luckyui/home/",
-      "headersStr": null,
-      "content": "# rfewr",
-      "normalizedContent": "# rfewr",
-      "charsets": {}
+      "regularPath": "/70.%E6%94%B6%E8%97%8F%E5%A4%B9/20.%E6%88%91%E7%9A%84/01.%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D.html",
+      "relativePath": "70.收藏夹/20.我的/01.技术书籍.md",
+      "key": "v-231679a5",
+      "path": "/whell/io/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "JavaScript",
+          "slug": "javascript",
+          "normalizedTitle": "javascript",
+          "charIndex": 111
+        },
+        {
+          "level": 2,
+          "title": "Node.js",
+          "slug": "node-js",
+          "normalizedTitle": "node.js",
+          "charIndex": 536
+        },
+        {
+          "level": 2,
+          "title": "Python",
+          "slug": "python",
+          "normalizedTitle": "python",
+          "charIndex": 708
+        },
+        {
+          "level": 2,
+          "title": "Git",
+          "slug": "git",
+          "normalizedTitle": "git",
+          "charIndex": 846
+        },
+        {
+          "level": 2,
+          "title": "Nginx",
+          "slug": "nginx",
+          "normalizedTitle": "nginx",
+          "charIndex": 899
+        },
+        {
+          "level": 2,
+          "title": "Vim",
+          "slug": "vim",
+          "normalizedTitle": "vim",
+          "charIndex": 952
+        }
+      ],
+      "lastUpdated": "2022/08/17, 18:29:49",
+      "headersStr": "JavaScript Node.js Python Git Nginx Vim",
+      "content": "# 技术书籍\n\n📚 经典技术书籍 PDF 文件，涵盖：编程语言、计算机系统、网络协议、数据库、代码艺术、设计模式、算法与数据结构、系统架构、微服务、测试、程序员职业修炼等相关书籍。\n\n> 如有侵权，请联系删除！\n\n\n# JavaScript\n\n * 《你不知道的 JavaScript-上卷》（文字版）\n * 《你不知道的 JavaScript-中卷》（文字版）\n * 《你不知道的 JavaScript-下卷》（文字版）\n\n----------------------------------------\n\n * 《JavaScript 高级程序设计（第 3 版）》（文字版）\n * 《JavaScript 高级程序设计（第 4 版）》（文字版）\n\n----------------------------------------\n\n * 《JavaScript 权威指南（原书第 6 版）》（半文字版）\n\n----------------------------------------\n\n * 《JavaScript 正则表达式迷你书（1.1 版）》\n * 《JavaScript 语言精粹》（文字版）\n * 《JavaScript 设计模式》（扫描版）\n\n\n# Node.js\n\n * 《深入浅出 Node.js》（文字版）\n * 《Node.js 实战》（文字版）\n * 《Node 学习指南》（文字版）\n * 《Node 与 Express 开发》（文字版）\n * 《Node.js 开发指南》（文字版）\n * 《了不起的 Node.js》（半扫描版）\n * 《Node 即学即用》（文字版）\n\n\n# Python\n\n * 《Python 基础教程（第 2 版）》（扫描版）\n * 《Python 编程：从入门到实践》（文字版）\n * 《python 核心编程》（文字版）\n * 《Python_Cookbook》（文字版）\n * 《Python 源码剖析》（扫描版）\n\n\n# Git\n\n * 《ProGit 中文版》（文字版）\n * 《GitHub 入门与实践》（文字版）\n\n\n# Nginx\n\n * 《深入理解 Nginx：模块开发与架构解析（第 2 版）》（文字版）.pdf\n\n\n# Vim\n\n * 《Vim 实用技巧》（文字版）",
+      "normalizedContent": "# 技术书籍\n\n📚 经典技术书籍 pdf 文件，涵盖：编程语言、计算机系统、网络协议、数据库、代码艺术、设计模式、算法与数据结构、系统架构、微服务、测试、程序员职业修炼等相关书籍。\n\n> 如有侵权，请联系删除！\n\n\n# javascript\n\n * 《你不知道的 javascript-上卷》（文字版）\n * 《你不知道的 javascript-中卷》（文字版）\n * 《你不知道的 javascript-下卷》（文字版）\n\n----------------------------------------\n\n * 《javascript 高级程序设计（第 3 版）》（文字版）\n * 《javascript 高级程序设计（第 4 版）》（文字版）\n\n----------------------------------------\n\n * 《javascript 权威指南（原书第 6 版）》（半文字版）\n\n----------------------------------------\n\n * 《javascript 正则表达式迷你书（1.1 版）》\n * 《javascript 语言精粹》（文字版）\n * 《javascript 设计模式》（扫描版）\n\n\n# node.js\n\n * 《深入浅出 node.js》（文字版）\n * 《node.js 实战》（文字版）\n * 《node 学习指南》（文字版）\n * 《node 与 express 开发》（文字版）\n * 《node.js 开发指南》（文字版）\n * 《了不起的 node.js》（半扫描版）\n * 《node 即学即用》（文字版）\n\n\n# python\n\n * 《python 基础教程（第 2 版）》（扫描版）\n * 《python 编程：从入门到实践》（文字版）\n * 《python 核心编程》（文字版）\n * 《python_cookbook》（文字版）\n * 《python 源码剖析》（扫描版）\n\n\n# git\n\n * 《progit 中文版》（文字版）\n * 《github 入门与实践》（文字版）\n\n\n# nginx\n\n * 《深入理解 nginx：模块开发与架构解析（第 2 版）》（文字版）.pdf\n\n\n# vim\n\n * 《vim 实用技巧》（文字版）",
+      "charsets": {
+        "cjk": true
+      }
     },
     {
       "title": "技术书籍",
@@ -889,7 +1001,7 @@ export const siteData = {
       },
       "regularPath": "/70.%E6%94%B6%E8%97%8F%E5%A4%B9/60.%E4%B9%A6%E5%8D%95/01.%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D.html",
       "relativePath": "70.收藏夹/60.书单/01.技术书籍.md",
-      "key": "v-7d031c58",
+      "key": "v-221dd2eb",
       "path": "/whell/book/",
       "headers": [
         {
@@ -944,74 +1056,6 @@ export const siteData = {
       }
     },
     {
-      "title": "技术书籍",
-      "frontmatter": {
-        "title": "技术书籍",
-        "date": "2022-03-24T15:12:58.000Z",
-        "permalink": "/whell/io/",
-        "categories": [
-          null
-        ],
-        "tags": [
-          null
-        ]
-      },
-      "regularPath": "/70.%E6%94%B6%E8%97%8F%E5%A4%B9/20.%E6%88%91%E7%9A%84/01.%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D.html",
-      "relativePath": "70.收藏夹/20.我的/01.技术书籍.md",
-      "key": "v-7dfbc312",
-      "path": "/whell/io/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "JavaScript",
-          "slug": "javascript",
-          "normalizedTitle": "javascript",
-          "charIndex": 111
-        },
-        {
-          "level": 2,
-          "title": "Node.js",
-          "slug": "node-js",
-          "normalizedTitle": "node.js",
-          "charIndex": 536
-        },
-        {
-          "level": 2,
-          "title": "Python",
-          "slug": "python",
-          "normalizedTitle": "python",
-          "charIndex": 708
-        },
-        {
-          "level": 2,
-          "title": "Git",
-          "slug": "git",
-          "normalizedTitle": "git",
-          "charIndex": 846
-        },
-        {
-          "level": 2,
-          "title": "Nginx",
-          "slug": "nginx",
-          "normalizedTitle": "nginx",
-          "charIndex": 899
-        },
-        {
-          "level": 2,
-          "title": "Vim",
-          "slug": "vim",
-          "normalizedTitle": "vim",
-          "charIndex": 952
-        }
-      ],
-      "headersStr": "JavaScript Node.js Python Git Nginx Vim",
-      "content": "# 技术书籍\n\n📚 经典技术书籍 PDF 文件，涵盖：编程语言、计算机系统、网络协议、数据库、代码艺术、设计模式、算法与数据结构、系统架构、微服务、测试、程序员职业修炼等相关书籍。\n\n> 如有侵权，请联系删除！\n\n\n# JavaScript\n\n * 《你不知道的 JavaScript-上卷》（文字版）\n * 《你不知道的 JavaScript-中卷》（文字版）\n * 《你不知道的 JavaScript-下卷》（文字版）\n\n----------------------------------------\n\n * 《JavaScript 高级程序设计（第 3 版）》（文字版）\n * 《JavaScript 高级程序设计（第 4 版）》（文字版）\n\n----------------------------------------\n\n * 《JavaScript 权威指南（原书第 6 版）》（半文字版）\n\n----------------------------------------\n\n * 《JavaScript 正则表达式迷你书（1.1 版）》\n * 《JavaScript 语言精粹》（文字版）\n * 《JavaScript 设计模式》（扫描版）\n\n\n# Node.js\n\n * 《深入浅出 Node.js》（文字版）\n * 《Node.js 实战》（文字版）\n * 《Node 学习指南》（文字版）\n * 《Node 与 Express 开发》（文字版）\n * 《Node.js 开发指南》（文字版）\n * 《了不起的 Node.js》（半扫描版）\n * 《Node 即学即用》（文字版）\n\n\n# Python\n\n * 《Python 基础教程（第 2 版）》（扫描版）\n * 《Python 编程：从入门到实践》（文字版）\n * 《python 核心编程》（文字版）\n * 《Python_Cookbook》（文字版）\n * 《Python 源码剖析》（扫描版）\n\n\n# Git\n\n * 《ProGit 中文版》（文字版）\n * 《GitHub 入门与实践》（文字版）\n\n\n# Nginx\n\n * 《深入理解 Nginx：模块开发与架构解析（第 2 版）》（文字版）.pdf\n\n\n# Vim\n\n * 《Vim 实用技巧》（文字版）",
-      "normalizedContent": "# 技术书籍\n\n📚 经典技术书籍 pdf 文件，涵盖：编程语言、计算机系统、网络协议、数据库、代码艺术、设计模式、算法与数据结构、系统架构、微服务、测试、程序员职业修炼等相关书籍。\n\n> 如有侵权，请联系删除！\n\n\n# javascript\n\n * 《你不知道的 javascript-上卷》（文字版）\n * 《你不知道的 javascript-中卷》（文字版）\n * 《你不知道的 javascript-下卷》（文字版）\n\n----------------------------------------\n\n * 《javascript 高级程序设计（第 3 版）》（文字版）\n * 《javascript 高级程序设计（第 4 版）》（文字版）\n\n----------------------------------------\n\n * 《javascript 权威指南（原书第 6 版）》（半文字版）\n\n----------------------------------------\n\n * 《javascript 正则表达式迷你书（1.1 版）》\n * 《javascript 语言精粹》（文字版）\n * 《javascript 设计模式》（扫描版）\n\n\n# node.js\n\n * 《深入浅出 node.js》（文字版）\n * 《node.js 实战》（文字版）\n * 《node 学习指南》（文字版）\n * 《node 与 express 开发》（文字版）\n * 《node.js 开发指南》（文字版）\n * 《了不起的 node.js》（半扫描版）\n * 《node 即学即用》（文字版）\n\n\n# python\n\n * 《python 基础教程（第 2 版）》（扫描版）\n * 《python 编程：从入门到实践》（文字版）\n * 《python 核心编程》（文字版）\n * 《python_cookbook》（文字版）\n * 《python 源码剖析》（扫描版）\n\n\n# git\n\n * 《progit 中文版》（文字版）\n * 《github 入门与实践》（文字版）\n\n\n# nginx\n\n * 《深入理解 nginx：模块开发与架构解析（第 2 版）》（文字版）.pdf\n\n\n# vim\n\n * 《vim 实用技巧》（文字版）",
-      "charsets": {
-        "cjk": true
-      }
-    },
-    {
       "title": "网站轮子",
       "frontmatter": {
         "title": "网站轮子",
@@ -1021,7 +1065,7 @@ export const siteData = {
       },
       "regularPath": "/70.%E6%94%B6%E8%97%8F%E5%A4%B9/75.%E6%94%B6%E8%97%8F%E5%A4%B9/01.%E7%BD%91%E7%AB%99%E8%BD%AE%E5%AD%90.html",
       "relativePath": "70.收藏夹/75.收藏夹/01.网站轮子.md",
-      "key": "v-338f66c6",
+      "key": "v-52dd7cce",
       "path": "/whell/web/",
       "headers": [
         {
@@ -1069,138 +1113,6 @@ export const siteData = {
       }
     },
     {
-      "title": "Mac 软件",
-      "frontmatter": {
-        "title": "Mac 软件",
-        "date": "2022-03-28T17:21:46.000Z",
-        "permalink": "/whell/mac-software/",
-        "categories": [
-          null
-        ],
-        "tags": [
-          null
-        ],
-        "article": false
-      },
-      "regularPath": "/70.%E6%94%B6%E8%97%8F%E5%A4%B9/75.%E6%94%B6%E8%97%8F%E5%A4%B9/03.Mac%E8%BD%AF%E4%BB%B6.html",
-      "relativePath": "70.收藏夹/75.收藏夹/03.Mac软件.md",
-      "key": "v-2cc0de2e",
-      "path": "/whell/mac-software/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "📖. 前言",
-          "slug": "📖-前言",
-          "normalizedTitle": "📖. 前言",
-          "charIndex": 13
-        },
-        {
-          "level": 2,
-          "title": "🌟. 系统增强",
-          "slug": "🌟-系统增强",
-          "normalizedTitle": "🌟. 系统增强",
-          "charIndex": 150
-        },
-        {
-          "level": 2,
-          "title": "🌟. 应用软件",
-          "slug": "🌟-应用软件",
-          "normalizedTitle": "🌟. 应用软件",
-          "charIndex": 1352
-        },
-        {
-          "level": 2,
-          "title": "🌟. 网络工具",
-          "slug": "🌟-网络工具",
-          "normalizedTitle": "🌟. 网络工具",
-          "charIndex": 1664
-        },
-        {
-          "level": 2,
-          "title": "🌟. 媒体工具",
-          "slug": "🌟-媒体工具",
-          "normalizedTitle": "🌟. 媒体工具",
-          "charIndex": 1772
-        },
-        {
-          "level": 2,
-          "title": "🌟. 编程开发",
-          "slug": "🌟-编程开发",
-          "normalizedTitle": "🌟. 编程开发",
-          "charIndex": 2108
-        }
-      ],
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": "📖. 前言 🌟. 系统增强 🌟. 应用软件 🌟. 网络工具 🌟. 媒体工具 🌟. 编程开发",
-      "content": "# Mac 软件\n\n\n# 📖. 前言\n\n介绍\n\n关于Mac上面的软件，有很多优秀的，不过也有很多是不方便的，我希望通过这些效率软件来提高工作的质量及效率。\n\n对于各种全家桶我就不做介绍了，欢迎有收藏了优秀软件的积极交流，资金足够请支持正版\n\n2022-03-28 @lakeiedward\n\n\n# 🌟. 系统增强\n\n名称                              介绍                RELEASES版                       官网                              类别\nBetterTouchTool                 超强鼠标触控板增强         BetterTouchTool                 BetterTouchTool                 系统增强\nBartender4（Big Sur）             方便的管理菜单栏图标        Bartender4                      Bartender                       系统增强\nMacs Fan Control Pro            风扇转速调整及温度监控工具     Macs Fan Control Pro            Macs Fan Control Pro            系统增强\nApp Cleaner & Uninstaller Pro   应用深度清理卸载工具        App Cleaner & Uninstaller Pro   App Cleaner & Uninstaller Pro   系统清理\nAlfred Powerpack                本地搜索及应用快速启动       Alfred Powerpack                Alfred Powerpack                系统增强\nPaste                           剪切板增强工具           Paste                           Paste                           系统增强\nFliqlo                          数字时钟 mac 屏幕保护程序   Fliqlo                          Fliqlo                          系统增强\nBartender3                      方便的管理菜单栏图标        Bartender3                      Bartender                       系统增强\nCheat Sheet                     快速查看 mac 应用快捷键    Cheat Sheet                     Cheat Sheet                     系统增强\n\n\n# 🌟. 应用软件\n\n名称                        介绍                       RELEASES版   官网     类别\nYoink                     一款移动复制文件效率工具             Yoink       -      文件管理\nKeka                      好用的压缩解压工具 （官方版 + 无需破解）   Keka        Keka   压缩刻录\nPerpetual Calendar(万年历)   菜单栏日历以及天气预报工具            万年历         万年历    日历时间\n\n\n# 🌟. 网络工具\n\n名称        介绍         RELEASES版   官网        类别\nDownie4   最好的视频下载器   Downie4     Downie4   下载工具\n\n\n# 🌟. 媒体工具\n\n名称               介绍                       RELEASES版        官网               类别\nIINA             非常强大的视频播放器（官方版 + 无需破解)   IINA             IINA             视频播放\nhprc             NAS 局域网视频播放神器            nPlayer          nPlayer          视频播放\nOmniPlayer Pro   全能影音播放器                  OmniPlayer Pro   OmniPlayer Pro   视频播放\n\n\n# 🌟. 编程开发\n\n名称                介绍               RELEASES版         官网           类别\nSourceTree        Git管理神器          SourceTree        SourceTree   开发辅助\nSnailSVN          与访达集成的 SVN 客户端   SnailSVN          SnailSVN     开发辅助\nFinalShell        SSH 工具，服务器管理     FinalShell        FinalShell   远程控制\nNavicat Premium   强大的数据库管理工具       Navicat Premium   -            运行环境",
-      "normalizedContent": "# mac 软件\n\n\n# 📖. 前言\n\n介绍\n\n关于mac上面的软件，有很多优秀的，不过也有很多是不方便的，我希望通过这些效率软件来提高工作的质量及效率。\n\n对于各种全家桶我就不做介绍了，欢迎有收藏了优秀软件的积极交流，资金足够请支持正版\n\n2022-03-28 @lakeiedward\n\n\n# 🌟. 系统增强\n\n名称                              介绍                releases版                       官网                              类别\nbettertouchtool                 超强鼠标触控板增强         bettertouchtool                 bettertouchtool                 系统增强\nbartender4（big sur）             方便的管理菜单栏图标        bartender4                      bartender                       系统增强\nmacs fan control pro            风扇转速调整及温度监控工具     macs fan control pro            macs fan control pro            系统增强\napp cleaner & uninstaller pro   应用深度清理卸载工具        app cleaner & uninstaller pro   app cleaner & uninstaller pro   系统清理\nalfred powerpack                本地搜索及应用快速启动       alfred powerpack                alfred powerpack                系统增强\npaste                           剪切板增强工具           paste                           paste                           系统增强\nfliqlo                          数字时钟 mac 屏幕保护程序   fliqlo                          fliqlo                          系统增强\nbartender3                      方便的管理菜单栏图标        bartender3                      bartender                       系统增强\ncheat sheet                     快速查看 mac 应用快捷键    cheat sheet                     cheat sheet                     系统增强\n\n\n# 🌟. 应用软件\n\n名称                        介绍                       releases版   官网     类别\nyoink                     一款移动复制文件效率工具             yoink       -      文件管理\nkeka                      好用的压缩解压工具 （官方版 + 无需破解）   keka        keka   压缩刻录\nperpetual calendar(万年历)   菜单栏日历以及天气预报工具            万年历         万年历    日历时间\n\n\n# 🌟. 网络工具\n\n名称        介绍         releases版   官网        类别\ndownie4   最好的视频下载器   downie4     downie4   下载工具\n\n\n# 🌟. 媒体工具\n\n名称               介绍                       releases版        官网               类别\niina             非常强大的视频播放器（官方版 + 无需破解)   iina             iina             视频播放\nhprc             nas 局域网视频播放神器            nplayer          nplayer          视频播放\nomniplayer pro   全能影音播放器                  omniplayer pro   omniplayer pro   视频播放\n\n\n# 🌟. 编程开发\n\n名称                介绍               releases版         官网           类别\nsourcetree        git管理神器          sourcetree        sourcetree   开发辅助\nsnailsvn          与访达集成的 svn 客户端   snailsvn          snailsvn     开发辅助\nfinalshell        ssh 工具，服务器管理     finalshell        finalshell   远程控制\nnavicat premium   强大的数据库管理工具       navicat premium   -            运行环境",
-      "charsets": {
-        "cjk": true
-      }
-    },
-    {
-      "title": "关于",
-      "frontmatter": {
-        "title": "关于",
-        "date": "2019-12-25T14:27:01.000Z",
-        "permalink": "/about",
-        "categories": [
-          null
-        ],
-        "tags": [
-          null
-        ]
-      },
-      "regularPath": "/80.%E5%85%B3%E4%BA%8E/03.%E5%85%B3%E4%BA%8E%20-%20%E8%87%AA%E6%88%91/01.%E8%87%AA%E6%88%91%20-%20%E5%85%B3%E4%BA%8E.html",
-      "relativePath": "80.关于/03.关于 - 自我/01.自我 - 关于.md",
-      "key": "v-3ec05854",
-      "path": "/about/",
-      "headers": [
-        {
-          "level": 3,
-          "title": "📚. Blog",
-          "slug": "📚-blog",
-          "normalizedTitle": "📚. blog",
-          "charIndex": 2
-        },
-        {
-          "level": 3,
-          "title": "🎨. Theme",
-          "slug": "🎨-theme",
-          "normalizedTitle": "🎨. theme",
-          "charIndex": 143
-        },
-        {
-          "level": 3,
-          "title": "🐼. Me",
-          "slug": "🐼-me",
-          "normalizedTitle": "🐼. me",
-          "charIndex": 280
-        },
-        {
-          "level": 3,
-          "title": "🌟. 技能",
-          "slug": "🌟-技能",
-          "normalizedTitle": "🌟. 技能",
-          "charIndex": 302
-        },
-        {
-          "level": 3,
-          "title": "✉️. 联系",
-          "slug": "✉️-联系",
-          "normalizedTitle": "✉️. 联系",
-          "charIndex": 429
-        }
-      ],
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": "📚. Blog 🎨. Theme 🐼. Me 🌟. 技能 ✉️. 联系",
-      "content": "# 📚. Blog\n\n这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到GitHub点个 Star，或者交换友链 ( •̀ ω •́ )✧\n\n提示\n\n文章内容仅是我个人的小总结，资历尚浅，如有误还请指正。\n\n更新日志\n\n\n# 🎨. Theme\n\n\n\n本站主题是 Vdoing，这是一款简洁高效的 VuePress 知识管理&博客 主题。旨在轻松打造一个结构化与碎片化并存的个人在线知识库&博客，让你的知识海洋像一本本书一样清晰易读。配合多维索引，让每一个知识点都可以快速定位！ 更多详情。\n\n\n# 🐼. Me\n\nweb 前端小学生\n\n\n# 🌟. 技能\n\n * 熟悉 JavaScript、HTML、CSS、Vue 的拼写\n * 了解 Linux、windows、macOS 的开关机方式\n * 精通 Git 的 pull 和 push，并注册了 GitHub 帐号刷了一些 star\n\n\n# ✉️. 联系\n\n * QQ: 272269682\n * WeChat: ljm272269682\n * Email: aligoogle@163.com\n * Vdoing主题文档：https://doc.xugaoyi.com",
-      "normalizedContent": "# 📚. blog\n\n这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是web前端技术。如果你喜欢这个博客&主题欢迎到github点个 star，或者交换友链 ( • ω • )✧\n\n提示\n\n文章内容仅是我个人的小总结，资历尚浅，如有误还请指正。\n\n更新日志\n\n\n# 🎨. theme\n\n\n\n本站主题是 vdoing，这是一款简洁高效的 vuepress 知识管理&博客 主题。旨在轻松打造一个结构化与碎片化并存的个人在线知识库&博客，让你的知识海洋像一本本书一样清晰易读。配合多维索引，让每一个知识点都可以快速定位！ 更多详情。\n\n\n# 🐼. me\n\nweb 前端小学生\n\n\n# 🌟. 技能\n\n * 熟悉 javascript、html、css、vue 的拼写\n * 了解 linux、windows、macos 的开关机方式\n * 精通 git 的 pull 和 push，并注册了 github 帐号刷了一些 star\n\n\n# ✉️. 联系\n\n * qq: 272269682\n * wechat: ljm272269682\n * email: aligoogle@163.com\n * vdoing主题文档：https://doc.xugaoyi.com",
-      "charsets": {
-        "cjk": true
-      }
-    },
-    {
       "title": "前端轮子",
       "frontmatter": {
         "title": "前端轮子",
@@ -1215,7 +1127,7 @@ export const siteData = {
       },
       "regularPath": "/70.%E6%94%B6%E8%97%8F%E5%A4%B9/75.%E6%94%B6%E8%97%8F%E5%A4%B9/02.%E5%89%8D%E7%AB%AF%E8%BD%AE%E5%AD%90.html",
       "relativePath": "70.收藏夹/75.收藏夹/02.前端轮子.md",
-      "key": "v-01c0942e",
+      "key": "v-b67b21fe",
       "path": "/whell/front/",
       "headers": [
         {
@@ -1256,7 +1168,7 @@ export const siteData = {
       },
       "regularPath": "/80.%E5%85%B3%E4%BA%8E/06.%E5%85%B3%E4%BA%8E%20-%20%E6%9C%AC%E7%AB%99/01.%E6%9C%AC%E7%AB%99%20-%20%E4%BB%8B%E7%BB%8D.html",
       "relativePath": "80.关于/06.关于 - 本站/01.本站 - 介绍.md",
-      "key": "v-7e0cc92b",
+      "key": "v-39affc7e",
       "path": "/about/website/introduce/",
       "headers": [
         {
@@ -1388,7 +1300,7 @@ export const siteData = {
       },
       "regularPath": "/80.%E5%85%B3%E4%BA%8E/06.%E5%85%B3%E4%BA%8E%20-%20%E6%9C%AC%E7%AB%99/24.%E6%9C%AC%E7%AB%99%20-%20%E5%AF%BC%E8%88%AA%E7%AB%99%E6%A8%A1%E5%9D%97.html",
       "relativePath": "80.关于/06.关于 - 本站/24.本站 - 导航站模块.md",
-      "key": "v-8a267bce",
+      "key": "v-42a4bba8",
       "path": "/about/website/tools/",
       "headers": [
         {
@@ -1429,6 +1341,145 @@ export const siteData = {
       }
     },
     {
+      "title": "Mac 软件",
+      "frontmatter": {
+        "title": "Mac 软件",
+        "date": "2022-03-28T17:21:46.000Z",
+        "permalink": "/whell/mac-software/",
+        "categories": [
+          null
+        ],
+        "tags": [
+          null
+        ],
+        "article": false
+      },
+      "regularPath": "/70.%E6%94%B6%E8%97%8F%E5%A4%B9/75.%E6%94%B6%E8%97%8F%E5%A4%B9/03.Mac%E8%BD%AF%E4%BB%B6.html",
+      "relativePath": "70.收藏夹/75.收藏夹/03.Mac软件.md",
+      "key": "v-5f0bd641",
+      "path": "/whell/mac-software/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "📖. 前言",
+          "slug": "📖-前言",
+          "normalizedTitle": "📖. 前言",
+          "charIndex": 13
+        },
+        {
+          "level": 2,
+          "title": "🌟. 系统增强",
+          "slug": "🌟-系统增强",
+          "normalizedTitle": "🌟. 系统增强",
+          "charIndex": 150
+        },
+        {
+          "level": 2,
+          "title": "🌟. 应用软件",
+          "slug": "🌟-应用软件",
+          "normalizedTitle": "🌟. 应用软件",
+          "charIndex": 1352
+        },
+        {
+          "level": 2,
+          "title": "🌟. 网络工具",
+          "slug": "🌟-网络工具",
+          "normalizedTitle": "🌟. 网络工具",
+          "charIndex": 1664
+        },
+        {
+          "level": 2,
+          "title": "🌟. 媒体工具",
+          "slug": "🌟-媒体工具",
+          "normalizedTitle": "🌟. 媒体工具",
+          "charIndex": 1772
+        },
+        {
+          "level": 2,
+          "title": "🌟. 编程开发",
+          "slug": "🌟-编程开发",
+          "normalizedTitle": "🌟. 编程开发",
+          "charIndex": 2108
+        }
+      ],
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": "📖. 前言 🌟. 系统增强 🌟. 应用软件 🌟. 网络工具 🌟. 媒体工具 🌟. 编程开发",
+      "content": "# Mac 软件\n\n\n# 📖. 前言\n\n介绍\n\n关于Mac上面的软件，有很多优秀的，不过也有很多是不方便的，我希望通过这些效率软件来提高工作的质量及效率。\n\n对于各种全家桶我就不做介绍了，欢迎有收藏了优秀软件的积极交流，资金足够请支持正版\n\n2022-03-28 @lakeiedward\n\n\n# 🌟. 系统增强\n\n名称                              介绍                RELEASES版                       官网                              类别\nBetterTouchTool                 超强鼠标触控板增强         BetterTouchTool                 BetterTouchTool                 系统增强\nBartender4（Big Sur）             方便的管理菜单栏图标        Bartender4                      Bartender                       系统增强\nMacs Fan Control Pro            风扇转速调整及温度监控工具     Macs Fan Control Pro            Macs Fan Control Pro            系统增强\nApp Cleaner & Uninstaller Pro   应用深度清理卸载工具        App Cleaner & Uninstaller Pro   App Cleaner & Uninstaller Pro   系统清理\nAlfred Powerpack                本地搜索及应用快速启动       Alfred Powerpack                Alfred Powerpack                系统增强\nPaste                           剪切板增强工具           Paste                           Paste                           系统增强\nFliqlo                          数字时钟 mac 屏幕保护程序   Fliqlo                          Fliqlo                          系统增强\nBartender3                      方便的管理菜单栏图标        Bartender3                      Bartender                       系统增强\nCheat Sheet                     快速查看 mac 应用快捷键    Cheat Sheet                     Cheat Sheet                     系统增强\n\n\n# 🌟. 应用软件\n\n名称                        介绍                       RELEASES版   官网     类别\nYoink                     一款移动复制文件效率工具             Yoink       -      文件管理\nKeka                      好用的压缩解压工具 （官方版 + 无需破解）   Keka        Keka   压缩刻录\nPerpetual Calendar(万年历)   菜单栏日历以及天气预报工具            万年历         万年历    日历时间\n\n\n# 🌟. 网络工具\n\n名称        介绍         RELEASES版   官网        类别\nDownie4   最好的视频下载器   Downie4     Downie4   下载工具\n\n\n# 🌟. 媒体工具\n\n名称               介绍                       RELEASES版        官网               类别\nIINA             非常强大的视频播放器（官方版 + 无需破解)   IINA             IINA             视频播放\nhprc             NAS 局域网视频播放神器            nPlayer          nPlayer          视频播放\nOmniPlayer Pro   全能影音播放器                  OmniPlayer Pro   OmniPlayer Pro   视频播放\n\n\n# 🌟. 编程开发\n\n名称                介绍               RELEASES版         官网           类别\nSourceTree        Git管理神器          SourceTree        SourceTree   开发辅助\nSnailSVN          与访达集成的 SVN 客户端   SnailSVN          SnailSVN     开发辅助\nFinalShell        SSH 工具，服务器管理     FinalShell        FinalShell   远程控制\nNavicat Premium   强大的数据库管理工具       Navicat Premium   -            运行环境",
+      "normalizedContent": "# mac 软件\n\n\n# 📖. 前言\n\n介绍\n\n关于mac上面的软件，有很多优秀的，不过也有很多是不方便的，我希望通过这些效率软件来提高工作的质量及效率。\n\n对于各种全家桶我就不做介绍了，欢迎有收藏了优秀软件的积极交流，资金足够请支持正版\n\n2022-03-28 @lakeiedward\n\n\n# 🌟. 系统增强\n\n名称                              介绍                releases版                       官网                              类别\nbettertouchtool                 超强鼠标触控板增强         bettertouchtool                 bettertouchtool                 系统增强\nbartender4（big sur）             方便的管理菜单栏图标        bartender4                      bartender                       系统增强\nmacs fan control pro            风扇转速调整及温度监控工具     macs fan control pro            macs fan control pro            系统增强\napp cleaner & uninstaller pro   应用深度清理卸载工具        app cleaner & uninstaller pro   app cleaner & uninstaller pro   系统清理\nalfred powerpack                本地搜索及应用快速启动       alfred powerpack                alfred powerpack                系统增强\npaste                           剪切板增强工具           paste                           paste                           系统增强\nfliqlo                          数字时钟 mac 屏幕保护程序   fliqlo                          fliqlo                          系统增强\nbartender3                      方便的管理菜单栏图标        bartender3                      bartender                       系统增强\ncheat sheet                     快速查看 mac 应用快捷键    cheat sheet                     cheat sheet                     系统增强\n\n\n# 🌟. 应用软件\n\n名称                        介绍                       releases版   官网     类别\nyoink                     一款移动复制文件效率工具             yoink       -      文件管理\nkeka                      好用的压缩解压工具 （官方版 + 无需破解）   keka        keka   压缩刻录\nperpetual calendar(万年历)   菜单栏日历以及天气预报工具            万年历         万年历    日历时间\n\n\n# 🌟. 网络工具\n\n名称        介绍         releases版   官网        类别\ndownie4   最好的视频下载器   downie4     downie4   下载工具\n\n\n# 🌟. 媒体工具\n\n名称               介绍                       releases版        官网               类别\niina             非常强大的视频播放器（官方版 + 无需破解)   iina             iina             视频播放\nhprc             nas 局域网视频播放神器            nplayer          nplayer          视频播放\nomniplayer pro   全能影音播放器                  omniplayer pro   omniplayer pro   视频播放\n\n\n# 🌟. 编程开发\n\n名称                介绍               releases版         官网           类别\nsourcetree        git管理神器          sourcetree        sourcetree   开发辅助\nsnailsvn          与访达集成的 svn 客户端   snailsvn          snailsvn     开发辅助\nfinalshell        ssh 工具，服务器管理     finalshell        finalshell   远程控制\nnavicat premium   强大的数据库管理工具       navicat premium   -            运行环境",
+      "charsets": {
+        "cjk": true
+      }
+    },
+    {
+      "title": "本站 - 代码块隐藏模块",
+      "frontmatter": {
+        "title": "本站 - 代码块隐藏模块",
+        "date": "2022-03-12T22:39:00.000Z",
+        "permalink": "/about/website/code-block-hidden/",
+        "categories": [
+          null
+        ],
+        "tags": [
+          null
+        ]
+      },
+      "regularPath": "/80.%E5%85%B3%E4%BA%8E/06.%E5%85%B3%E4%BA%8E%20-%20%E6%9C%AC%E7%AB%99/28.%E6%9C%AC%E7%AB%99%20-%20%E4%BB%A3%E7%A0%81%E5%9D%97%E9%9A%90%E8%97%8F%E6%A8%A1%E5%9D%97.html",
+      "relativePath": "80.关于/06.关于 - 本站/28.本站 - 代码块隐藏模块.md",
+      "key": "v-04cc55ae",
+      "path": "/about/website/code-block-hidden/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一. 前言",
+          "slug": "一-前言",
+          "normalizedTitle": "一. 前言",
+          "charIndex": 88
+        },
+        {
+          "level": 2,
+          "title": "二. 前提",
+          "slug": "二-前提",
+          "normalizedTitle": "二. 前提",
+          "charIndex": 575
+        },
+        {
+          "level": 2,
+          "title": "三. 添加箭头图标",
+          "slug": "三-添加箭头图标",
+          "normalizedTitle": "三. 添加箭头图标",
+          "charIndex": 1050
+        },
+        {
+          "level": 2,
+          "title": "四. 添加Vue组件",
+          "slug": "四-添加vue组件",
+          "normalizedTitle": "四. 添加vue组件",
+          "charIndex": 1441
+        },
+        {
+          "level": 2,
+          "title": "五. 注意",
+          "slug": "五-注意",
+          "normalizedTitle": "五. 注意",
+          "charIndex": 9855
+        },
+        {
+          "level": 2,
+          "title": "六. 注册Vue组件",
+          "slug": "六-注册vue组件",
+          "normalizedTitle": "六. 注册vue组件",
+          "charIndex": 9988
+        }
+      ],
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": "一. 前言 二. 前提 三. 添加箭头图标 四. 添加Vue组件 五. 注意 六. 注册Vue组件",
+      "content": "# 本站 - 代码块隐藏模块\n\n笔记\n\n一个代码块的代码太多，会占据大量的篇幅，如果能选择行隐藏，页面也许更好好看。\n\n2022-03-12 @lakeiedward\n\n\n# 一. 前言\n\n目前适用版本是 Vdoing v1.x。\n\n代码块可以隐藏，也可以展开，这和 ::: details 类似，下面是简单的代码块 Demo：\n\npublic class Hello {\n    public static void main(String[] args) {\n        System.out.println(\"Hello，World\");\n    }\n}\n\n\n1\n2\n3\n4\n5\n\n\n看到代码块右边的箭头了吗，点击即可隐藏代码块，再次点击则会展开代码块。\n\n本内容实现并不难，只需三步：\n\n * 添加箭头图标\n * 编写代码块模块的 Vue 组件\n * 全局注册 Vue 组件\n\n实现内容：\n\n * 代码块的隐藏和显示\n\n * 美化代码块的 UI，趋向于 Mac\n\n * 优化代码块语言的显示，因为默认主题的一些语言如 stylus 是不会显示出来。本内容的优化无论代码块语言是什么（如 abc），都会显示出来，如图\n   \n   我的语言不是 Java、PHP、JS、SH，而是 abdedfg\n   \n   \n   1\n   \n\n\n# 二. 前提\n\n本内容重新实现的一键复制功能是基于 vuepress-plugin-one-click-copy 插件（箭头左边），该插件已经内置 vuepress-theme-vdoing 主题，所以无需担心，如果你曾经卸载了该插件， 则需要安装回来；如果已经安装，则无需看这一步：\n\nnpm add vuepress-plugin-one-click-copy -D\n\n\n1\n\n\nyarn add vuepress-plugin-one-click-copy -D\n\n\n1\n\n\n当然，如果你懂得看下面的源码，则将适配 vuepress-plugin-one-click-copy 插件的代码进行修改，只需要提供其他插件的 class 名进行判断（Vue 组件的 104 - 115 行代码），并自行在 F12 调试，移动到满意的位置。\n\n如果不知道自己是否曾卸载或存在该插件，则前往根目录下的 package.json 文件查看 devDependencies 是否有 vuepress-plugin-one-click-copy 插件。\n\n\n# 三. 添加箭头图标\n\n图标库来自阿里云：https://www.iconfont.cn/。\n\n如果你没有账号，或者觉得添加比较麻烦，就使用我的图标库地址，当你发现图标失效了，就请来这里获取新的地址，如果还没有更新，请在评论区留言。\n\n当然，建议你使用自己的图标库，比较稳定。就像注册一个购物账户，然后添加到购物车即可。\n\n在 docs/.vuepress/config.js 的 head 模块里添加如下内容：\n\n['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],\n\n\n1\n\n\n\n# 四. 添加Vue组件\n\n在 docs/.vuepress/components 目录下创建 Vue 组件：BlockToggle.vue。如果不存在 components 目录，则请创建。\n\n添加如下内容：\n\n<template></template>\n\n<script>\nexport default {\n  mounted() {\n    setTimeout(() => {\n      this.addExpand(40);\n    }, 1000);\n  },\n  watch: {\n    $route(to, from) {\n      console.log(\"11\");\n      setTimeout(() => {\n        this.addExpand(40);\n      }, 1000);\n    },\n  },\n  methods: {\n    // 隐藏代码块后，保留 40 的代码块高度\n    addExpand(hiddenHeight = 40) {\n      let modes = document.getElementsByClassName(\"line-numbers-mode\");\n      // 遍历出每一个代码块\n      Array.from(modes).forEach((item) => {\n        // 首先获取 expand 元素\n        let expand = item.getElementsByClassName(\"expand\")[0];\n        // expand 元素不存在，则进入 if 创建\n        if (!expand) {\n          // 获取代码块原来的高度，进行备份\n          let modeHeight = item.offsetHeight;\n          // display:none 的代码块需要额外处理\n          if (modeHeight == 0) {\n            modeHeight = this.getHiddenElementHight(item);\n          }\n          // modeHeight 比主题多 12，所以减掉，并显示赋值，触发动画过渡效果\n          modeHeight -= 12;\n          item.style.height = modeHeight + \"px\";\n          // 获取代码块的各个元素\n          let pre = item.getElementsByTagName(\"pre\")[0];\n          let wrapper = item.getElementsByClassName(\"line-numbers-wrapper\")[0];\n          // 创建箭头元素\n          const div = document.createElement(\"div\");\n          div.className = \"expand icon-xiangxiajiantou iconfont\";\n          // 箭头点击事件\n          div.onclick = () => {\n            // 代码块已经被隐藏，则进入 if 循环，如果没有被隐藏，则进入 else 循环\n            if (parseInt(item.style.height) == hiddenHeight) {\n              div.className = \"expand icon-xiangxiajiantou iconfont\";\n              item.style.height = modeHeight + \"px\";\n              setTimeout(() => {\n                pre.style.display = \"block\";\n                wrapper.style.display = \"block\";\n              }, 80);\n            } else {\n              div.className = \"expand icon-xiangxiajiantou iconfont closed\";\n              item.style.height = hiddenHeight + \"px\";\n              setTimeout(() => {\n                pre.style.display = \"none\";\n                wrapper.style.display = \"none\";\n              }, 300);\n            }\n          };\n          item.append(div);\n          item.append(this.addCircle());\n        }\n        // 解决某些代码块的语言不显示在页面上\n        this.getLanguage(item);\n        // 移动一键复制图标到正确的位置\n        let flag = false;\n        let interval = setInterval(() => {\n          flag = this.moveCopyBlock(item);\n          if (flag) {\n            clearInterval(interval);\n          }\n        }, 1000);\n      });\n    },\n    getHiddenElementHight(hiddenElement) {\n      let modeHeight;\n      if (\n        hiddenElement.parentNode.style.display == \"none\" ||\n        hiddenElement.parentNode.className !=\n          \"theme-code-block theme-code-block__active\"\n      ) {\n        hiddenElement.parentNode.style.display = \"block\";\n        modeHeight = hiddenElement.offsetHeight;\n        hiddenElement.parentNode.style.display = \"none\";\n        // 清除 vuepress 自带的 deetails 多选代码块\n        if (\n          hiddenElement.parentNode.className == \"theme-code-block\" ||\n          hiddenElement.parentNode.className == \"cardListContainer\"\n        ) {\n          hiddenElement.parentNode.style.display = \"\";\n        }\n      }\n      return modeHeight;\n    },\n    // 添加三个圆圈\n    addCircle() {\n      let div = document.createElement(\"div\");\n      div.className = \"circle\";\n      return div;\n    },\n    // 移动一键复制图标\n    moveCopyBlock(element) {\n      let copyElement = element.getElementsByClassName(\"code-copy\")[0];\n      if (copyElement && copyElement.parentNode != element) {\n        copyElement.parentNode.parentNode.insertBefore(\n          copyElement,\n          copyElement.parentNode\n        );\n        return true;\n      } else {\n        return false;\n      }\n    },\n    // 解决某些代码块的语言不显示在页面上\n    getLanguage(element) {\n      // 动态获取 before 的 content 属性\n      let content = getComputedStyle(element, \":before\").getPropertyValue(\n        \"content\"\n      );\n      // \"\" 的长度是 2，不是 0，\"x\" 的长度是 3\n      if (content.length == 2 || content == \"\" || content == \"none\") {\n        let language = element.className.substring(\n          \"language\".length + 1,\n          element.className.indexOf(\" \")\n        );\n        element.setAttribute(\"data-language\", language);\n      }\n    },\n  },\n};\n</script>\n\n<style>\n/* 代码块元素 */\n.line-numbers-mode {\n  overflow: hidden;\n  transition: height 0.3s;\n  margin-top: 0.85rem;\n}\n.line-numbers-mode::before {\n  content: attr(data-language);\n}\n/* 箭头元素 */\n.expand {\n  width: 16px;\n  height: 16px;\n  cursor: pointer;\n  position: absolute;\n  z-index: 3;\n  top: 0.8em;\n  right: 0.5em;\n  color: rgba(238, 255, 255, 0.8);\n  font-weight: 900;\n  transition: transform 0.3s;\n}\n\n/* 代码块内容 */\ndiv[class*=\"language-\"].line-numbers-mode pre {\n  margin: 30px 0 0.85rem 0;\n}\n/* 代码块的行数 */\ndiv[class*=\"language-\"].line-numbers-mode .line-numbers-wrapper {\n  margin-top: 30px;\n}\n/* 箭头关闭后旋转 -90 度 */\n.closed {\n  transform: rotate(90deg) translateY(-3px);\n  transition: all 0.3s;\n}\nli .closed {\n  transform: rotate(90deg) translate(5px, -8px);\n}\n/* 代码块的语言 */\ndiv[class*=\"language-\"]::before {\n  position: absolute;\n  z-index: 3;\n  top: 0.3em;\n  left: 4.7rem;\n  font-size: 1.15em;\n  color: rgba(238, 255, 255, 0.8);\n  text-transform: uppercase;\n  font-weight: bold;\n  width: fit-content;\n}\n/* li 下的代码块的语言和 li 下的箭头 */\nli div[class*=\"language-\"]::before,\nli .expand {\n  margin-top: -4px;\n}\n/* 代码块行数的线条 */\ndiv[class*=\"language-\"].line-numbers-mode::after {\n  margin-top: 35px;\n}\n/* 代码块的三个圆圈颜色 */\n.circle {\n  position: absolute;\n  top: 0.8em;\n  left: 0.9rem;\n  width: 12px;\n  height: 12px;\n  border-radius: 50%;\n  background: #fc625d;\n  -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n}\n/* 代码块一键复制图标 */\n.code-copy {\n  position: absolute;\n  top: 0.8rem;\n  right: 2rem;\n  fill: rgba(238, 255, 255, 0.8);\n  opacity: 1;\n}\n.code-copy svg {\n  margin: 0;\n}\n\n/* 如果你浅色模式的代码块背景色是浅灰色，则取消下面的注释使代码生效，如果是黑色，则注释下面的三段代码（我注释了，因为是黑色背景） */\n.theme-mode-light .expand {\n  color: #666;\n}\n.theme-mode-light div[class*=\"language-\"]::before {\n  color: #666;\n}\n.theme-mode-light .code-copy {\n  fill: #666;\n}\n</style>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90\n91\n92\n93\n94\n95\n96\n97\n98\n99\n100\n101\n102\n103\n104\n105\n106\n107\n108\n109\n110\n111\n112\n113\n114\n115\n116\n117\n118\n119\n120\n121\n122\n123\n124\n125\n126\n127\n128\n129\n130\n131\n132\n133\n134\n135\n136\n137\n138\n139\n140\n141\n142\n143\n144\n145\n146\n147\n148\n149\n150\n151\n152\n153\n154\n155\n156\n157\n158\n159\n160\n161\n162\n163\n164\n165\n166\n167\n168\n169\n170\n171\n172\n173\n174\n175\n176\n177\n178\n179\n180\n181\n182\n183\n184\n185\n186\n187\n188\n189\n190\n191\n192\n193\n194\n195\n196\n197\n198\n199\n200\n201\n202\n203\n204\n205\n206\n207\n208\n209\n210\n211\n212\n213\n214\n215\n216\n217\n218\n219\n220\n221\n222\n223\n224\n225\n226\n227\n228\n229\n230\n\n\n第 7 行和第 13 行的参数 40 是隐藏代码块后，保留的代码块高度，40 是默认值。\n\n注意\n\n * 如果浅色模式的代码块背景色是浅灰色，则取消 221 - 229 的注释使代码生效（模板已经取消注释）\n * 如果是黑色，则注释 221 - 229 的代码（我自己的注释了，因为我的代码块是黑色背景）\n * 如果不喜欢代码块的语言变成大写，则注释 183 行的 text-transform: uppercase;\n\n如果你想要你的代码块和我一样是黑色，则打开 docs/.vuepress/styles/palette.styl 文件，替换掉原来的浅色模式：\n\n.theme-mode-light\n  --bodyBg: #f4f4f4\n  --mainBg: rgba(255,255,255,1)\n  --sidebarBg: rgba(255,255,255,.8)\n  --blurBg: rgba(255,255,255,.9)\n  --customBlockBg: rgba(255,255,255,.9)\n  --textColor: #00323c\n  --textLightenColor: #0085AD\n  --borderColor: rgba(0,0,0,.15)\n  // 代码块浅色主题\n  //--codeBg: #f6f8fa\n  //--codeColor: #24292e\n  //codeThemeLight()\n  // 行高亮颜色，和代码块浅色主题一起使用，一起注释\n  //div[class*=\"language-\"]\n  //  .highlight-lines\n  //    .highlighted\n  //      background-color rgba(200,200,200,.4)\n  //  &.line-numbers-mode\n  //    .highlight-lines .highlighted\n  //      &:before\n  //        background-color rgba(200,200,200,.4)\n  // 代码块深色主题\n  --codeBg: #282C34\n  --codeColor: #D4D4D4\n  codeThemeDark()\n  // 行高亮颜色，和代码块深色主题一起使用，一起注释\n  div[class*=\"language-\"]\n    .highlight-lines\n      .highlighted\n        background-color rgba(0,0,0,.66)\n    &.line-numbers-mode\n      .highlight-lines .highlighted\n        &:before\n          background-color rgba(0,0,0,.66)\n  div[class*=\"language-\"].line-numbers-mode::after  // 代码块的行数和内容分割线颜色\n    border-right 1px solid rgba(0, 0, 0, 0.66)\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n\n\n\n# 五. 注意\n\nvuepress-plugin-one-click-copy 插件在移动端（手机端）失效，因为其自带的隐藏效果原因，这并不是本模块引起，而是本身插件的设计问题。\n\n所以如果觉得移动端也想要支持一键复制，请更换其他插件，并自行修改源码进行适配。\n\n\n# 六. 注册Vue组件\n\n在 docs/.vuepress/config.js的 plugins 中添加插件配置。\n\n添加如下内容：\n\nmodule.exports = {\n  plugins: [\n    {\n      name: 'custom-plugins',\n      globalUIComponents: [\"BlockToggle\"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles\n    }\n  ],\n}\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\nimport { UserPlugins } from 'vuepress/config'\nplugins: <UserPlugins>[\n  [\n    {\n      name: 'custom-plugins',\n      globalUIComponents: [\"BlockToggle\"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles\n    }\n  ]\n]\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n",
+      "normalizedContent": "# 本站 - 代码块隐藏模块\n\n笔记\n\n一个代码块的代码太多，会占据大量的篇幅，如果能选择行隐藏，页面也许更好好看。\n\n2022-03-12 @lakeiedward\n\n\n# 一. 前言\n\n目前适用版本是 vdoing v1.x。\n\n代码块可以隐藏，也可以展开，这和 ::: details 类似，下面是简单的代码块 demo：\n\npublic class hello {\n    public static void main(string[] args) {\n        system.out.println(\"hello，world\");\n    }\n}\n\n\n1\n2\n3\n4\n5\n\n\n看到代码块右边的箭头了吗，点击即可隐藏代码块，再次点击则会展开代码块。\n\n本内容实现并不难，只需三步：\n\n * 添加箭头图标\n * 编写代码块模块的 vue 组件\n * 全局注册 vue 组件\n\n实现内容：\n\n * 代码块的隐藏和显示\n\n * 美化代码块的 ui，趋向于 mac\n\n * 优化代码块语言的显示，因为默认主题的一些语言如 stylus 是不会显示出来。本内容的优化无论代码块语言是什么（如 abc），都会显示出来，如图\n   \n   我的语言不是 java、php、js、sh，而是 abdedfg\n   \n   \n   1\n   \n\n\n# 二. 前提\n\n本内容重新实现的一键复制功能是基于 vuepress-plugin-one-click-copy 插件（箭头左边），该插件已经内置 vuepress-theme-vdoing 主题，所以无需担心，如果你曾经卸载了该插件， 则需要安装回来；如果已经安装，则无需看这一步：\n\nnpm add vuepress-plugin-one-click-copy -d\n\n\n1\n\n\nyarn add vuepress-plugin-one-click-copy -d\n\n\n1\n\n\n当然，如果你懂得看下面的源码，则将适配 vuepress-plugin-one-click-copy 插件的代码进行修改，只需要提供其他插件的 class 名进行判断（vue 组件的 104 - 115 行代码），并自行在 f12 调试，移动到满意的位置。\n\n如果不知道自己是否曾卸载或存在该插件，则前往根目录下的 package.json 文件查看 devdependencies 是否有 vuepress-plugin-one-click-copy 插件。\n\n\n# 三. 添加箭头图标\n\n图标库来自阿里云：https://www.iconfont.cn/。\n\n如果你没有账号，或者觉得添加比较麻烦，就使用我的图标库地址，当你发现图标失效了，就请来这里获取新的地址，如果还没有更新，请在评论区留言。\n\n当然，建议你使用自己的图标库，比较稳定。就像注册一个购物账户，然后添加到购物车即可。\n\n在 docs/.vuepress/config.js 的 head 模块里添加如下内容：\n\n['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],\n\n\n1\n\n\n\n# 四. 添加vue组件\n\n在 docs/.vuepress/components 目录下创建 vue 组件：blocktoggle.vue。如果不存在 components 目录，则请创建。\n\n添加如下内容：\n\n<template></template>\n\n<script>\nexport default {\n  mounted() {\n    settimeout(() => {\n      this.addexpand(40);\n    }, 1000);\n  },\n  watch: {\n    $route(to, from) {\n      console.log(\"11\");\n      settimeout(() => {\n        this.addexpand(40);\n      }, 1000);\n    },\n  },\n  methods: {\n    // 隐藏代码块后，保留 40 的代码块高度\n    addexpand(hiddenheight = 40) {\n      let modes = document.getelementsbyclassname(\"line-numbers-mode\");\n      // 遍历出每一个代码块\n      array.from(modes).foreach((item) => {\n        // 首先获取 expand 元素\n        let expand = item.getelementsbyclassname(\"expand\")[0];\n        // expand 元素不存在，则进入 if 创建\n        if (!expand) {\n          // 获取代码块原来的高度，进行备份\n          let modeheight = item.offsetheight;\n          // display:none 的代码块需要额外处理\n          if (modeheight == 0) {\n            modeheight = this.gethiddenelementhight(item);\n          }\n          // modeheight 比主题多 12，所以减掉，并显示赋值，触发动画过渡效果\n          modeheight -= 12;\n          item.style.height = modeheight + \"px\";\n          // 获取代码块的各个元素\n          let pre = item.getelementsbytagname(\"pre\")[0];\n          let wrapper = item.getelementsbyclassname(\"line-numbers-wrapper\")[0];\n          // 创建箭头元素\n          const div = document.createelement(\"div\");\n          div.classname = \"expand icon-xiangxiajiantou iconfont\";\n          // 箭头点击事件\n          div.onclick = () => {\n            // 代码块已经被隐藏，则进入 if 循环，如果没有被隐藏，则进入 else 循环\n            if (parseint(item.style.height) == hiddenheight) {\n              div.classname = \"expand icon-xiangxiajiantou iconfont\";\n              item.style.height = modeheight + \"px\";\n              settimeout(() => {\n                pre.style.display = \"block\";\n                wrapper.style.display = \"block\";\n              }, 80);\n            } else {\n              div.classname = \"expand icon-xiangxiajiantou iconfont closed\";\n              item.style.height = hiddenheight + \"px\";\n              settimeout(() => {\n                pre.style.display = \"none\";\n                wrapper.style.display = \"none\";\n              }, 300);\n            }\n          };\n          item.append(div);\n          item.append(this.addcircle());\n        }\n        // 解决某些代码块的语言不显示在页面上\n        this.getlanguage(item);\n        // 移动一键复制图标到正确的位置\n        let flag = false;\n        let interval = setinterval(() => {\n          flag = this.movecopyblock(item);\n          if (flag) {\n            clearinterval(interval);\n          }\n        }, 1000);\n      });\n    },\n    gethiddenelementhight(hiddenelement) {\n      let modeheight;\n      if (\n        hiddenelement.parentnode.style.display == \"none\" ||\n        hiddenelement.parentnode.classname !=\n          \"theme-code-block theme-code-block__active\"\n      ) {\n        hiddenelement.parentnode.style.display = \"block\";\n        modeheight = hiddenelement.offsetheight;\n        hiddenelement.parentnode.style.display = \"none\";\n        // 清除 vuepress 自带的 deetails 多选代码块\n        if (\n          hiddenelement.parentnode.classname == \"theme-code-block\" ||\n          hiddenelement.parentnode.classname == \"cardlistcontainer\"\n        ) {\n          hiddenelement.parentnode.style.display = \"\";\n        }\n      }\n      return modeheight;\n    },\n    // 添加三个圆圈\n    addcircle() {\n      let div = document.createelement(\"div\");\n      div.classname = \"circle\";\n      return div;\n    },\n    // 移动一键复制图标\n    movecopyblock(element) {\n      let copyelement = element.getelementsbyclassname(\"code-copy\")[0];\n      if (copyelement && copyelement.parentnode != element) {\n        copyelement.parentnode.parentnode.insertbefore(\n          copyelement,\n          copyelement.parentnode\n        );\n        return true;\n      } else {\n        return false;\n      }\n    },\n    // 解决某些代码块的语言不显示在页面上\n    getlanguage(element) {\n      // 动态获取 before 的 content 属性\n      let content = getcomputedstyle(element, \":before\").getpropertyvalue(\n        \"content\"\n      );\n      // \"\" 的长度是 2，不是 0，\"x\" 的长度是 3\n      if (content.length == 2 || content == \"\" || content == \"none\") {\n        let language = element.classname.substring(\n          \"language\".length + 1,\n          element.classname.indexof(\" \")\n        );\n        element.setattribute(\"data-language\", language);\n      }\n    },\n  },\n};\n</script>\n\n<style>\n/* 代码块元素 */\n.line-numbers-mode {\n  overflow: hidden;\n  transition: height 0.3s;\n  margin-top: 0.85rem;\n}\n.line-numbers-mode::before {\n  content: attr(data-language);\n}\n/* 箭头元素 */\n.expand {\n  width: 16px;\n  height: 16px;\n  cursor: pointer;\n  position: absolute;\n  z-index: 3;\n  top: 0.8em;\n  right: 0.5em;\n  color: rgba(238, 255, 255, 0.8);\n  font-weight: 900;\n  transition: transform 0.3s;\n}\n\n/* 代码块内容 */\ndiv[class*=\"language-\"].line-numbers-mode pre {\n  margin: 30px 0 0.85rem 0;\n}\n/* 代码块的行数 */\ndiv[class*=\"language-\"].line-numbers-mode .line-numbers-wrapper {\n  margin-top: 30px;\n}\n/* 箭头关闭后旋转 -90 度 */\n.closed {\n  transform: rotate(90deg) translatey(-3px);\n  transition: all 0.3s;\n}\nli .closed {\n  transform: rotate(90deg) translate(5px, -8px);\n}\n/* 代码块的语言 */\ndiv[class*=\"language-\"]::before {\n  position: absolute;\n  z-index: 3;\n  top: 0.3em;\n  left: 4.7rem;\n  font-size: 1.15em;\n  color: rgba(238, 255, 255, 0.8);\n  text-transform: uppercase;\n  font-weight: bold;\n  width: fit-content;\n}\n/* li 下的代码块的语言和 li 下的箭头 */\nli div[class*=\"language-\"]::before,\nli .expand {\n  margin-top: -4px;\n}\n/* 代码块行数的线条 */\ndiv[class*=\"language-\"].line-numbers-mode::after {\n  margin-top: 35px;\n}\n/* 代码块的三个圆圈颜色 */\n.circle {\n  position: absolute;\n  top: 0.8em;\n  left: 0.9rem;\n  width: 12px;\n  height: 12px;\n  border-radius: 50%;\n  background: #fc625d;\n  -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n}\n/* 代码块一键复制图标 */\n.code-copy {\n  position: absolute;\n  top: 0.8rem;\n  right: 2rem;\n  fill: rgba(238, 255, 255, 0.8);\n  opacity: 1;\n}\n.code-copy svg {\n  margin: 0;\n}\n\n/* 如果你浅色模式的代码块背景色是浅灰色，则取消下面的注释使代码生效，如果是黑色，则注释下面的三段代码（我注释了，因为是黑色背景） */\n.theme-mode-light .expand {\n  color: #666;\n}\n.theme-mode-light div[class*=\"language-\"]::before {\n  color: #666;\n}\n.theme-mode-light .code-copy {\n  fill: #666;\n}\n</style>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90\n91\n92\n93\n94\n95\n96\n97\n98\n99\n100\n101\n102\n103\n104\n105\n106\n107\n108\n109\n110\n111\n112\n113\n114\n115\n116\n117\n118\n119\n120\n121\n122\n123\n124\n125\n126\n127\n128\n129\n130\n131\n132\n133\n134\n135\n136\n137\n138\n139\n140\n141\n142\n143\n144\n145\n146\n147\n148\n149\n150\n151\n152\n153\n154\n155\n156\n157\n158\n159\n160\n161\n162\n163\n164\n165\n166\n167\n168\n169\n170\n171\n172\n173\n174\n175\n176\n177\n178\n179\n180\n181\n182\n183\n184\n185\n186\n187\n188\n189\n190\n191\n192\n193\n194\n195\n196\n197\n198\n199\n200\n201\n202\n203\n204\n205\n206\n207\n208\n209\n210\n211\n212\n213\n214\n215\n216\n217\n218\n219\n220\n221\n222\n223\n224\n225\n226\n227\n228\n229\n230\n\n\n第 7 行和第 13 行的参数 40 是隐藏代码块后，保留的代码块高度，40 是默认值。\n\n注意\n\n * 如果浅色模式的代码块背景色是浅灰色，则取消 221 - 229 的注释使代码生效（模板已经取消注释）\n * 如果是黑色，则注释 221 - 229 的代码（我自己的注释了，因为我的代码块是黑色背景）\n * 如果不喜欢代码块的语言变成大写，则注释 183 行的 text-transform: uppercase;\n\n如果你想要你的代码块和我一样是黑色，则打开 docs/.vuepress/styles/palette.styl 文件，替换掉原来的浅色模式：\n\n.theme-mode-light\n  --bodybg: #f4f4f4\n  --mainbg: rgba(255,255,255,1)\n  --sidebarbg: rgba(255,255,255,.8)\n  --blurbg: rgba(255,255,255,.9)\n  --customblockbg: rgba(255,255,255,.9)\n  --textcolor: #00323c\n  --textlightencolor: #0085ad\n  --bordercolor: rgba(0,0,0,.15)\n  // 代码块浅色主题\n  //--codebg: #f6f8fa\n  //--codecolor: #24292e\n  //codethemelight()\n  // 行高亮颜色，和代码块浅色主题一起使用，一起注释\n  //div[class*=\"language-\"]\n  //  .highlight-lines\n  //    .highlighted\n  //      background-color rgba(200,200,200,.4)\n  //  &.line-numbers-mode\n  //    .highlight-lines .highlighted\n  //      &:before\n  //        background-color rgba(200,200,200,.4)\n  // 代码块深色主题\n  --codebg: #282c34\n  --codecolor: #d4d4d4\n  codethemedark()\n  // 行高亮颜色，和代码块深色主题一起使用，一起注释\n  div[class*=\"language-\"]\n    .highlight-lines\n      .highlighted\n        background-color rgba(0,0,0,.66)\n    &.line-numbers-mode\n      .highlight-lines .highlighted\n        &:before\n          background-color rgba(0,0,0,.66)\n  div[class*=\"language-\"].line-numbers-mode::after  // 代码块的行数和内容分割线颜色\n    border-right 1px solid rgba(0, 0, 0, 0.66)\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n\n\n\n# 五. 注意\n\nvuepress-plugin-one-click-copy 插件在移动端（手机端）失效，因为其自带的隐藏效果原因，这并不是本模块引起，而是本身插件的设计问题。\n\n所以如果觉得移动端也想要支持一键复制，请更换其他插件，并自行修改源码进行适配。\n\n\n# 六. 注册vue组件\n\n在 docs/.vuepress/config.js的 plugins 中添加插件配置。\n\n添加如下内容：\n\nmodule.exports = {\n  plugins: [\n    {\n      name: 'custom-plugins',\n      globaluicomponents: [\"blocktoggle\"] // 2.x 版本 globaluicomponents 改名为 clientapprootcomponentfiles\n    }\n  ],\n}\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\nimport { userplugins } from 'vuepress/config'\nplugins: <userplugins>[\n  [\n    {\n      name: 'custom-plugins',\n      globaluicomponents: [\"blocktoggle\"] // 2.x 版本 globaluicomponents 改名为 clientapprootcomponentfiles\n    }\n  ]\n]\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n",
+      "charsets": {
+        "cjk": true
+      }
+    },
+    {
       "title": "技巧 - 笔记",
       "frontmatter": {
         "title": "技巧 - 笔记",
@@ -1443,7 +1494,7 @@ export const siteData = {
       },
       "regularPath": "/80.%E5%85%B3%E4%BA%8E/08.%E5%85%B3%E4%BA%8E%20-%20%E6%8A%80%E5%B7%A7/02.%E6%8A%80%E5%B7%A7%20-%20%E7%AC%94%E8%AE%B0.html",
       "relativePath": "80.关于/08.关于 - 技巧/02.技巧 - 笔记.md",
-      "key": "v-2699e514",
+      "key": "v-af537e6e",
       "path": "/pages/2f8f50/",
       "headers": [
         {
@@ -1576,11 +1627,45 @@ export const siteData = {
       }
     },
     {
-      "title": "本站 - 代码块隐藏模块",
+      "title": "费曼学习法",
       "frontmatter": {
-        "title": "本站 - 代码块隐藏模块",
-        "date": "2022-03-12T22:39:00.000Z",
-        "permalink": "/about/website/code-block-hidden/",
+        "title": "费曼学习法",
+        "date": "2020-07-16T10:04:14.000Z",
+        "permalink": "/pages/f2a556/",
+        "categories": [
+          "生活小记"
+        ],
+        "tags": [
+          "阅读"
+        ]
+      },
+      "regularPath": "/99.%E6%9B%B4%E5%A4%9A/01.%E5%AD%A6%E4%B9%A0/00.%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95.html",
+      "relativePath": "99.更多/01.学习/00.费曼学习法.md",
+      "key": "v-74311f88",
+      "path": "/pages/f2a556/",
+      "headers": [
+        {
+          "level": 3,
+          "title": "步骤",
+          "slug": "步骤",
+          "normalizedTitle": "步骤",
+          "charIndex": 102
+        }
+      ],
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": "步骤",
+      "content": "费曼学习法，我很喜欢的一个学习方法，简单来说，就是：通过向别人清楚的解说某一件事或是写一篇浅显易懂的教程文章，来确认自己是否真正弄懂了这件事。 可以说是在通过向别讲解过程中来对自身的 查缺补漏。\n\n\n# 步骤\n\n费曼学习法分为4个步骤:\n\n 1. 确定学习目标\n\n你想学习的概念、内容、主题是什么。\n\n 2. 模拟教学学习法\n\n你要模拟自己是一位老师，面对完全不懂这个领域的人，用自己的话，尽可能具体形象地讲诉。这样的讲诉有助于你活学活用，触类旁通，联系生活具体情境。\n\n 3. 回顾\n\n反思第2步遇到的问题，哪些地方卡壳了，哪些地方对方没有真正听懂。找出问题的要害，把握关键环节。\n\n 4. 简化\n\n把这些遇到问题的地方，重新梳理理解，尽可能了解更多背景和相关知识，再用尽可能简化的方式重新表达，设法看穿本质。然后，返回第2步。\n\n> 参考：\n> \n> 《费曼学习法：为何被称为史上最牛的学习法，它的本质究竟是什么？》\n> \n> 《费曼学习法》",
+      "normalizedContent": "费曼学习法，我很喜欢的一个学习方法，简单来说，就是：通过向别人清楚的解说某一件事或是写一篇浅显易懂的教程文章，来确认自己是否真正弄懂了这件事。 可以说是在通过向别讲解过程中来对自身的 查缺补漏。\n\n\n# 步骤\n\n费曼学习法分为4个步骤:\n\n 1. 确定学习目标\n\n你想学习的概念、内容、主题是什么。\n\n 2. 模拟教学学习法\n\n你要模拟自己是一位老师，面对完全不懂这个领域的人，用自己的话，尽可能具体形象地讲诉。这样的讲诉有助于你活学活用，触类旁通，联系生活具体情境。\n\n 3. 回顾\n\n反思第2步遇到的问题，哪些地方卡壳了，哪些地方对方没有真正听懂。找出问题的要害，把握关键环节。\n\n 4. 简化\n\n把这些遇到问题的地方，重新梳理理解，尽可能了解更多背景和相关知识，再用尽可能简化的方式重新表达，设法看穿本质。然后，返回第2步。\n\n> 参考：\n> \n> 《费曼学习法：为何被称为史上最牛的学习法，它的本质究竟是什么？》\n> \n> 《费曼学习法》",
+      "charsets": {
+        "cjk": true
+      }
+    },
+    {
+      "title": "关于",
+      "frontmatter": {
+        "title": "关于",
+        "date": "2019-12-25T14:27:01.000Z",
+        "permalink": "/about",
         "categories": [
           null
         ],
@@ -1588,58 +1673,51 @@ export const siteData = {
           null
         ]
       },
-      "regularPath": "/80.%E5%85%B3%E4%BA%8E/06.%E5%85%B3%E4%BA%8E%20-%20%E6%9C%AC%E7%AB%99/28.%E6%9C%AC%E7%AB%99%20-%20%E4%BB%A3%E7%A0%81%E5%9D%97%E9%9A%90%E8%97%8F%E6%A8%A1%E5%9D%97.html",
-      "relativePath": "80.关于/06.关于 - 本站/28.本站 - 代码块隐藏模块.md",
-      "key": "v-73aebc96",
-      "path": "/about/website/code-block-hidden/",
+      "regularPath": "/80.%E5%85%B3%E4%BA%8E/03.%E5%85%B3%E4%BA%8E%20-%20%E8%87%AA%E6%88%91/01.%E8%87%AA%E6%88%91%20-%20%E5%85%B3%E4%BA%8E.html",
+      "relativePath": "80.关于/03.关于 - 自我/01.自我 - 关于.md",
+      "key": "v-c779f1ae",
+      "path": "/about/",
       "headers": [
         {
-          "level": 2,
-          "title": "一. 前言",
-          "slug": "一-前言",
-          "normalizedTitle": "一. 前言",
-          "charIndex": 88
+          "level": 3,
+          "title": "📚. Blog",
+          "slug": "📚-blog",
+          "normalizedTitle": "📚. blog",
+          "charIndex": 2
         },
         {
-          "level": 2,
-          "title": "二. 前提",
-          "slug": "二-前提",
-          "normalizedTitle": "二. 前提",
-          "charIndex": 575
+          "level": 3,
+          "title": "🎨. Theme",
+          "slug": "🎨-theme",
+          "normalizedTitle": "🎨. theme",
+          "charIndex": 143
         },
         {
-          "level": 2,
-          "title": "三. 添加箭头图标",
-          "slug": "三-添加箭头图标",
-          "normalizedTitle": "三. 添加箭头图标",
-          "charIndex": 1050
+          "level": 3,
+          "title": "🐼. Me",
+          "slug": "🐼-me",
+          "normalizedTitle": "🐼. me",
+          "charIndex": 280
         },
         {
-          "level": 2,
-          "title": "四. 添加Vue组件",
-          "slug": "四-添加vue组件",
-          "normalizedTitle": "四. 添加vue组件",
-          "charIndex": 1441
+          "level": 3,
+          "title": "🌟. 技能",
+          "slug": "🌟-技能",
+          "normalizedTitle": "🌟. 技能",
+          "charIndex": 302
         },
         {
-          "level": 2,
-          "title": "五. 注意",
-          "slug": "五-注意",
-          "normalizedTitle": "五. 注意",
-          "charIndex": 9855
-        },
-        {
-          "level": 2,
-          "title": "六. 注册Vue组件",
-          "slug": "六-注册vue组件",
-          "normalizedTitle": "六. 注册vue组件",
-          "charIndex": 9988
+          "level": 3,
+          "title": "✉️. 联系",
+          "slug": "✉️-联系",
+          "normalizedTitle": "✉️. 联系",
+          "charIndex": 429
         }
       ],
       "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": "一. 前言 二. 前提 三. 添加箭头图标 四. 添加Vue组件 五. 注意 六. 注册Vue组件",
-      "content": "# 本站 - 代码块隐藏模块\n\n笔记\n\n一个代码块的代码太多，会占据大量的篇幅，如果能选择行隐藏，页面也许更好好看。\n\n2022-03-12 @lakeiedward\n\n\n# 一. 前言\n\n目前适用版本是 Vdoing v1.x。\n\n代码块可以隐藏，也可以展开，这和 ::: details 类似，下面是简单的代码块 Demo：\n\npublic class Hello {\n    public static void main(String[] args) {\n        System.out.println(\"Hello，World\");\n    }\n}\n\n\n1\n2\n3\n4\n5\n\n\n看到代码块右边的箭头了吗，点击即可隐藏代码块，再次点击则会展开代码块。\n\n本内容实现并不难，只需三步：\n\n * 添加箭头图标\n * 编写代码块模块的 Vue 组件\n * 全局注册 Vue 组件\n\n实现内容：\n\n * 代码块的隐藏和显示\n\n * 美化代码块的 UI，趋向于 Mac\n\n * 优化代码块语言的显示，因为默认主题的一些语言如 stylus 是不会显示出来。本内容的优化无论代码块语言是什么（如 abc），都会显示出来，如图\n   \n   我的语言不是 Java、PHP、JS、SH，而是 abdedfg\n   \n   \n   1\n   \n\n\n# 二. 前提\n\n本内容重新实现的一键复制功能是基于 vuepress-plugin-one-click-copy 插件（箭头左边），该插件已经内置 vuepress-theme-vdoing 主题，所以无需担心，如果你曾经卸载了该插件， 则需要安装回来；如果已经安装，则无需看这一步：\n\nnpm add vuepress-plugin-one-click-copy -D\n\n\n1\n\n\nyarn add vuepress-plugin-one-click-copy -D\n\n\n1\n\n\n当然，如果你懂得看下面的源码，则将适配 vuepress-plugin-one-click-copy 插件的代码进行修改，只需要提供其他插件的 class 名进行判断（Vue 组件的 104 - 115 行代码），并自行在 F12 调试，移动到满意的位置。\n\n如果不知道自己是否曾卸载或存在该插件，则前往根目录下的 package.json 文件查看 devDependencies 是否有 vuepress-plugin-one-click-copy 插件。\n\n\n# 三. 添加箭头图标\n\n图标库来自阿里云：https://www.iconfont.cn/。\n\n如果你没有账号，或者觉得添加比较麻烦，就使用我的图标库地址，当你发现图标失效了，就请来这里获取新的地址，如果还没有更新，请在评论区留言。\n\n当然，建议你使用自己的图标库，比较稳定。就像注册一个购物账户，然后添加到购物车即可。\n\n在 docs/.vuepress/config.js 的 head 模块里添加如下内容：\n\n['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],\n\n\n1\n\n\n\n# 四. 添加Vue组件\n\n在 docs/.vuepress/components 目录下创建 Vue 组件：BlockToggle.vue。如果不存在 components 目录，则请创建。\n\n添加如下内容：\n\n<template></template>\n\n<script>\nexport default {\n  mounted() {\n    setTimeout(() => {\n      this.addExpand(40);\n    }, 1000);\n  },\n  watch: {\n    $route(to, from) {\n      console.log(\"11\");\n      setTimeout(() => {\n        this.addExpand(40);\n      }, 1000);\n    },\n  },\n  methods: {\n    // 隐藏代码块后，保留 40 的代码块高度\n    addExpand(hiddenHeight = 40) {\n      let modes = document.getElementsByClassName(\"line-numbers-mode\");\n      // 遍历出每一个代码块\n      Array.from(modes).forEach((item) => {\n        // 首先获取 expand 元素\n        let expand = item.getElementsByClassName(\"expand\")[0];\n        // expand 元素不存在，则进入 if 创建\n        if (!expand) {\n          // 获取代码块原来的高度，进行备份\n          let modeHeight = item.offsetHeight;\n          // display:none 的代码块需要额外处理\n          if (modeHeight == 0) {\n            modeHeight = this.getHiddenElementHight(item);\n          }\n          // modeHeight 比主题多 12，所以减掉，并显示赋值，触发动画过渡效果\n          modeHeight -= 12;\n          item.style.height = modeHeight + \"px\";\n          // 获取代码块的各个元素\n          let pre = item.getElementsByTagName(\"pre\")[0];\n          let wrapper = item.getElementsByClassName(\"line-numbers-wrapper\")[0];\n          // 创建箭头元素\n          const div = document.createElement(\"div\");\n          div.className = \"expand icon-xiangxiajiantou iconfont\";\n          // 箭头点击事件\n          div.onclick = () => {\n            // 代码块已经被隐藏，则进入 if 循环，如果没有被隐藏，则进入 else 循环\n            if (parseInt(item.style.height) == hiddenHeight) {\n              div.className = \"expand icon-xiangxiajiantou iconfont\";\n              item.style.height = modeHeight + \"px\";\n              setTimeout(() => {\n                pre.style.display = \"block\";\n                wrapper.style.display = \"block\";\n              }, 80);\n            } else {\n              div.className = \"expand icon-xiangxiajiantou iconfont closed\";\n              item.style.height = hiddenHeight + \"px\";\n              setTimeout(() => {\n                pre.style.display = \"none\";\n                wrapper.style.display = \"none\";\n              }, 300);\n            }\n          };\n          item.append(div);\n          item.append(this.addCircle());\n        }\n        // 解决某些代码块的语言不显示在页面上\n        this.getLanguage(item);\n        // 移动一键复制图标到正确的位置\n        let flag = false;\n        let interval = setInterval(() => {\n          flag = this.moveCopyBlock(item);\n          if (flag) {\n            clearInterval(interval);\n          }\n        }, 1000);\n      });\n    },\n    getHiddenElementHight(hiddenElement) {\n      let modeHeight;\n      if (\n        hiddenElement.parentNode.style.display == \"none\" ||\n        hiddenElement.parentNode.className !=\n          \"theme-code-block theme-code-block__active\"\n      ) {\n        hiddenElement.parentNode.style.display = \"block\";\n        modeHeight = hiddenElement.offsetHeight;\n        hiddenElement.parentNode.style.display = \"none\";\n        // 清除 vuepress 自带的 deetails 多选代码块\n        if (\n          hiddenElement.parentNode.className == \"theme-code-block\" ||\n          hiddenElement.parentNode.className == \"cardListContainer\"\n        ) {\n          hiddenElement.parentNode.style.display = \"\";\n        }\n      }\n      return modeHeight;\n    },\n    // 添加三个圆圈\n    addCircle() {\n      let div = document.createElement(\"div\");\n      div.className = \"circle\";\n      return div;\n    },\n    // 移动一键复制图标\n    moveCopyBlock(element) {\n      let copyElement = element.getElementsByClassName(\"code-copy\")[0];\n      if (copyElement && copyElement.parentNode != element) {\n        copyElement.parentNode.parentNode.insertBefore(\n          copyElement,\n          copyElement.parentNode\n        );\n        return true;\n      } else {\n        return false;\n      }\n    },\n    // 解决某些代码块的语言不显示在页面上\n    getLanguage(element) {\n      // 动态获取 before 的 content 属性\n      let content = getComputedStyle(element, \":before\").getPropertyValue(\n        \"content\"\n      );\n      // \"\" 的长度是 2，不是 0，\"x\" 的长度是 3\n      if (content.length == 2 || content == \"\" || content == \"none\") {\n        let language = element.className.substring(\n          \"language\".length + 1,\n          element.className.indexOf(\" \")\n        );\n        element.setAttribute(\"data-language\", language);\n      }\n    },\n  },\n};\n</script>\n\n<style>\n/* 代码块元素 */\n.line-numbers-mode {\n  overflow: hidden;\n  transition: height 0.3s;\n  margin-top: 0.85rem;\n}\n.line-numbers-mode::before {\n  content: attr(data-language);\n}\n/* 箭头元素 */\n.expand {\n  width: 16px;\n  height: 16px;\n  cursor: pointer;\n  position: absolute;\n  z-index: 3;\n  top: 0.8em;\n  right: 0.5em;\n  color: rgba(238, 255, 255, 0.8);\n  font-weight: 900;\n  transition: transform 0.3s;\n}\n\n/* 代码块内容 */\ndiv[class*=\"language-\"].line-numbers-mode pre {\n  margin: 30px 0 0.85rem 0;\n}\n/* 代码块的行数 */\ndiv[class*=\"language-\"].line-numbers-mode .line-numbers-wrapper {\n  margin-top: 30px;\n}\n/* 箭头关闭后旋转 -90 度 */\n.closed {\n  transform: rotate(90deg) translateY(-3px);\n  transition: all 0.3s;\n}\nli .closed {\n  transform: rotate(90deg) translate(5px, -8px);\n}\n/* 代码块的语言 */\ndiv[class*=\"language-\"]::before {\n  position: absolute;\n  z-index: 3;\n  top: 0.3em;\n  left: 4.7rem;\n  font-size: 1.15em;\n  color: rgba(238, 255, 255, 0.8);\n  text-transform: uppercase;\n  font-weight: bold;\n  width: fit-content;\n}\n/* li 下的代码块的语言和 li 下的箭头 */\nli div[class*=\"language-\"]::before,\nli .expand {\n  margin-top: -4px;\n}\n/* 代码块行数的线条 */\ndiv[class*=\"language-\"].line-numbers-mode::after {\n  margin-top: 35px;\n}\n/* 代码块的三个圆圈颜色 */\n.circle {\n  position: absolute;\n  top: 0.8em;\n  left: 0.9rem;\n  width: 12px;\n  height: 12px;\n  border-radius: 50%;\n  background: #fc625d;\n  -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n}\n/* 代码块一键复制图标 */\n.code-copy {\n  position: absolute;\n  top: 0.8rem;\n  right: 2rem;\n  fill: rgba(238, 255, 255, 0.8);\n  opacity: 1;\n}\n.code-copy svg {\n  margin: 0;\n}\n\n/* 如果你浅色模式的代码块背景色是浅灰色，则取消下面的注释使代码生效，如果是黑色，则注释下面的三段代码（我注释了，因为是黑色背景） */\n.theme-mode-light .expand {\n  color: #666;\n}\n.theme-mode-light div[class*=\"language-\"]::before {\n  color: #666;\n}\n.theme-mode-light .code-copy {\n  fill: #666;\n}\n</style>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90\n91\n92\n93\n94\n95\n96\n97\n98\n99\n100\n101\n102\n103\n104\n105\n106\n107\n108\n109\n110\n111\n112\n113\n114\n115\n116\n117\n118\n119\n120\n121\n122\n123\n124\n125\n126\n127\n128\n129\n130\n131\n132\n133\n134\n135\n136\n137\n138\n139\n140\n141\n142\n143\n144\n145\n146\n147\n148\n149\n150\n151\n152\n153\n154\n155\n156\n157\n158\n159\n160\n161\n162\n163\n164\n165\n166\n167\n168\n169\n170\n171\n172\n173\n174\n175\n176\n177\n178\n179\n180\n181\n182\n183\n184\n185\n186\n187\n188\n189\n190\n191\n192\n193\n194\n195\n196\n197\n198\n199\n200\n201\n202\n203\n204\n205\n206\n207\n208\n209\n210\n211\n212\n213\n214\n215\n216\n217\n218\n219\n220\n221\n222\n223\n224\n225\n226\n227\n228\n229\n230\n\n\n第 7 行和第 13 行的参数 40 是隐藏代码块后，保留的代码块高度，40 是默认值。\n\n注意\n\n * 如果浅色模式的代码块背景色是浅灰色，则取消 221 - 229 的注释使代码生效（模板已经取消注释）\n * 如果是黑色，则注释 221 - 229 的代码（我自己的注释了，因为我的代码块是黑色背景）\n * 如果不喜欢代码块的语言变成大写，则注释 183 行的 text-transform: uppercase;\n\n如果你想要你的代码块和我一样是黑色，则打开 docs/.vuepress/styles/palette.styl 文件，替换掉原来的浅色模式：\n\n.theme-mode-light\n  --bodyBg: #f4f4f4\n  --mainBg: rgba(255,255,255,1)\n  --sidebarBg: rgba(255,255,255,.8)\n  --blurBg: rgba(255,255,255,.9)\n  --customBlockBg: rgba(255,255,255,.9)\n  --textColor: #00323c\n  --textLightenColor: #0085AD\n  --borderColor: rgba(0,0,0,.15)\n  // 代码块浅色主题\n  //--codeBg: #f6f8fa\n  //--codeColor: #24292e\n  //codeThemeLight()\n  // 行高亮颜色，和代码块浅色主题一起使用，一起注释\n  //div[class*=\"language-\"]\n  //  .highlight-lines\n  //    .highlighted\n  //      background-color rgba(200,200,200,.4)\n  //  &.line-numbers-mode\n  //    .highlight-lines .highlighted\n  //      &:before\n  //        background-color rgba(200,200,200,.4)\n  // 代码块深色主题\n  --codeBg: #282C34\n  --codeColor: #D4D4D4\n  codeThemeDark()\n  // 行高亮颜色，和代码块深色主题一起使用，一起注释\n  div[class*=\"language-\"]\n    .highlight-lines\n      .highlighted\n        background-color rgba(0,0,0,.66)\n    &.line-numbers-mode\n      .highlight-lines .highlighted\n        &:before\n          background-color rgba(0,0,0,.66)\n  div[class*=\"language-\"].line-numbers-mode::after  // 代码块的行数和内容分割线颜色\n    border-right 1px solid rgba(0, 0, 0, 0.66)\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n\n\n\n# 五. 注意\n\nvuepress-plugin-one-click-copy 插件在移动端（手机端）失效，因为其自带的隐藏效果原因，这并不是本模块引起，而是本身插件的设计问题。\n\n所以如果觉得移动端也想要支持一键复制，请更换其他插件，并自行修改源码进行适配。\n\n\n# 六. 注册Vue组件\n\n在 docs/.vuepress/config.js的 plugins 中添加插件配置。\n\n添加如下内容：\n\nmodule.exports = {\n  plugins: [\n    {\n      name: 'custom-plugins',\n      globalUIComponents: [\"BlockToggle\"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles\n    }\n  ],\n}\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\nimport { UserPlugins } from 'vuepress/config'\nplugins: <UserPlugins>[\n  [\n    {\n      name: 'custom-plugins',\n      globalUIComponents: [\"BlockToggle\"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles\n    }\n  ]\n]\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n",
-      "normalizedContent": "# 本站 - 代码块隐藏模块\n\n笔记\n\n一个代码块的代码太多，会占据大量的篇幅，如果能选择行隐藏，页面也许更好好看。\n\n2022-03-12 @lakeiedward\n\n\n# 一. 前言\n\n目前适用版本是 vdoing v1.x。\n\n代码块可以隐藏，也可以展开，这和 ::: details 类似，下面是简单的代码块 demo：\n\npublic class hello {\n    public static void main(string[] args) {\n        system.out.println(\"hello，world\");\n    }\n}\n\n\n1\n2\n3\n4\n5\n\n\n看到代码块右边的箭头了吗，点击即可隐藏代码块，再次点击则会展开代码块。\n\n本内容实现并不难，只需三步：\n\n * 添加箭头图标\n * 编写代码块模块的 vue 组件\n * 全局注册 vue 组件\n\n实现内容：\n\n * 代码块的隐藏和显示\n\n * 美化代码块的 ui，趋向于 mac\n\n * 优化代码块语言的显示，因为默认主题的一些语言如 stylus 是不会显示出来。本内容的优化无论代码块语言是什么（如 abc），都会显示出来，如图\n   \n   我的语言不是 java、php、js、sh，而是 abdedfg\n   \n   \n   1\n   \n\n\n# 二. 前提\n\n本内容重新实现的一键复制功能是基于 vuepress-plugin-one-click-copy 插件（箭头左边），该插件已经内置 vuepress-theme-vdoing 主题，所以无需担心，如果你曾经卸载了该插件， 则需要安装回来；如果已经安装，则无需看这一步：\n\nnpm add vuepress-plugin-one-click-copy -d\n\n\n1\n\n\nyarn add vuepress-plugin-one-click-copy -d\n\n\n1\n\n\n当然，如果你懂得看下面的源码，则将适配 vuepress-plugin-one-click-copy 插件的代码进行修改，只需要提供其他插件的 class 名进行判断（vue 组件的 104 - 115 行代码），并自行在 f12 调试，移动到满意的位置。\n\n如果不知道自己是否曾卸载或存在该插件，则前往根目录下的 package.json 文件查看 devdependencies 是否有 vuepress-plugin-one-click-copy 插件。\n\n\n# 三. 添加箭头图标\n\n图标库来自阿里云：https://www.iconfont.cn/。\n\n如果你没有账号，或者觉得添加比较麻烦，就使用我的图标库地址，当你发现图标失效了，就请来这里获取新的地址，如果还没有更新，请在评论区留言。\n\n当然，建议你使用自己的图标库，比较稳定。就像注册一个购物账户，然后添加到购物车即可。\n\n在 docs/.vuepress/config.js 的 head 模块里添加如下内容：\n\n['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }],\n\n\n1\n\n\n\n# 四. 添加vue组件\n\n在 docs/.vuepress/components 目录下创建 vue 组件：blocktoggle.vue。如果不存在 components 目录，则请创建。\n\n添加如下内容：\n\n<template></template>\n\n<script>\nexport default {\n  mounted() {\n    settimeout(() => {\n      this.addexpand(40);\n    }, 1000);\n  },\n  watch: {\n    $route(to, from) {\n      console.log(\"11\");\n      settimeout(() => {\n        this.addexpand(40);\n      }, 1000);\n    },\n  },\n  methods: {\n    // 隐藏代码块后，保留 40 的代码块高度\n    addexpand(hiddenheight = 40) {\n      let modes = document.getelementsbyclassname(\"line-numbers-mode\");\n      // 遍历出每一个代码块\n      array.from(modes).foreach((item) => {\n        // 首先获取 expand 元素\n        let expand = item.getelementsbyclassname(\"expand\")[0];\n        // expand 元素不存在，则进入 if 创建\n        if (!expand) {\n          // 获取代码块原来的高度，进行备份\n          let modeheight = item.offsetheight;\n          // display:none 的代码块需要额外处理\n          if (modeheight == 0) {\n            modeheight = this.gethiddenelementhight(item);\n          }\n          // modeheight 比主题多 12，所以减掉，并显示赋值，触发动画过渡效果\n          modeheight -= 12;\n          item.style.height = modeheight + \"px\";\n          // 获取代码块的各个元素\n          let pre = item.getelementsbytagname(\"pre\")[0];\n          let wrapper = item.getelementsbyclassname(\"line-numbers-wrapper\")[0];\n          // 创建箭头元素\n          const div = document.createelement(\"div\");\n          div.classname = \"expand icon-xiangxiajiantou iconfont\";\n          // 箭头点击事件\n          div.onclick = () => {\n            // 代码块已经被隐藏，则进入 if 循环，如果没有被隐藏，则进入 else 循环\n            if (parseint(item.style.height) == hiddenheight) {\n              div.classname = \"expand icon-xiangxiajiantou iconfont\";\n              item.style.height = modeheight + \"px\";\n              settimeout(() => {\n                pre.style.display = \"block\";\n                wrapper.style.display = \"block\";\n              }, 80);\n            } else {\n              div.classname = \"expand icon-xiangxiajiantou iconfont closed\";\n              item.style.height = hiddenheight + \"px\";\n              settimeout(() => {\n                pre.style.display = \"none\";\n                wrapper.style.display = \"none\";\n              }, 300);\n            }\n          };\n          item.append(div);\n          item.append(this.addcircle());\n        }\n        // 解决某些代码块的语言不显示在页面上\n        this.getlanguage(item);\n        // 移动一键复制图标到正确的位置\n        let flag = false;\n        let interval = setinterval(() => {\n          flag = this.movecopyblock(item);\n          if (flag) {\n            clearinterval(interval);\n          }\n        }, 1000);\n      });\n    },\n    gethiddenelementhight(hiddenelement) {\n      let modeheight;\n      if (\n        hiddenelement.parentnode.style.display == \"none\" ||\n        hiddenelement.parentnode.classname !=\n          \"theme-code-block theme-code-block__active\"\n      ) {\n        hiddenelement.parentnode.style.display = \"block\";\n        modeheight = hiddenelement.offsetheight;\n        hiddenelement.parentnode.style.display = \"none\";\n        // 清除 vuepress 自带的 deetails 多选代码块\n        if (\n          hiddenelement.parentnode.classname == \"theme-code-block\" ||\n          hiddenelement.parentnode.classname == \"cardlistcontainer\"\n        ) {\n          hiddenelement.parentnode.style.display = \"\";\n        }\n      }\n      return modeheight;\n    },\n    // 添加三个圆圈\n    addcircle() {\n      let div = document.createelement(\"div\");\n      div.classname = \"circle\";\n      return div;\n    },\n    // 移动一键复制图标\n    movecopyblock(element) {\n      let copyelement = element.getelementsbyclassname(\"code-copy\")[0];\n      if (copyelement && copyelement.parentnode != element) {\n        copyelement.parentnode.parentnode.insertbefore(\n          copyelement,\n          copyelement.parentnode\n        );\n        return true;\n      } else {\n        return false;\n      }\n    },\n    // 解决某些代码块的语言不显示在页面上\n    getlanguage(element) {\n      // 动态获取 before 的 content 属性\n      let content = getcomputedstyle(element, \":before\").getpropertyvalue(\n        \"content\"\n      );\n      // \"\" 的长度是 2，不是 0，\"x\" 的长度是 3\n      if (content.length == 2 || content == \"\" || content == \"none\") {\n        let language = element.classname.substring(\n          \"language\".length + 1,\n          element.classname.indexof(\" \")\n        );\n        element.setattribute(\"data-language\", language);\n      }\n    },\n  },\n};\n</script>\n\n<style>\n/* 代码块元素 */\n.line-numbers-mode {\n  overflow: hidden;\n  transition: height 0.3s;\n  margin-top: 0.85rem;\n}\n.line-numbers-mode::before {\n  content: attr(data-language);\n}\n/* 箭头元素 */\n.expand {\n  width: 16px;\n  height: 16px;\n  cursor: pointer;\n  position: absolute;\n  z-index: 3;\n  top: 0.8em;\n  right: 0.5em;\n  color: rgba(238, 255, 255, 0.8);\n  font-weight: 900;\n  transition: transform 0.3s;\n}\n\n/* 代码块内容 */\ndiv[class*=\"language-\"].line-numbers-mode pre {\n  margin: 30px 0 0.85rem 0;\n}\n/* 代码块的行数 */\ndiv[class*=\"language-\"].line-numbers-mode .line-numbers-wrapper {\n  margin-top: 30px;\n}\n/* 箭头关闭后旋转 -90 度 */\n.closed {\n  transform: rotate(90deg) translatey(-3px);\n  transition: all 0.3s;\n}\nli .closed {\n  transform: rotate(90deg) translate(5px, -8px);\n}\n/* 代码块的语言 */\ndiv[class*=\"language-\"]::before {\n  position: absolute;\n  z-index: 3;\n  top: 0.3em;\n  left: 4.7rem;\n  font-size: 1.15em;\n  color: rgba(238, 255, 255, 0.8);\n  text-transform: uppercase;\n  font-weight: bold;\n  width: fit-content;\n}\n/* li 下的代码块的语言和 li 下的箭头 */\nli div[class*=\"language-\"]::before,\nli .expand {\n  margin-top: -4px;\n}\n/* 代码块行数的线条 */\ndiv[class*=\"language-\"].line-numbers-mode::after {\n  margin-top: 35px;\n}\n/* 代码块的三个圆圈颜色 */\n.circle {\n  position: absolute;\n  top: 0.8em;\n  left: 0.9rem;\n  width: 12px;\n  height: 12px;\n  border-radius: 50%;\n  background: #fc625d;\n  -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;\n}\n/* 代码块一键复制图标 */\n.code-copy {\n  position: absolute;\n  top: 0.8rem;\n  right: 2rem;\n  fill: rgba(238, 255, 255, 0.8);\n  opacity: 1;\n}\n.code-copy svg {\n  margin: 0;\n}\n\n/* 如果你浅色模式的代码块背景色是浅灰色，则取消下面的注释使代码生效，如果是黑色，则注释下面的三段代码（我注释了，因为是黑色背景） */\n.theme-mode-light .expand {\n  color: #666;\n}\n.theme-mode-light div[class*=\"language-\"]::before {\n  color: #666;\n}\n.theme-mode-light .code-copy {\n  fill: #666;\n}\n</style>\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90\n91\n92\n93\n94\n95\n96\n97\n98\n99\n100\n101\n102\n103\n104\n105\n106\n107\n108\n109\n110\n111\n112\n113\n114\n115\n116\n117\n118\n119\n120\n121\n122\n123\n124\n125\n126\n127\n128\n129\n130\n131\n132\n133\n134\n135\n136\n137\n138\n139\n140\n141\n142\n143\n144\n145\n146\n147\n148\n149\n150\n151\n152\n153\n154\n155\n156\n157\n158\n159\n160\n161\n162\n163\n164\n165\n166\n167\n168\n169\n170\n171\n172\n173\n174\n175\n176\n177\n178\n179\n180\n181\n182\n183\n184\n185\n186\n187\n188\n189\n190\n191\n192\n193\n194\n195\n196\n197\n198\n199\n200\n201\n202\n203\n204\n205\n206\n207\n208\n209\n210\n211\n212\n213\n214\n215\n216\n217\n218\n219\n220\n221\n222\n223\n224\n225\n226\n227\n228\n229\n230\n\n\n第 7 行和第 13 行的参数 40 是隐藏代码块后，保留的代码块高度，40 是默认值。\n\n注意\n\n * 如果浅色模式的代码块背景色是浅灰色，则取消 221 - 229 的注释使代码生效（模板已经取消注释）\n * 如果是黑色，则注释 221 - 229 的代码（我自己的注释了，因为我的代码块是黑色背景）\n * 如果不喜欢代码块的语言变成大写，则注释 183 行的 text-transform: uppercase;\n\n如果你想要你的代码块和我一样是黑色，则打开 docs/.vuepress/styles/palette.styl 文件，替换掉原来的浅色模式：\n\n.theme-mode-light\n  --bodybg: #f4f4f4\n  --mainbg: rgba(255,255,255,1)\n  --sidebarbg: rgba(255,255,255,.8)\n  --blurbg: rgba(255,255,255,.9)\n  --customblockbg: rgba(255,255,255,.9)\n  --textcolor: #00323c\n  --textlightencolor: #0085ad\n  --bordercolor: rgba(0,0,0,.15)\n  // 代码块浅色主题\n  //--codebg: #f6f8fa\n  //--codecolor: #24292e\n  //codethemelight()\n  // 行高亮颜色，和代码块浅色主题一起使用，一起注释\n  //div[class*=\"language-\"]\n  //  .highlight-lines\n  //    .highlighted\n  //      background-color rgba(200,200,200,.4)\n  //  &.line-numbers-mode\n  //    .highlight-lines .highlighted\n  //      &:before\n  //        background-color rgba(200,200,200,.4)\n  // 代码块深色主题\n  --codebg: #282c34\n  --codecolor: #d4d4d4\n  codethemedark()\n  // 行高亮颜色，和代码块深色主题一起使用，一起注释\n  div[class*=\"language-\"]\n    .highlight-lines\n      .highlighted\n        background-color rgba(0,0,0,.66)\n    &.line-numbers-mode\n      .highlight-lines .highlighted\n        &:before\n          background-color rgba(0,0,0,.66)\n  div[class*=\"language-\"].line-numbers-mode::after  // 代码块的行数和内容分割线颜色\n    border-right 1px solid rgba(0, 0, 0, 0.66)\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n\n\n\n# 五. 注意\n\nvuepress-plugin-one-click-copy 插件在移动端（手机端）失效，因为其自带的隐藏效果原因，这并不是本模块引起，而是本身插件的设计问题。\n\n所以如果觉得移动端也想要支持一键复制，请更换其他插件，并自行修改源码进行适配。\n\n\n# 六. 注册vue组件\n\n在 docs/.vuepress/config.js的 plugins 中添加插件配置。\n\n添加如下内容：\n\nmodule.exports = {\n  plugins: [\n    {\n      name: 'custom-plugins',\n      globaluicomponents: [\"blocktoggle\"] // 2.x 版本 globaluicomponents 改名为 clientapprootcomponentfiles\n    }\n  ],\n}\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\nimport { userplugins } from 'vuepress/config'\nplugins: <userplugins>[\n  [\n    {\n      name: 'custom-plugins',\n      globaluicomponents: [\"blocktoggle\"] // 2.x 版本 globaluicomponents 改名为 clientapprootcomponentfiles\n    }\n  ]\n]\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n",
+      "headersStr": "📚. Blog 🎨. Theme 🐼. Me 🌟. 技能 ✉️. 联系",
+      "content": "# 📚. Blog\n\n这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到GitHub点个 Star，或者交换友链 ( •̀ ω •́ )✧\n\n提示\n\n文章内容仅是我个人的小总结，资历尚浅，如有误还请指正。\n\n更新日志\n\n\n# 🎨. Theme\n\n\n\n本站主题是 Vdoing，这是一款简洁高效的 VuePress 知识管理&博客 主题。旨在轻松打造一个结构化与碎片化并存的个人在线知识库&博客，让你的知识海洋像一本本书一样清晰易读。配合多维索引，让每一个知识点都可以快速定位！ 更多详情。\n\n\n# 🐼. Me\n\nweb 前端小学生\n\n\n# 🌟. 技能\n\n * 熟悉 JavaScript、HTML、CSS、Vue 的拼写\n * 了解 Linux、windows、macOS 的开关机方式\n * 精通 Git 的 pull 和 push，并注册了 GitHub 帐号刷了一些 star\n\n\n# ✉️. 联系\n\n * QQ: 272269682\n * WeChat: ljm272269682\n * Email: aligoogle@163.com\n * Vdoing主题文档：https://doc.xugaoyi.com",
+      "normalizedContent": "# 📚. blog\n\n这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是web前端技术。如果你喜欢这个博客&主题欢迎到github点个 star，或者交换友链 ( • ω • )✧\n\n提示\n\n文章内容仅是我个人的小总结，资历尚浅，如有误还请指正。\n\n更新日志\n\n\n# 🎨. theme\n\n\n\n本站主题是 vdoing，这是一款简洁高效的 vuepress 知识管理&博客 主题。旨在轻松打造一个结构化与碎片化并存的个人在线知识库&博客，让你的知识海洋像一本本书一样清晰易读。配合多维索引，让每一个知识点都可以快速定位！ 更多详情。\n\n\n# 🐼. me\n\nweb 前端小学生\n\n\n# 🌟. 技能\n\n * 熟悉 javascript、html、css、vue 的拼写\n * 了解 linux、windows、macos 的开关机方式\n * 精通 git 的 pull 和 push，并注册了 github 帐号刷了一些 star\n\n\n# ✉️. 联系\n\n * qq: 272269682\n * wechat: ljm272269682\n * email: aligoogle@163.com\n * vdoing主题文档：https://doc.xugaoyi.com",
       "charsets": {
         "cjk": true
       }
@@ -1659,7 +1737,7 @@ export const siteData = {
       },
       "regularPath": "/99.%E6%9B%B4%E5%A4%9A/03.%E9%9D%A2%E8%AF%95/01.%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E9%9B%86%E9%94%A6.html",
       "relativePath": "99.更多/03.面试/01.面试问题集锦.md",
-      "key": "v-3dcec990",
+      "key": "v-f7cb13ea",
       "path": "/pages/aea6571b7a8bae86/",
       "headers": [
         {
@@ -2036,11 +2114,11 @@ export const siteData = {
       }
     },
     {
-      "title": "费曼学习法",
+      "title": "2 分钟规则",
       "frontmatter": {
-        "title": "费曼学习法",
-        "date": "2020-07-16T10:04:14.000Z",
-        "permalink": "/pages/f2a556/",
+        "title": "2 分钟规则",
+        "date": "2020-11-09T11:05:29.000Z",
+        "permalink": "/pages/baaa02/",
         "categories": [
           "生活小记"
         ],
@@ -2048,23 +2126,15 @@ export const siteData = {
           "阅读"
         ]
       },
-      "regularPath": "/99.%E6%9B%B4%E5%A4%9A/01.%E5%AD%A6%E4%B9%A0/00.%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95.html",
-      "relativePath": "99.更多/01.学习/00.费曼学习法.md",
-      "key": "v-20ccb9a9",
-      "path": "/pages/f2a556/",
-      "headers": [
-        {
-          "level": 3,
-          "title": "步骤",
-          "slug": "步骤",
-          "normalizedTitle": "步骤",
-          "charIndex": 102
-        }
-      ],
+      "regularPath": "/99.%E6%9B%B4%E5%A4%9A/10.%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/01.2%E5%88%86%E9%92%9F%E8%A7%84%E5%88%99.html",
+      "relativePath": "99.更多/10.实用技巧/01.2分钟规则.md",
+      "key": "v-5ca75b77",
+      "path": "/pages/baaa02/",
+      "excerpt": "<p>每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。</p>\n<ul>\n<li>看一本书 → 看一页书</li>\n<li>写一篇文章 → 写一句话</li>\n<li>跑10公里 → 穿上跑鞋</li>\n<li>做100次俯卧撑 → 做1次俯卧撑</li>\n<li>多吃蔬菜水果 → 吃一个水果</li>\n<li>编写一个程序 → 编写一个函数 → 编写一行代码</li>\n</ul>\n",
       "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": "步骤",
-      "content": "费曼学习法，我很喜欢的一个学习方法，简单来说，就是：通过向别人清楚的解说某一件事或是写一篇浅显易懂的教程文章，来确认自己是否真正弄懂了这件事。 可以说是在通过向别讲解过程中来对自身的 查缺补漏。\n\n\n# 步骤\n\n费曼学习法分为4个步骤:\n\n 1. 确定学习目标\n\n你想学习的概念、内容、主题是什么。\n\n 2. 模拟教学学习法\n\n你要模拟自己是一位老师，面对完全不懂这个领域的人，用自己的话，尽可能具体形象地讲诉。这样的讲诉有助于你活学活用，触类旁通，联系生活具体情境。\n\n 3. 回顾\n\n反思第2步遇到的问题，哪些地方卡壳了，哪些地方对方没有真正听懂。找出问题的要害，把握关键环节。\n\n 4. 简化\n\n把这些遇到问题的地方，重新梳理理解，尽可能了解更多背景和相关知识，再用尽可能简化的方式重新表达，设法看穿本质。然后，返回第2步。\n\n> 参考：\n> \n> 《费曼学习法：为何被称为史上最牛的学习法，它的本质究竟是什么？》\n> \n> 《费曼学习法》",
-      "normalizedContent": "费曼学习法，我很喜欢的一个学习方法，简单来说，就是：通过向别人清楚的解说某一件事或是写一篇浅显易懂的教程文章，来确认自己是否真正弄懂了这件事。 可以说是在通过向别讲解过程中来对自身的 查缺补漏。\n\n\n# 步骤\n\n费曼学习法分为4个步骤:\n\n 1. 确定学习目标\n\n你想学习的概念、内容、主题是什么。\n\n 2. 模拟教学学习法\n\n你要模拟自己是一位老师，面对完全不懂这个领域的人，用自己的话，尽可能具体形象地讲诉。这样的讲诉有助于你活学活用，触类旁通，联系生活具体情境。\n\n 3. 回顾\n\n反思第2步遇到的问题，哪些地方卡壳了，哪些地方对方没有真正听懂。找出问题的要害，把握关键环节。\n\n 4. 简化\n\n把这些遇到问题的地方，重新梳理理解，尽可能了解更多背景和相关知识，再用尽可能简化的方式重新表达，设法看穿本质。然后，返回第2步。\n\n> 参考：\n> \n> 《费曼学习法：为何被称为史上最牛的学习法，它的本质究竟是什么？》\n> \n> 《费曼学习法》",
+      "headersStr": null,
+      "content": "每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。\n\n * 看一本书 → 看一页书\n * 写一篇文章 → 写一句话\n * 跑10公里 → 穿上跑鞋\n * 做100次俯卧撑 → 做1次俯卧撑\n * 多吃蔬菜水果 → 吃一个水果\n * 编写一个程序 → 编写一个函数 → 编写一行代码\n\n这样做的目的是使上手变得超级容易，让你先上手再说。一旦开始做了（这可能是最艰难的一步），你就会开始有动力，可能会继续做下去。\n\n * 阅读一页 → 阅读10页 → 读完第一章\n * 写一个句子 → 写文章的开头 → 写出正文\n * 穿上跑鞋 → 步行5分钟 → 跑步5分钟\n\n一旦开始，继续做下去就会容易得多。有时，你甚至会发现，自己在不知不觉间已经完成了任务。\n\n> 本文摘录自 https://hoanhan.co/2-minute-rule",
+      "normalizedContent": "每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。\n\n * 看一本书 → 看一页书\n * 写一篇文章 → 写一句话\n * 跑10公里 → 穿上跑鞋\n * 做100次俯卧撑 → 做1次俯卧撑\n * 多吃蔬菜水果 → 吃一个水果\n * 编写一个程序 → 编写一个函数 → 编写一行代码\n\n这样做的目的是使上手变得超级容易，让你先上手再说。一旦开始做了（这可能是最艰难的一步），你就会开始有动力，可能会继续做下去。\n\n * 阅读一页 → 阅读10页 → 读完第一章\n * 写一个句子 → 写文章的开头 → 写出正文\n * 穿上跑鞋 → 步行5分钟 → 跑步5分钟\n\n一旦开始，继续做下去就会容易得多。有时，你甚至会发现，自己在不知不觉间已经完成了任务。\n\n> 本文摘录自 https://hoanhan.co/2-minute-rule",
       "charsets": {
         "cjk": true
       }
@@ -2079,8 +2149,26 @@ export const siteData = {
       },
       "regularPath": "/@pages/archivesPage.html",
       "relativePath": "@pages/archivesPage.md",
-      "key": "v-bc0d4b7e",
+      "key": "v-cf5696d8",
       "path": "/archives/",
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": null,
+      "content": "",
+      "normalizedContent": "",
+      "charsets": {}
+    },
+    {
+      "title": "分类",
+      "frontmatter": {
+        "categoriesPage": true,
+        "title": "分类",
+        "permalink": "/categories/",
+        "article": false
+      },
+      "regularPath": "/@pages/categoriesPage.html",
+      "relativePath": "@pages/categoriesPage.md",
+      "key": "v-a900df18",
+      "path": "/categories/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
       "content": "",
@@ -2097,52 +2185,8 @@ export const siteData = {
       },
       "regularPath": "/@pages/tagsPage.html",
       "relativePath": "@pages/tagsPage.md",
-      "key": "v-edf1887e",
+      "key": "v-2e40cdd8",
       "path": "/tags/",
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "",
-      "normalizedContent": "",
-      "charsets": {}
-    },
-    {
-      "title": "2 分钟规则",
-      "frontmatter": {
-        "title": "2 分钟规则",
-        "date": "2020-11-09T11:05:29.000Z",
-        "permalink": "/pages/baaa02/",
-        "categories": [
-          "生活小记"
-        ],
-        "tags": [
-          "阅读"
-        ]
-      },
-      "regularPath": "/99.%E6%9B%B4%E5%A4%9A/10.%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7/01.2%E5%88%86%E9%92%9F%E8%A7%84%E5%88%99.html",
-      "relativePath": "99.更多/10.实用技巧/01.2分钟规则.md",
-      "key": "v-72b0e964",
-      "path": "/pages/baaa02/",
-      "excerpt": "<p>每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。</p>\n<ul>\n<li>看一本书 → 看一页书</li>\n<li>写一篇文章 → 写一句话</li>\n<li>跑10公里 → 穿上跑鞋</li>\n<li>做100次俯卧撑 → 做1次俯卧撑</li>\n<li>多吃蔬菜水果 → 吃一个水果</li>\n<li>编写一个程序 → 编写一个函数 → 编写一行代码</li>\n</ul>\n",
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": null,
-      "content": "每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。\n\n * 看一本书 → 看一页书\n * 写一篇文章 → 写一句话\n * 跑10公里 → 穿上跑鞋\n * 做100次俯卧撑 → 做1次俯卧撑\n * 多吃蔬菜水果 → 吃一个水果\n * 编写一个程序 → 编写一个函数 → 编写一行代码\n\n这样做的目的是使上手变得超级容易，让你先上手再说。一旦开始做了（这可能是最艰难的一步），你就会开始有动力，可能会继续做下去。\n\n * 阅读一页 → 阅读10页 → 读完第一章\n * 写一个句子 → 写文章的开头 → 写出正文\n * 穿上跑鞋 → 步行5分钟 → 跑步5分钟\n\n一旦开始，继续做下去就会容易得多。有时，你甚至会发现，自己在不知不觉间已经完成了任务。\n\n> 本文摘录自 https://hoanhan.co/2-minute-rule",
-      "normalizedContent": "每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。\n\n * 看一本书 → 看一页书\n * 写一篇文章 → 写一句话\n * 跑10公里 → 穿上跑鞋\n * 做100次俯卧撑 → 做1次俯卧撑\n * 多吃蔬菜水果 → 吃一个水果\n * 编写一个程序 → 编写一个函数 → 编写一行代码\n\n这样做的目的是使上手变得超级容易，让你先上手再说。一旦开始做了（这可能是最艰难的一步），你就会开始有动力，可能会继续做下去。\n\n * 阅读一页 → 阅读10页 → 读完第一章\n * 写一个句子 → 写文章的开头 → 写出正文\n * 穿上跑鞋 → 步行5分钟 → 跑步5分钟\n\n一旦开始，继续做下去就会容易得多。有时，你甚至会发现，自己在不知不觉间已经完成了任务。\n\n> 本文摘录自 https://hoanhan.co/2-minute-rule",
-      "charsets": {
-        "cjk": true
-      }
-    },
-    {
-      "title": "分类",
-      "frontmatter": {
-        "categoriesPage": true,
-        "title": "分类",
-        "permalink": "/categories/",
-        "article": false
-      },
-      "regularPath": "/@pages/categoriesPage.html",
-      "relativePath": "@pages/categoriesPage.md",
-      "key": "v-61cf97a1",
-      "path": "/categories/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
       "content": "",
@@ -2156,6 +2200,7 @@ export const siteData = {
         "date": "2022-05-27T10:48:27.000Z",
         "permalink": "/pages/9ccd26/",
         "sidebarOpen": true,
+        "sticky": 1,
         "categories": [
           "生活小记"
         ],
@@ -2166,7 +2211,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0/01.%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.html",
       "relativePath": "_posts/生活小记/01.《小狗钱钱》读书笔记.md",
-      "key": "v-18ffe5cd",
+      "key": "v-33a331a0",
       "path": "/pages/9ccd26/",
       "headers": [
         {
@@ -2277,12 +2322,83 @@ export const siteData = {
       }
     },
     {
+      "title": "《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？",
+      "frontmatter": {
+        "title": "《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？",
+        "date": "2022-05-26T22:21:01.000Z",
+        "permalink": "/pages/165d68/",
+        "sidebar": "auto",
+        "sidebarOpen": false,
+        "categories": [
+          "生活小记"
+        ],
+        "tags": [
+          "生活"
+        ]
+      },
+      "regularPath": "/_posts/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0/02.%E3%80%8A%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8%E3%80%8B%E7%A9%B7%E4%BA%BA%E6%80%9D%E7%BB%B4%E5%92%8C%E5%AF%8C%E4%BA%BA%E6%80%9D%E7%BB%B4%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E5%91%A2%EF%BC%9F.html",
+      "relativePath": "_posts/生活小记/02.《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？.md",
+      "key": "v-07372183",
+      "path": "/pages/165d68/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一. 摘要：两个爸爸的观念",
+          "slug": "一-摘要-两个爸爸的观念",
+          "normalizedTitle": "一. 摘要：两个爸爸的观念",
+          "charIndex": 98
+        },
+        {
+          "level": 2,
+          "title": "二. 穷人思维和富人思维",
+          "slug": "二-穷人思维和富人思维",
+          "normalizedTitle": "二. 穷人思维和富人思维",
+          "charIndex": 819
+        },
+        {
+          "level": 2,
+          "title": "三. 财商",
+          "slug": "三-财商",
+          "normalizedTitle": "三. 财商",
+          "charIndex": 1153
+        },
+        {
+          "level": 3,
+          "title": "1. 第一条是富人不会为钱而工作",
+          "slug": "_1-第一条是富人不会为钱而工作",
+          "normalizedTitle": "1. 第一条是富人不会为钱而工作",
+          "charIndex": 1281
+        },
+        {
+          "level": 3,
+          "title": "2. 第二条是学会区分资产和负债",
+          "slug": "_2-第二条是学会区分资产和负债",
+          "normalizedTitle": "2. 第二条是学会区分资产和负债",
+          "charIndex": 2037
+        },
+        {
+          "level": 2,
+          "title": "四. 总结",
+          "slug": "四-总结",
+          "normalizedTitle": "四. 总结",
+          "charIndex": 2454
+        }
+      ],
+      "lastUpdated": "2022/08/17, 00:34:25",
+      "headersStr": "一. 摘要：两个爸爸的观念 二. 穷人思维和富人思维 三. 财商 1. 第一条是富人不会为钱而工作 2. 第二条是学会区分资产和负债 四. 总结",
+      "content": "# 《富爸爸穷爸爸》\n\n笔记\n\n巴菲特曾经说过这样一句话：“一生能够积累多少财富，不取决于你能够赚多少钱，而取决于你如何投资理财，钱找人胜过人找钱，要懂得钱为你工作，而不是你为钱工作。”\n\n\n# 一. 摘要：两个爸爸的观念\n\n穷爸爸总是说：“贪婪是万恶之源，人就应该懂得节制，不要浑身都是铜臭味。”\n富爸爸总是说：“贫穷才是万恶之源，贫穷会放大人性的恶，会把人性中善的一面磨灭掉。与此相反，有钱才会帮助到更多的人，才会消灭掉世界更多的恶。”\n\n穷爸爸总是说：“你要好好学习，以后就能找一份好工作。”\n富爸爸总是说：“你要好好学习，这样以后你就能开自己的公司，创造很多就业机会给别人。你看见好的企业还能收购他们，给更多的人工作机会。”\n\n穷爸爸经常教罗伯特怎么制作一个让人印象深刻的简历。\n而富爸爸则教他写自己的商业计划书和财务计划表。\n\n穷爸爸遇到一个特别贵的东西时，总是会习惯性的说：“这个我可付不起”，就不要再去想这个问题了。\n富爸爸则坚决禁止说这样的话，他总是会让罗伯特和迈克去想：“如果我要买这个东西，我要怎么做才能买得起？”\n\n穷爸爸花一笔钱都会思前想后很长时间，就像割自己的一块肉一样腾，生怕花出去的钱就再也回不来了。\n富爸爸不会这么拘谨，他告诉罗伯特要学会控制风险，一旦钱在风险控制之内，就大胆去投资。\n\n穷爸爸总是相信政府会满足人民的需求，他把自己的老年退休计划全部押注在政府身上，所以他平时最关心加薪、退休政策、医疗补贴、病假、津贴这些琐事，他最希望的生活就是晚年的时候政府能定期给他发钱。\n富爸爸就完全不相信这一套，他认为一个人如果有了别的依靠，就会不知不觉变得软弱，变得不思进取，而这些都是导致贫穷最重要的原因。一个人要始终对自己的财务状况负责，持续的学习才是最好的保障。\n\n最后两位爸爸去世的时候，穷爸爸留下来一大堆银行账单，而富爸爸留下了数亿美元的资金做慈善，迈克继承了富爸爸的事业，继续创造更多的钱。\n\n\n# 二. 穷人思维和富人思维\n\n本书作者 罗伯特 · 清崎 有两个爸爸，一个是 “穷爸爸” —— 他的亲生父亲，拥有高学历的教育官员；另一个则是 “富爸爸” —— 他好朋友的父亲，高中没毕业却善于投资理财的企业家。\n\n两个爸爸对金钱的观念截然不同，正如作者在书中写到的：\n\n> 如果我只有一个爸爸，那么对于他的建议我可以选择接受或者拒绝；但两个爸爸都给我建议，这就为我提供了一个在截然不同的观念间进行选择的机会，既选择富人的观念或穷人的观念。\n\n这里就引申出了穷人思维和富人思维：\n\n穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境；富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n\n# 三. 财商\n\n财商是一种非常重要的能力，但是大部分人都没有，这主要是因为大部分家长财商都很低，家里没人教，学校里也没人教，所以大部分人成年之后的财商都很低。这是大部分人一生都生活在财务困境之中的根源。\n\n那到底怎么提高财商呢？富爸爸给了两条建议。\n\n\n# 1. 第一条是富人不会为钱而工作\n\n富人不会为了一点点小钱就出卖自己的时间和劳动，那是穷人干的事情，富人都是把精力关注在自己的事业上，他们非常珍惜自己的时间和精力，富人会为了自己的成长和快乐而工作，不会只为了赚钱去工作。\n\n富爸爸给罗伯特讲了一个老鼠赛跑的例子。他说大多数受过传统教育的人，虽然每个人的情况千差万别，但整体上还是有惊人的相似性。比如从小被人告知，要好好学习，毕业后才能找到好工作，于是他们就像一只老鼠在一个笼子里一直跑一样， 如愿以偿的找了一份稳定的工作，然后结婚、生小孩，他们的职业可能是医生、律师，有着不错的收入，但是工资也就够付房费和供子女上学，然后他们为了改善生活，就更加努力的工作。刚刚升职加薪，开支也跟着上升，他们缴更多的税，有更多的开销， 刷更多的信用卡，欠更多的债，于是更加努力的工作。就像一只小老鼠在圆形笼子里快速奔跑一样，看上去非常的努力，实际上却在原地打转。\n\n那怎么才能摆脱这种老鼠赛跑的陷阱呢？首先就要学会直面自己的恐惧和欲望，学习理财的知识，提高财商，财商高了人就不会恐惧。\n\n大多数人出去找一份工作的动力都是因为恐惧，害怕付不起账单，害怕被解雇，害怕重新开始，大多数人都是钱的奴隶。为了消灭这种恐惧感，他们通常就会很廉价的出卖自己的劳动力，实际上很多人创造的价值远远超过他们所干的活。\n\n为了让罗伯特和迈克不为钱而工作，富爸爸很早就可以训练他们。有天富爸爸问他们想学怎么赚大钱吗？两个小朋友大声的说想！然后富爸爸说：“学可以，但是需要白干活，一分钱工资也没有，但是你们可以从我这任选一个工作， 每个工作都对应着一个技能，这些技能可以组合出一个事业。”\n\n从此两个小朋友开始免费为富爸爸工作，在免费工作之中罗伯特学会了不为钱而工作，而要为学习，为成长而工作。\n\n\n# 2. 第二条是学会区分资产和负债\n\n大多数人都分不清什么是资产，什么是负债。资产是能持续给你带来净现金流入的东西，负债是能持续的给你带来净现金流出的东西。\n\n比如你有一辆车，你可能觉得这就是你的资产，但其实不是，车是负债，你养护它需要源源不断的花钱。\n\n要变富唯一要做的就是搞清楚资产和负债的区别，并且不断地买入资产。\n\n这个规则听起来非常的简单，但是大部分人都不知道。\n\n大部分人是挣得多花得也多，他们大量的买入自以为是资产的负债，最后把自己的经济状况拖垮。\n\n一个年入百万，贷款买豪宅豪车，入不敷出的人依然是穷人。\n\n富人是怎么消费的呢？他们绝对不会用本来要去购买资产的钱去买负债，如果他们想要提升自己的生活品质，想要购买一些奢侈品，一定是用资产赚来的钱去购买，也就是说，他们会努力先把 钱生钱的模式 搭建起来，然后再去考虑消费。\n\n只有养成正确的金钱观，不断地购买资产，减少负债，想办法让钱生钱，才能尽早实现财务自由。\n\n\n# 四. 总结\n\n第一点是：穷人思维和富人思维的区别，穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境。富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n第二点是：提高财商的两个建议，富人不会为了钱而工作，富人学习区分资产与负债的不同，富人让钱为自己工作。",
+      "normalizedContent": "# 《富爸爸穷爸爸》\n\n笔记\n\n巴菲特曾经说过这样一句话：“一生能够积累多少财富，不取决于你能够赚多少钱，而取决于你如何投资理财，钱找人胜过人找钱，要懂得钱为你工作，而不是你为钱工作。”\n\n\n# 一. 摘要：两个爸爸的观念\n\n穷爸爸总是说：“贪婪是万恶之源，人就应该懂得节制，不要浑身都是铜臭味。”\n富爸爸总是说：“贫穷才是万恶之源，贫穷会放大人性的恶，会把人性中善的一面磨灭掉。与此相反，有钱才会帮助到更多的人，才会消灭掉世界更多的恶。”\n\n穷爸爸总是说：“你要好好学习，以后就能找一份好工作。”\n富爸爸总是说：“你要好好学习，这样以后你就能开自己的公司，创造很多就业机会给别人。你看见好的企业还能收购他们，给更多的人工作机会。”\n\n穷爸爸经常教罗伯特怎么制作一个让人印象深刻的简历。\n而富爸爸则教他写自己的商业计划书和财务计划表。\n\n穷爸爸遇到一个特别贵的东西时，总是会习惯性的说：“这个我可付不起”，就不要再去想这个问题了。\n富爸爸则坚决禁止说这样的话，他总是会让罗伯特和迈克去想：“如果我要买这个东西，我要怎么做才能买得起？”\n\n穷爸爸花一笔钱都会思前想后很长时间，就像割自己的一块肉一样腾，生怕花出去的钱就再也回不来了。\n富爸爸不会这么拘谨，他告诉罗伯特要学会控制风险，一旦钱在风险控制之内，就大胆去投资。\n\n穷爸爸总是相信政府会满足人民的需求，他把自己的老年退休计划全部押注在政府身上，所以他平时最关心加薪、退休政策、医疗补贴、病假、津贴这些琐事，他最希望的生活就是晚年的时候政府能定期给他发钱。\n富爸爸就完全不相信这一套，他认为一个人如果有了别的依靠，就会不知不觉变得软弱，变得不思进取，而这些都是导致贫穷最重要的原因。一个人要始终对自己的财务状况负责，持续的学习才是最好的保障。\n\n最后两位爸爸去世的时候，穷爸爸留下来一大堆银行账单，而富爸爸留下了数亿美元的资金做慈善，迈克继承了富爸爸的事业，继续创造更多的钱。\n\n\n# 二. 穷人思维和富人思维\n\n本书作者 罗伯特 · 清崎 有两个爸爸，一个是 “穷爸爸” —— 他的亲生父亲，拥有高学历的教育官员；另一个则是 “富爸爸” —— 他好朋友的父亲，高中没毕业却善于投资理财的企业家。\n\n两个爸爸对金钱的观念截然不同，正如作者在书中写到的：\n\n> 如果我只有一个爸爸，那么对于他的建议我可以选择接受或者拒绝；但两个爸爸都给我建议，这就为我提供了一个在截然不同的观念间进行选择的机会，既选择富人的观念或穷人的观念。\n\n这里就引申出了穷人思维和富人思维：\n\n穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境；富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n\n# 三. 财商\n\n财商是一种非常重要的能力，但是大部分人都没有，这主要是因为大部分家长财商都很低，家里没人教，学校里也没人教，所以大部分人成年之后的财商都很低。这是大部分人一生都生活在财务困境之中的根源。\n\n那到底怎么提高财商呢？富爸爸给了两条建议。\n\n\n# 1. 第一条是富人不会为钱而工作\n\n富人不会为了一点点小钱就出卖自己的时间和劳动，那是穷人干的事情，富人都是把精力关注在自己的事业上，他们非常珍惜自己的时间和精力，富人会为了自己的成长和快乐而工作，不会只为了赚钱去工作。\n\n富爸爸给罗伯特讲了一个老鼠赛跑的例子。他说大多数受过传统教育的人，虽然每个人的情况千差万别，但整体上还是有惊人的相似性。比如从小被人告知，要好好学习，毕业后才能找到好工作，于是他们就像一只老鼠在一个笼子里一直跑一样， 如愿以偿的找了一份稳定的工作，然后结婚、生小孩，他们的职业可能是医生、律师，有着不错的收入，但是工资也就够付房费和供子女上学，然后他们为了改善生活，就更加努力的工作。刚刚升职加薪，开支也跟着上升，他们缴更多的税，有更多的开销， 刷更多的信用卡，欠更多的债，于是更加努力的工作。就像一只小老鼠在圆形笼子里快速奔跑一样，看上去非常的努力，实际上却在原地打转。\n\n那怎么才能摆脱这种老鼠赛跑的陷阱呢？首先就要学会直面自己的恐惧和欲望，学习理财的知识，提高财商，财商高了人就不会恐惧。\n\n大多数人出去找一份工作的动力都是因为恐惧，害怕付不起账单，害怕被解雇，害怕重新开始，大多数人都是钱的奴隶。为了消灭这种恐惧感，他们通常就会很廉价的出卖自己的劳动力，实际上很多人创造的价值远远超过他们所干的活。\n\n为了让罗伯特和迈克不为钱而工作，富爸爸很早就可以训练他们。有天富爸爸问他们想学怎么赚大钱吗？两个小朋友大声的说想！然后富爸爸说：“学可以，但是需要白干活，一分钱工资也没有，但是你们可以从我这任选一个工作， 每个工作都对应着一个技能，这些技能可以组合出一个事业。”\n\n从此两个小朋友开始免费为富爸爸工作，在免费工作之中罗伯特学会了不为钱而工作，而要为学习，为成长而工作。\n\n\n# 2. 第二条是学会区分资产和负债\n\n大多数人都分不清什么是资产，什么是负债。资产是能持续给你带来净现金流入的东西，负债是能持续的给你带来净现金流出的东西。\n\n比如你有一辆车，你可能觉得这就是你的资产，但其实不是，车是负债，你养护它需要源源不断的花钱。\n\n要变富唯一要做的就是搞清楚资产和负债的区别，并且不断地买入资产。\n\n这个规则听起来非常的简单，但是大部分人都不知道。\n\n大部分人是挣得多花得也多，他们大量的买入自以为是资产的负债，最后把自己的经济状况拖垮。\n\n一个年入百万，贷款买豪宅豪车，入不敷出的人依然是穷人。\n\n富人是怎么消费的呢？他们绝对不会用本来要去购买资产的钱去买负债，如果他们想要提升自己的生活品质，想要购买一些奢侈品，一定是用资产赚来的钱去购买，也就是说，他们会努力先把 钱生钱的模式 搭建起来，然后再去考虑消费。\n\n只有养成正确的金钱观，不断地购买资产，减少负债，想办法让钱生钱，才能尽早实现财务自由。\n\n\n# 四. 总结\n\n第一点是：穷人思维和富人思维的区别，穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境。富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n第二点是：提高财商的两个建议，富人不会为了钱而工作，富人学习区分资产与负债的不同，富人让钱为自己工作。",
+      "charsets": {
+        "cjk": true
+      }
+    },
+    {
       "title": "自我所认知的自律",
       "frontmatter": {
         "title": "自我所认知的自律",
         "date": "2018-06-06T20:36:00.000Z",
         "permalink": "/pages/0af0a3/",
-        "sticky": 1,
+        "sticky": 2,
         "sidebar": "auto",
         "sidebarOpen": false,
         "categories": [
@@ -2294,7 +2410,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/%E9%9A%8F%E7%AC%94/01.%E8%87%AA%E6%88%91%E6%89%80%E8%AE%A4%E7%9F%A5%E7%9A%84%E8%87%AA%E5%BE%8B.html",
       "relativePath": "_posts/随笔/01.自我所认知的自律.md",
-      "key": "v-107d3654",
+      "key": "v-9901ddb2",
       "path": "/pages/0af0a3/",
       "headers": [
         {
@@ -2350,77 +2466,6 @@ export const siteData = {
       }
     },
     {
-      "title": "《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？",
-      "frontmatter": {
-        "title": "《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？",
-        "date": "2022-05-26T22:21:01.000Z",
-        "permalink": "/pages/165d68/",
-        "sidebar": "auto",
-        "sidebarOpen": false,
-        "categories": [
-          "生活小记"
-        ],
-        "tags": [
-          "生活"
-        ]
-      },
-      "regularPath": "/_posts/%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AE%B0/02.%E3%80%8A%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8%E3%80%8B%E7%A9%B7%E4%BA%BA%E6%80%9D%E7%BB%B4%E5%92%8C%E5%AF%8C%E4%BA%BA%E6%80%9D%E7%BB%B4%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E5%91%A2%EF%BC%9F.html",
-      "relativePath": "_posts/生活小记/02.《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？.md",
-      "key": "v-72b62a30",
-      "path": "/pages/165d68/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "一. 摘要：两个爸爸的观念",
-          "slug": "一-摘要-两个爸爸的观念",
-          "normalizedTitle": "一. 摘要：两个爸爸的观念",
-          "charIndex": 98
-        },
-        {
-          "level": 2,
-          "title": "二. 穷人思维和富人思维",
-          "slug": "二-穷人思维和富人思维",
-          "normalizedTitle": "二. 穷人思维和富人思维",
-          "charIndex": 819
-        },
-        {
-          "level": 2,
-          "title": "三. 财商",
-          "slug": "三-财商",
-          "normalizedTitle": "三. 财商",
-          "charIndex": 1153
-        },
-        {
-          "level": 3,
-          "title": "1. 第一条是富人不会为钱而工作",
-          "slug": "_1-第一条是富人不会为钱而工作",
-          "normalizedTitle": "1. 第一条是富人不会为钱而工作",
-          "charIndex": 1281
-        },
-        {
-          "level": 3,
-          "title": "2. 第二条是学会区分资产和负债",
-          "slug": "_2-第二条是学会区分资产和负债",
-          "normalizedTitle": "2. 第二条是学会区分资产和负债",
-          "charIndex": 2037
-        },
-        {
-          "level": 2,
-          "title": "四. 总结",
-          "slug": "四-总结",
-          "normalizedTitle": "四. 总结",
-          "charIndex": 2454
-        }
-      ],
-      "lastUpdated": "2022/08/17, 00:34:25",
-      "headersStr": "一. 摘要：两个爸爸的观念 二. 穷人思维和富人思维 三. 财商 1. 第一条是富人不会为钱而工作 2. 第二条是学会区分资产和负债 四. 总结",
-      "content": "# 《富爸爸穷爸爸》\n\n笔记\n\n巴菲特曾经说过这样一句话：“一生能够积累多少财富，不取决于你能够赚多少钱，而取决于你如何投资理财，钱找人胜过人找钱，要懂得钱为你工作，而不是你为钱工作。”\n\n\n# 一. 摘要：两个爸爸的观念\n\n穷爸爸总是说：“贪婪是万恶之源，人就应该懂得节制，不要浑身都是铜臭味。”\n富爸爸总是说：“贫穷才是万恶之源，贫穷会放大人性的恶，会把人性中善的一面磨灭掉。与此相反，有钱才会帮助到更多的人，才会消灭掉世界更多的恶。”\n\n穷爸爸总是说：“你要好好学习，以后就能找一份好工作。”\n富爸爸总是说：“你要好好学习，这样以后你就能开自己的公司，创造很多就业机会给别人。你看见好的企业还能收购他们，给更多的人工作机会。”\n\n穷爸爸经常教罗伯特怎么制作一个让人印象深刻的简历。\n而富爸爸则教他写自己的商业计划书和财务计划表。\n\n穷爸爸遇到一个特别贵的东西时，总是会习惯性的说：“这个我可付不起”，就不要再去想这个问题了。\n富爸爸则坚决禁止说这样的话，他总是会让罗伯特和迈克去想：“如果我要买这个东西，我要怎么做才能买得起？”\n\n穷爸爸花一笔钱都会思前想后很长时间，就像割自己的一块肉一样腾，生怕花出去的钱就再也回不来了。\n富爸爸不会这么拘谨，他告诉罗伯特要学会控制风险，一旦钱在风险控制之内，就大胆去投资。\n\n穷爸爸总是相信政府会满足人民的需求，他把自己的老年退休计划全部押注在政府身上，所以他平时最关心加薪、退休政策、医疗补贴、病假、津贴这些琐事，他最希望的生活就是晚年的时候政府能定期给他发钱。\n富爸爸就完全不相信这一套，他认为一个人如果有了别的依靠，就会不知不觉变得软弱，变得不思进取，而这些都是导致贫穷最重要的原因。一个人要始终对自己的财务状况负责，持续的学习才是最好的保障。\n\n最后两位爸爸去世的时候，穷爸爸留下来一大堆银行账单，而富爸爸留下了数亿美元的资金做慈善，迈克继承了富爸爸的事业，继续创造更多的钱。\n\n\n# 二. 穷人思维和富人思维\n\n本书作者 罗伯特 · 清崎 有两个爸爸，一个是 “穷爸爸” —— 他的亲生父亲，拥有高学历的教育官员；另一个则是 “富爸爸” —— 他好朋友的父亲，高中没毕业却善于投资理财的企业家。\n\n两个爸爸对金钱的观念截然不同，正如作者在书中写到的：\n\n> 如果我只有一个爸爸，那么对于他的建议我可以选择接受或者拒绝；但两个爸爸都给我建议，这就为我提供了一个在截然不同的观念间进行选择的机会，既选择富人的观念或穷人的观念。\n\n这里就引申出了穷人思维和富人思维：\n\n穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境；富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n\n# 三. 财商\n\n财商是一种非常重要的能力，但是大部分人都没有，这主要是因为大部分家长财商都很低，家里没人教，学校里也没人教，所以大部分人成年之后的财商都很低。这是大部分人一生都生活在财务困境之中的根源。\n\n那到底怎么提高财商呢？富爸爸给了两条建议。\n\n\n# 1. 第一条是富人不会为钱而工作\n\n富人不会为了一点点小钱就出卖自己的时间和劳动，那是穷人干的事情，富人都是把精力关注在自己的事业上，他们非常珍惜自己的时间和精力，富人会为了自己的成长和快乐而工作，不会只为了赚钱去工作。\n\n富爸爸给罗伯特讲了一个老鼠赛跑的例子。他说大多数受过传统教育的人，虽然每个人的情况千差万别，但整体上还是有惊人的相似性。比如从小被人告知，要好好学习，毕业后才能找到好工作，于是他们就像一只老鼠在一个笼子里一直跑一样， 如愿以偿的找了一份稳定的工作，然后结婚、生小孩，他们的职业可能是医生、律师，有着不错的收入，但是工资也就够付房费和供子女上学，然后他们为了改善生活，就更加努力的工作。刚刚升职加薪，开支也跟着上升，他们缴更多的税，有更多的开销， 刷更多的信用卡，欠更多的债，于是更加努力的工作。就像一只小老鼠在圆形笼子里快速奔跑一样，看上去非常的努力，实际上却在原地打转。\n\n那怎么才能摆脱这种老鼠赛跑的陷阱呢？首先就要学会直面自己的恐惧和欲望，学习理财的知识，提高财商，财商高了人就不会恐惧。\n\n大多数人出去找一份工作的动力都是因为恐惧，害怕付不起账单，害怕被解雇，害怕重新开始，大多数人都是钱的奴隶。为了消灭这种恐惧感，他们通常就会很廉价的出卖自己的劳动力，实际上很多人创造的价值远远超过他们所干的活。\n\n为了让罗伯特和迈克不为钱而工作，富爸爸很早就可以训练他们。有天富爸爸问他们想学怎么赚大钱吗？两个小朋友大声的说想！然后富爸爸说：“学可以，但是需要白干活，一分钱工资也没有，但是你们可以从我这任选一个工作， 每个工作都对应着一个技能，这些技能可以组合出一个事业。”\n\n从此两个小朋友开始免费为富爸爸工作，在免费工作之中罗伯特学会了不为钱而工作，而要为学习，为成长而工作。\n\n\n# 2. 第二条是学会区分资产和负债\n\n大多数人都分不清什么是资产，什么是负债。资产是能持续给你带来净现金流入的东西，负债是能持续的给你带来净现金流出的东西。\n\n比如你有一辆车，你可能觉得这就是你的资产，但其实不是，车是负债，你养护它需要源源不断的花钱。\n\n要变富唯一要做的就是搞清楚资产和负债的区别，并且不断地买入资产。\n\n这个规则听起来非常的简单，但是大部分人都不知道。\n\n大部分人是挣得多花得也多，他们大量的买入自以为是资产的负债，最后把自己的经济状况拖垮。\n\n一个年入百万，贷款买豪宅豪车，入不敷出的人依然是穷人。\n\n富人是怎么消费的呢？他们绝对不会用本来要去购买资产的钱去买负债，如果他们想要提升自己的生活品质，想要购买一些奢侈品，一定是用资产赚来的钱去购买，也就是说，他们会努力先把 钱生钱的模式 搭建起来，然后再去考虑消费。\n\n只有养成正确的金钱观，不断地购买资产，减少负债，想办法让钱生钱，才能尽早实现财务自由。\n\n\n# 四. 总结\n\n第一点是：穷人思维和富人思维的区别，穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境。富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n第二点是：提高财商的两个建议，富人不会为了钱而工作，富人学习区分资产与负债的不同，富人让钱为自己工作。",
-      "normalizedContent": "# 《富爸爸穷爸爸》\n\n笔记\n\n巴菲特曾经说过这样一句话：“一生能够积累多少财富，不取决于你能够赚多少钱，而取决于你如何投资理财，钱找人胜过人找钱，要懂得钱为你工作，而不是你为钱工作。”\n\n\n# 一. 摘要：两个爸爸的观念\n\n穷爸爸总是说：“贪婪是万恶之源，人就应该懂得节制，不要浑身都是铜臭味。”\n富爸爸总是说：“贫穷才是万恶之源，贫穷会放大人性的恶，会把人性中善的一面磨灭掉。与此相反，有钱才会帮助到更多的人，才会消灭掉世界更多的恶。”\n\n穷爸爸总是说：“你要好好学习，以后就能找一份好工作。”\n富爸爸总是说：“你要好好学习，这样以后你就能开自己的公司，创造很多就业机会给别人。你看见好的企业还能收购他们，给更多的人工作机会。”\n\n穷爸爸经常教罗伯特怎么制作一个让人印象深刻的简历。\n而富爸爸则教他写自己的商业计划书和财务计划表。\n\n穷爸爸遇到一个特别贵的东西时，总是会习惯性的说：“这个我可付不起”，就不要再去想这个问题了。\n富爸爸则坚决禁止说这样的话，他总是会让罗伯特和迈克去想：“如果我要买这个东西，我要怎么做才能买得起？”\n\n穷爸爸花一笔钱都会思前想后很长时间，就像割自己的一块肉一样腾，生怕花出去的钱就再也回不来了。\n富爸爸不会这么拘谨，他告诉罗伯特要学会控制风险，一旦钱在风险控制之内，就大胆去投资。\n\n穷爸爸总是相信政府会满足人民的需求，他把自己的老年退休计划全部押注在政府身上，所以他平时最关心加薪、退休政策、医疗补贴、病假、津贴这些琐事，他最希望的生活就是晚年的时候政府能定期给他发钱。\n富爸爸就完全不相信这一套，他认为一个人如果有了别的依靠，就会不知不觉变得软弱，变得不思进取，而这些都是导致贫穷最重要的原因。一个人要始终对自己的财务状况负责，持续的学习才是最好的保障。\n\n最后两位爸爸去世的时候，穷爸爸留下来一大堆银行账单，而富爸爸留下了数亿美元的资金做慈善，迈克继承了富爸爸的事业，继续创造更多的钱。\n\n\n# 二. 穷人思维和富人思维\n\n本书作者 罗伯特 · 清崎 有两个爸爸，一个是 “穷爸爸” —— 他的亲生父亲，拥有高学历的教育官员；另一个则是 “富爸爸” —— 他好朋友的父亲，高中没毕业却善于投资理财的企业家。\n\n两个爸爸对金钱的观念截然不同，正如作者在书中写到的：\n\n> 如果我只有一个爸爸，那么对于他的建议我可以选择接受或者拒绝；但两个爸爸都给我建议，这就为我提供了一个在截然不同的观念间进行选择的机会，既选择富人的观念或穷人的观念。\n\n这里就引申出了穷人思维和富人思维：\n\n穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境；富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n\n# 三. 财商\n\n财商是一种非常重要的能力，但是大部分人都没有，这主要是因为大部分家长财商都很低，家里没人教，学校里也没人教，所以大部分人成年之后的财商都很低。这是大部分人一生都生活在财务困境之中的根源。\n\n那到底怎么提高财商呢？富爸爸给了两条建议。\n\n\n# 1. 第一条是富人不会为钱而工作\n\n富人不会为了一点点小钱就出卖自己的时间和劳动，那是穷人干的事情，富人都是把精力关注在自己的事业上，他们非常珍惜自己的时间和精力，富人会为了自己的成长和快乐而工作，不会只为了赚钱去工作。\n\n富爸爸给罗伯特讲了一个老鼠赛跑的例子。他说大多数受过传统教育的人，虽然每个人的情况千差万别，但整体上还是有惊人的相似性。比如从小被人告知，要好好学习，毕业后才能找到好工作，于是他们就像一只老鼠在一个笼子里一直跑一样， 如愿以偿的找了一份稳定的工作，然后结婚、生小孩，他们的职业可能是医生、律师，有着不错的收入，但是工资也就够付房费和供子女上学，然后他们为了改善生活，就更加努力的工作。刚刚升职加薪，开支也跟着上升，他们缴更多的税，有更多的开销， 刷更多的信用卡，欠更多的债，于是更加努力的工作。就像一只小老鼠在圆形笼子里快速奔跑一样，看上去非常的努力，实际上却在原地打转。\n\n那怎么才能摆脱这种老鼠赛跑的陷阱呢？首先就要学会直面自己的恐惧和欲望，学习理财的知识，提高财商，财商高了人就不会恐惧。\n\n大多数人出去找一份工作的动力都是因为恐惧，害怕付不起账单，害怕被解雇，害怕重新开始，大多数人都是钱的奴隶。为了消灭这种恐惧感，他们通常就会很廉价的出卖自己的劳动力，实际上很多人创造的价值远远超过他们所干的活。\n\n为了让罗伯特和迈克不为钱而工作，富爸爸很早就可以训练他们。有天富爸爸问他们想学怎么赚大钱吗？两个小朋友大声的说想！然后富爸爸说：“学可以，但是需要白干活，一分钱工资也没有，但是你们可以从我这任选一个工作， 每个工作都对应着一个技能，这些技能可以组合出一个事业。”\n\n从此两个小朋友开始免费为富爸爸工作，在免费工作之中罗伯特学会了不为钱而工作，而要为学习，为成长而工作。\n\n\n# 2. 第二条是学会区分资产和负债\n\n大多数人都分不清什么是资产，什么是负债。资产是能持续给你带来净现金流入的东西，负债是能持续的给你带来净现金流出的东西。\n\n比如你有一辆车，你可能觉得这就是你的资产，但其实不是，车是负债，你养护它需要源源不断的花钱。\n\n要变富唯一要做的就是搞清楚资产和负债的区别，并且不断地买入资产。\n\n这个规则听起来非常的简单，但是大部分人都不知道。\n\n大部分人是挣得多花得也多，他们大量的买入自以为是资产的负债，最后把自己的经济状况拖垮。\n\n一个年入百万，贷款买豪宅豪车，入不敷出的人依然是穷人。\n\n富人是怎么消费的呢？他们绝对不会用本来要去购买资产的钱去买负债，如果他们想要提升自己的生活品质，想要购买一些奢侈品，一定是用资产赚来的钱去购买，也就是说，他们会努力先把 钱生钱的模式 搭建起来，然后再去考虑消费。\n\n只有养成正确的金钱观，不断地购买资产，减少负债，想办法让钱生钱，才能尽早实现财务自由。\n\n\n# 四. 总结\n\n第一点是：穷人思维和富人思维的区别，穷人思维的人遇到钱的问题就逃避，不学习，不行动，财商一直都很低，最后当然就会面临财务困境。富人思维的人永远直面钱的问题，他们会学习理财知识，提高财商，最后钱会源源不断的涌向富人。\n\n第二点是：提高财商的两个建议，富人不会为了钱而工作，富人学习区分资产与负债的不同，富人让钱为自己工作。",
-      "charsets": {
-        "cjk": true
-      }
-    },
-    {
       "title": "你知道的越多，不知道的也就越多",
       "frontmatter": {
         "title": "你知道的越多，不知道的也就越多",
@@ -2436,7 +2481,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/%E9%9A%8F%E7%AC%94/%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E8%B6%8A%E5%A4%9A%EF%BC%8C%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%B9%9F%E5%B0%B1%E8%B6%8A%E5%A4%9A.html",
       "relativePath": "_posts/随笔/你知道的越多，不知道的也就越多.md",
-      "key": "v-83b3b774",
+      "key": "v-0bb031ce",
       "path": "/pages/f2e63f/",
       "excerpt": "<p>不知道大家有没有发现，我们身边经常有这样的人，他们越是有能力的，越是有知识的，越是低调，越是谦逊，因为他们深知，知道的越多，不知道的也就越多。</p>\n",
       "lastUpdated": "2022/08/17, 00:34:25",
@@ -2463,7 +2508,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/%E9%9A%8F%E7%AC%94/%E6%8B%A5%E6%8A%B1%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%8B%A5%E6%8A%B1%E5%BF%AB%E4%B9%90.html",
       "relativePath": "_posts/随笔/拥抱生活，拥抱快乐.md",
-      "key": "v-53b9d246",
+      "key": "v-cc47e8ce",
       "path": "/pages/cd8bde/",
       "excerpt": "<p>生活在后现代的今天，很多人都有一种虚无感，认为人生没有意义。但是，人生不可能没有意义，因为当你认为没有意义的时候，一定有一个与之相对应的概念叫有意义。</p>\n",
       "lastUpdated": "2022/08/17, 00:34:25",
@@ -2485,7 +2530,7 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "index.md",
-      "key": "v-2e83d46d",
+      "key": "v-64593500",
       "path": "/",
       "lastUpdated": "2022/08/17, 00:34:25",
       "headersStr": null,
@@ -2636,7 +2681,7 @@ export const siteData = {
     "logo": "/common/avatar.jpg",
     "searchMaxSuggestions": 10,
     "lastUpdated": "上次更新",
-    "contentBgStyle": 1,
+    "pageStyle": "line",
     "bodyBgImg": [
       "https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200507175828.jpeg",
       "https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200507175845.jpeg",
@@ -2700,41 +2745,41 @@ export const siteData = {
       },
       "/01.前端/": [
         {
-          "title": "学习专栏1",
+          "title": "学习专栏",
           "collapsable": false,
           "children": [
             [
-              "10.学习专栏1/01.《HTML》笔记.md",
+              "10.学习专栏/01.《HTML》笔记.md",
               "《HTML》笔记",
               "/note/html"
             ],
             [
-              "10.学习专栏1/02.《CSS》笔记.md",
+              "10.学习专栏/02.《CSS》笔记.md",
               "《CSS》笔记",
               "/note/css"
             ],
             [
-              "10.学习专栏1/03.《JavaScript》笔记.md",
+              "10.学习专栏/03.《JavaScript》笔记.md",
               "《JavaScript》笔记",
               "/note/javascript"
             ],
             [
-              "10.学习专栏1/04.《Vue》笔记.md",
+              "10.学习专栏/04.《Vue》笔记.md",
               "《Vue》笔记",
               "/note/vue"
             ],
             [
-              "10.学习专栏1/20.《规范》笔记.md",
+              "10.学习专栏/20.《规范》笔记.md",
               "《规范》笔记",
               "/note/specification"
             ],
             [
-              "10.学习专栏1/30.《软技能》笔记.md",
+              "10.学习专栏/30.《软技能》笔记.md",
               "《软技能》笔记",
               "/note/softSkill"
             ],
             [
-              "10.学习专栏1/35.《持续集成&交付&部署》笔记.md",
+              "10.学习专栏/35.《持续集成&交付&部署》笔记.md",
               "《持续集成&交付&部署》笔记",
               "/note/continuousDelivery"
             ]
@@ -3000,7 +3045,7 @@ export const siteData = {
       "eachFileWords": [
         {
           "name": "前端",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\00.目录页\\01.前端.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\00.目录页\\01.前端.md",
           "wordsCount": 55,
           "readingTime": "1",
           "pageComponent": {
@@ -3020,7 +3065,7 @@ export const siteData = {
         },
         {
           "name": "框架",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\00.目录页\\02.框架.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\00.目录页\\02.框架.md",
           "wordsCount": 57,
           "readingTime": "1",
           "pageComponent": {
@@ -3041,7 +3086,7 @@ export const siteData = {
         },
         {
           "name": "其他",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\00.目录页\\03.其他.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\00.目录页\\03.其他.md",
           "wordsCount": 58,
           "readingTime": "1",
           "pageComponent": {
@@ -3062,7 +3107,7 @@ export const siteData = {
         },
         {
           "name": "更多",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\00.目录页\\04.更多.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\00.目录页\\04.更多.md",
           "wordsCount": 61,
           "readingTime": "1",
           "pageComponent": {
@@ -3083,7 +3128,7 @@ export const siteData = {
         },
         {
           "name": "组件",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\00.目录页\\05.组件.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\00.目录页\\05.组件.md",
           "wordsCount": 59,
           "readingTime": "1",
           "pageComponent": {
@@ -3105,7 +3150,7 @@ export const siteData = {
         },
         {
           "name": "《HTML》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\10.学习专栏1\\01.《HTML》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\10.学习专栏\\01.《HTML》笔记.md",
           "wordsCount": 74,
           "readingTime": "1",
           "pageComponent": {
@@ -3125,7 +3170,7 @@ export const siteData = {
         },
         {
           "name": "《CSS》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\10.学习专栏1\\02.《CSS》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\10.学习专栏\\02.《CSS》笔记.md",
           "wordsCount": 74,
           "readingTime": "1",
           "pageComponent": {
@@ -3145,7 +3190,7 @@ export const siteData = {
         },
         {
           "name": "《JavaScript》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\10.学习专栏1\\03.《JavaScript》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\10.学习专栏\\03.《JavaScript》笔记.md",
           "wordsCount": 88,
           "readingTime": "1",
           "pageComponent": {
@@ -3165,7 +3210,7 @@ export const siteData = {
         },
         {
           "name": "《Vue》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\10.学习专栏1\\04.《Vue》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\10.学习专栏\\04.《Vue》笔记.md",
           "wordsCount": 92,
           "readingTime": "1",
           "pageComponent": {
@@ -3185,7 +3230,7 @@ export const siteData = {
         },
         {
           "name": "《规范》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\10.学习专栏1\\20.《规范》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\10.学习专栏\\20.《规范》笔记.md",
           "wordsCount": 56,
           "readingTime": "1",
           "pageComponent": {
@@ -3205,7 +3250,7 @@ export const siteData = {
         },
         {
           "name": "《软技能》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\10.学习专栏1\\30.《软技能》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\10.学习专栏\\30.《软技能》笔记.md",
           "wordsCount": 56,
           "readingTime": "1",
           "pageComponent": {
@@ -3225,7 +3270,7 @@ export const siteData = {
         },
         {
           "name": "《持续集成&交付&部署》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\10.学习专栏1\\35.《持续集成&交付&部署》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\10.学习专栏\\35.《持续集成&交付&部署》笔记.md",
           "wordsCount": 71,
           "readingTime": "1",
           "pageComponent": {
@@ -3245,7 +3290,7 @@ export const siteData = {
         },
         {
           "name": "《Element-UI 实践系列》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\20.踩坑专栏\\01.《Element-UI 实践系列》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\20.踩坑专栏\\01.《Element-UI 实践系列》笔记.md",
           "wordsCount": 83,
           "readingTime": "1",
           "pageComponent": {
@@ -3265,7 +3310,7 @@ export const siteData = {
         },
         {
           "name": "《移动端 实践系列》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\20.踩坑专栏\\06.《移动端 实践系列》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\20.踩坑专栏\\06.《移动端 实践系列》笔记.md",
           "wordsCount": 77,
           "readingTime": "1",
           "pageComponent": {
@@ -3285,7 +3330,7 @@ export const siteData = {
         },
         {
           "name": "《综合踩坑》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\20.踩坑专栏\\07.《综合踩坑》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\20.踩坑专栏\\07.《综合踩坑》笔记.md",
           "wordsCount": 71,
           "readingTime": "1",
           "pageComponent": {
@@ -3305,7 +3350,7 @@ export const siteData = {
         },
         {
           "name": "《Git》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\20.踩坑专栏\\10.《Git》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\20.踩坑专栏\\10.《Git》笔记.md",
           "wordsCount": 75,
           "readingTime": "1",
           "pageComponent": {
@@ -3325,7 +3370,7 @@ export const siteData = {
         },
         {
           "name": "《环境》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\30.配置专栏\\30.《环境》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\30.配置专栏\\30.《环境》笔记.md",
           "wordsCount": 72,
           "readingTime": "1",
           "pageComponent": {
@@ -3345,7 +3390,7 @@ export const siteData = {
         },
         {
           "name": "《面试》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\01.前端\\40.面试专栏\\01.《面试》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\01.前端\\40.面试专栏\\01.《面试》笔记.md",
           "wordsCount": 60,
           "readingTime": "1",
           "pageComponent": {
@@ -3365,7 +3410,7 @@ export const siteData = {
         },
         {
           "name": "Nginx - 介绍",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\02.框架\\30.高性能服务器 - Nginx\\01.Nginx - 介绍.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\02.框架\\30.高性能服务器 - Nginx\\01.Nginx - 介绍.md",
           "wordsCount": 200,
           "readingTime": "1",
           "title": "Nginx - 介绍",
@@ -3384,7 +3429,7 @@ export const siteData = {
         },
         {
           "name": "《开发编辑器》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\03.其他\\01.《编辑器笔记》\\01.《开发编辑器》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\03.其他\\01.《编辑器笔记》\\01.《开发编辑器》笔记.md",
           "wordsCount": 68,
           "readingTime": "1",
           "pageComponent": {
@@ -3404,7 +3449,7 @@ export const siteData = {
         },
         {
           "name": "《Chrome》笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\03.其他\\02.《浏览器笔记》\\01.《Chrome》笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\03.其他\\02.《浏览器笔记》\\01.《Chrome》笔记.md",
           "wordsCount": 62,
           "readingTime": "1",
           "pageComponent": {
@@ -3424,7 +3469,7 @@ export const siteData = {
         },
         {
           "name": "《程序员的Mac》",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\03.其他\\03.《Mac》笔记\\01.《程序员的Mac》.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\03.其他\\03.《Mac》笔记\\01.《程序员的Mac》.md",
           "wordsCount": 60,
           "readingTime": "1",
           "pageComponent": {
@@ -3444,7 +3489,7 @@ export const siteData = {
         },
         {
           "name": "《运营》",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\03.其他\\04.《跨界学习》笔记\\01.《运营》.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\03.其他\\04.《跨界学习》笔记\\01.《运营》.md",
           "wordsCount": 66,
           "readingTime": "1",
           "pageComponent": {
@@ -3464,12 +3509,15 @@ export const siteData = {
         },
         {
           "name": "home",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\04.luckyui\\01.comonent\\01.home.md",
-          "wordsCount": 18,
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\04.luckyui\\01.comonent\\01.home.md",
+          "wordsCount": 24,
           "readingTime": "1",
           "title": "快速上手",
           "date": "2022-03-24T15:12:58.000Z",
           "permalink": "/luckyui/home/",
+          "sidebar": false,
+          "article": false,
+          "comment": false,
           "categories": [
             null
           ],
@@ -3479,22 +3527,25 @@ export const siteData = {
         },
         {
           "name": "button",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\04.luckyui\\01.comonent\\02.button.md",
-          "wordsCount": 17,
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\04.luckyui\\01.comonent\\02.button.md",
+          "wordsCount": 25,
           "readingTime": "1",
           "title": "Button 按钮",
           "date": "2022-03-24T15:12:58.000Z",
           "permalink": "/luckyui/button/",
+          "article": false,
+          "comment": false,
+          "editLink": false,
           "categories": [
             null
           ],
           "tags": [
-            null
+            "组件"
           ]
         },
         {
           "name": "技术书籍",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\70.收藏夹\\20.我的\\01.技术书籍.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\70.收藏夹\\20.我的\\01.技术书籍.md",
           "wordsCount": "1.2k",
           "readingTime": "5.6m",
           "title": "技术书籍",
@@ -3509,7 +3560,7 @@ export const siteData = {
         },
         {
           "name": "技术书籍",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\70.收藏夹\\60.书单\\01.技术书籍.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\70.收藏夹\\60.书单\\01.技术书籍.md",
           "wordsCount": "1.2k",
           "readingTime": "5.6m",
           "title": "技术书籍",
@@ -3524,7 +3575,7 @@ export const siteData = {
         },
         {
           "name": "网站轮子",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\70.收藏夹\\75.收藏夹\\01.网站轮子.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\70.收藏夹\\75.收藏夹\\01.网站轮子.md",
           "wordsCount": 871,
           "readingTime": "3.9m",
           "title": "网站轮子",
@@ -3534,7 +3585,7 @@ export const siteData = {
         },
         {
           "name": "前端轮子",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\70.收藏夹\\75.收藏夹\\02.前端轮子.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\70.收藏夹\\75.收藏夹\\02.前端轮子.md",
           "wordsCount": 72,
           "readingTime": "1",
           "title": "前端轮子",
@@ -3549,7 +3600,7 @@ export const siteData = {
         },
         {
           "name": "Mac软件",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\70.收藏夹\\75.收藏夹\\03.Mac软件.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\70.收藏夹\\75.收藏夹\\03.Mac软件.md",
           "wordsCount": 924,
           "readingTime": "4.3m",
           "title": "Mac 软件",
@@ -3565,7 +3616,7 @@ export const siteData = {
         },
         {
           "name": "自我 - 关于",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\80.关于\\03.关于 - 自我\\01.自我 - 关于.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\80.关于\\03.关于 - 自我\\01.自我 - 关于.md",
           "wordsCount": 577,
           "readingTime": "2.9m",
           "title": "关于",
@@ -3580,7 +3631,7 @@ export const siteData = {
         },
         {
           "name": "本站 - 介绍",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\80.关于\\06.关于 - 本站\\01.本站 - 介绍.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\80.关于\\06.关于 - 本站\\01.本站 - 介绍.md",
           "wordsCount": "2.1k",
           "readingTime": "8m",
           "title": "本站 - 介绍",
@@ -3595,7 +3646,7 @@ export const siteData = {
         },
         {
           "name": "本站 - 导航站模块",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\80.关于\\06.关于 - 本站\\24.本站 - 导航站模块.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\80.关于\\06.关于 - 本站\\24.本站 - 导航站模块.md",
           "wordsCount": "1.1k",
           "readingTime": "5.2m",
           "title": "本站 - 导航站模块",
@@ -3610,7 +3661,7 @@ export const siteData = {
         },
         {
           "name": "本站 - 代码块隐藏模块",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\80.关于\\06.关于 - 本站\\28.本站 - 代码块隐藏模块.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\80.关于\\06.关于 - 本站\\28.本站 - 代码块隐藏模块.md",
           "wordsCount": "2.1k",
           "readingTime": "9.6m",
           "title": "本站 - 代码块隐藏模块",
@@ -3625,7 +3676,7 @@ export const siteData = {
         },
         {
           "name": "技巧 - 笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\80.关于\\08.关于 - 技巧\\02.技巧 - 笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\80.关于\\08.关于 - 技巧\\02.技巧 - 笔记.md",
           "wordsCount": "3.1k",
           "readingTime": "13.2m",
           "title": "技巧 - 笔记",
@@ -3640,7 +3691,7 @@ export const siteData = {
         },
         {
           "name": "费曼学习法",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\99.更多\\01.学习\\00.费曼学习法.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\99.更多\\01.学习\\00.费曼学习法.md",
           "wordsCount": 368,
           "readingTime": "1.3m",
           "title": "费曼学习法",
@@ -3655,7 +3706,7 @@ export const siteData = {
         },
         {
           "name": "面试问题集锦",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\99.更多\\03.面试\\01.面试问题集锦.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\99.更多\\03.面试\\01.面试问题集锦.md",
           "wordsCount": "6.8k",
           "readingTime": "22.7m",
           "title": "面试问题集锦",
@@ -3670,7 +3721,7 @@ export const siteData = {
         },
         {
           "name": "2分钟规则",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\99.更多\\10.实用技巧\\01.2分钟规则.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\99.更多\\10.实用技巧\\01.2分钟规则.md",
           "wordsCount": 268,
           "readingTime": "1",
           "title": "2 分钟规则",
@@ -3685,13 +3736,14 @@ export const siteData = {
         },
         {
           "name": "《小狗钱钱》读书笔记",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\_posts\\生活小记\\01.《小狗钱钱》读书笔记.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\_posts\\生活小记\\01.《小狗钱钱》读书笔记.md",
           "wordsCount": "2.5k",
           "readingTime": "8.5m",
           "title": "《小狗钱钱》读书笔记",
           "date": "2022-05-27T10:48:27.000Z",
           "permalink": "/pages/9ccd26/",
           "sidebarOpen": true,
+          "sticky": 1,
           "categories": [
             "生活小记"
           ],
@@ -3702,7 +3754,7 @@ export const siteData = {
         },
         {
           "name": "《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\_posts\\生活小记\\02.《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\_posts\\生活小记\\02.《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？.md",
           "wordsCount": "2.3k",
           "readingTime": "7.7m",
           "title": "《富爸爸穷爸爸》穷人思维和富人思维有什么区别呢？",
@@ -3719,13 +3771,13 @@ export const siteData = {
         },
         {
           "name": "自我所认知的自律",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\_posts\\随笔\\01.自我所认知的自律.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\_posts\\随笔\\01.自我所认知的自律.md",
           "wordsCount": "6.4k",
           "readingTime": "21.4m",
           "title": "自我所认知的自律",
           "date": "2018-06-06T20:36:00.000Z",
           "permalink": "/pages/0af0a3/",
-          "sticky": 1,
+          "sticky": 2,
           "sidebar": "auto",
           "sidebarOpen": false,
           "categories": [
@@ -3737,7 +3789,7 @@ export const siteData = {
         },
         {
           "name": "你知道的越多，不知道的也就越多",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\_posts\\随笔\\你知道的越多，不知道的也就越多.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\_posts\\随笔\\你知道的越多，不知道的也就越多.md",
           "wordsCount": 363,
           "readingTime": "1.2m",
           "title": "你知道的越多，不知道的也就越多",
@@ -3753,7 +3805,7 @@ export const siteData = {
         },
         {
           "name": "拥抱生活，拥抱快乐",
-          "filePath": "C:\\Users\\Administrator\\Desktop\\boke\\boke\\docs\\_posts\\随笔\\拥抱生活，拥抱快乐.md",
+          "filePath": "F:\\lakei\\Vue\\lakeiedward's\\docs\\_posts\\随笔\\拥抱生活，拥抱快乐.md",
           "wordsCount": 373,
           "readingTime": "1.3m",
           "title": "拥抱生活，拥抱快乐",
