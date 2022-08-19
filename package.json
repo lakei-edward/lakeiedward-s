@@ -2,7 +2,7 @@
   "name": "lakeiedward",
   "version": "1.0.0",
   "scripts": {
-    "docs:dev": "vuepress dev docs --temp .temp",
+    "docs:dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh",
     "editFm": "node utils/editFrontmatter.js",
