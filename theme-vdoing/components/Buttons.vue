@@ -68,7 +68,7 @@ export default {
           KEY: 'light'
         },
         {
-          name: '深色模式',
+          name: '暗黑模式',
           icon: 'icon-yejianmoshi',
           KEY: 'dark'
         },

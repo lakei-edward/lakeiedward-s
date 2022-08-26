@@ -30,7 +30,7 @@ module.exports = {
   ], // body背景大图，默认无。 单张图片 String || 多张图片 Array, 多张图片时每隔15秒换一张。
   bodyBgImgOpacity: 0.5, // body背景图透明度，选值 0 ~ 1.0, 默认0.5
 
-  // titleBadge: false, // 文章标题前的图标是否显示，默认true
+  titleBadge: false, // 文章标题前的图标是否显示，默认true
   // titleBadgeIcons: [ // 文章标题前图标的地址，默认主题内置图标
   //   '图标地址1',
   //   '图标地址2'
@@ -41,7 +41,7 @@ module.exports = {
     showToArticle: false, // 显示到文章页底部，默认true
     // moreArticle: '/archives' // “更多文章”跳转的页面，默认'/archives'
   },
-  rightMenuBar: false, // 是否显示右侧文章大纲栏，默认true (屏宽小于1300px下无论如何都不显示)
+  rightMenuBar: true, // 是否显示右侧文章大纲栏，默认true (屏宽小于1300px下无论如何都不显示)
   // sidebarOpen: false, // 初始状态是否打开侧边栏，默认true
   // pageButton: false, // 是否显示快捷翻页按钮，默认true
 

@@ -5,6 +5,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "deploy": "bash deploy.sh",
+    "demo": "demo.sh",
     "editFm": "node utils/editFrontmatter.js",
     "publish": "cd theme-vdoing && npm publish && cd ../ && npm run updateTheme",
     "updateTheme": "npm uninstall vuepress-theme-vdoing && rm -rf node_modules && npm i && npm i vuepress-theme-vdoing -D"
@@ -26,6 +27,7 @@
   },
   "dependencies": {
     "busuanzi.pure.js": "^1.0.3",
+    "vue-luckyui": "^0.0.1",
     "vue-tabs-component": "^1.5.0",
     "vuepress-plugin-comment": "^0.7.3",
     "vuepress-plugin-tabs": "^0.3.0"
