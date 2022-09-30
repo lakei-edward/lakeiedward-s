@@ -6,10 +6,9 @@ node_modules
 yarn.lock
 
 # vscode
-.vscode
-
-# idea
-.idea
+*.vscode
+*.idea
+*.zip
 
 # vuepress
 docs/.vuepress/dist
