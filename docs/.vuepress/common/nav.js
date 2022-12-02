@@ -23,4 +23,8 @@ module.exports = [
   // otherNav,
   luckyui,
   indexNav, // 索引导航
+  {
+    text: "GitHub",
+    link: "https://github.com/lakei-edward",
+  },
 ];
