@@ -17,7 +17,7 @@ git push GitHub master
 git push Gitee master
 
 # 打包
-npm run docs:build
+npm run build
 
 #进入指定路径
 cd docs/.vuepress/
