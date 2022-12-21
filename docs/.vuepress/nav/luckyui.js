@@ -14,7 +14,7 @@ module.exports = {
         },
         {
           text: "vue-luckyui文档",
-          link: "https://lakei-edward.github.io/luckyui.github.io/",
+          link: "http://43.142.176.173/vue-luckyui/",
         },
       ],
     },
