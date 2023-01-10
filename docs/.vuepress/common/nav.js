@@ -14,13 +14,7 @@ module.exports = [
     text: "首页",
     link: "/",
   },
-  // {
-  //   text: "导航站",
-  //   link: "/navigation/",
-  // },
-  // frontEdnNav,
-  // frameNav,
-  // otherNav,
+  frontEdnNav,
   luckyui,
   indexNav, // 索引导航
   {
