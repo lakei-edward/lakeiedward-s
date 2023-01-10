@@ -6,7 +6,7 @@ module.exports = {
     // 没有二级导航时可以直接添加
     // { text: "vue-luckyui", link: "/luckyui/home/" },
     {
-      text: "UI组件",
+      text: "UI组件库",
       items: [
         {
           text: "vue-luckyui",
@@ -19,10 +19,10 @@ module.exports = {
       ],
     },
     {
-      text: "若依框架",
+      text: "若依页面分层工具",
       items: [
-        { text: "ry-page-json", link: "/luckyui/home/" },
-        { text: "ry-page-json文档", link: "/luckyui/home/" },
+        { text: "ry-layer-page", link: "https://github.com/lakei-edward/ry-layer-page" },
+        { text: "ry-layer-page文档", link: "http://43.142.176.173/ry-layer-page/" },
       ],
     },
   ],
