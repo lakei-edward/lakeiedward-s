@@ -498,7 +498,7 @@ function nextAllTipElement(elem) {
 }
 /* 页脚的颜色 */
 .vdoing-index-class .footer {
-  color: #fff;
+  color: #555;
 }
 .vdoing-index-class .search-box1 input {
   border-color: #fff;
