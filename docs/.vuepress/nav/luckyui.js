@@ -13,7 +13,7 @@ module.exports = {
         },
         {
           text: "vue-luckyui文档",
-          link: "http://43.142.176.173/vue-luckyui/",
+          link: "http://www.luckyui.cn/vue-luckyui/",
         },
       ],
     },
@@ -21,7 +21,7 @@ module.exports = {
       text: "若依页面分层工具",
       items: [
         { text: "ry-layer-page", link: "https://github.com/lakei-edward/ry-layer-page" },
-        { text: "ry-layer-page文档", link: "http://43.142.176.173/ry-layer-page/" },
+        { text: "ry-layer-page文档", link: "http://www.luckyui.cn/ry-layer-page/" },
       ],
     },
   ],

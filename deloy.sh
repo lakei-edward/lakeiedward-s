@@ -5,6 +5,6 @@ npm run build
 cd docs/.vuepress/
 
 # 上传到服务器
-scp -r dist/* root@43.142.176.173:/usr/local/nginx/html/lakeiedward/
+scp -r dist/* root@43.142.176.173:/data/nginx/html/lakeiedward/
 
 rimraf dist

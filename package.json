@@ -5,7 +5,6 @@
     "serve": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh",
-    "demo": "demo.sh",
     "editFm": "node utils/editFrontmatter.js",
     "publish": "cd theme-vdoing && npm publish && cd ../ && npm run updateTheme",
     "updateTheme": "npm uninstall vuepress-theme-vdoing && rm -rf node_modules && npm i && npm i vuepress-theme-vdoing -D"
@@ -13,6 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "dayjs": "^1.9.7",
+    "gray-matter": "^4.0.3",
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",
     "vuepress": "1.8.0",
